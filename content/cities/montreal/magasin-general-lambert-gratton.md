@@ -1,5 +1,5 @@
 ---
-title: "Magasin général Lambert gratton"
+title: "Magasin Général Lambert Gratton"
 url: /montreal/magasin-general-lambert-gratton/
 shop: variety store
 ---
