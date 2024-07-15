@@ -1,5 +1,5 @@
 ---
-title: "Wah Fung Ltee"
+title: "Wah Fung Ltée"
 url: /montreal/wah-fung-ltee/
-shop: gift
+shop: interior decoration
 ---
