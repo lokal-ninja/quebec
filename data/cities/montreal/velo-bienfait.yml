@@ -1,11 +1,11 @@
 id: 3600999989
 type: node
 latitude: 45.54089
-longitude: -73.59851
+longitude: -73.59859
 postcode: "H2G 1K9"
 city: Montréal
 street: "Rue Beaubien Est"
 housenumber: 1370
 phone: "+1-514-276-9999"
-opening_hours: ""
-website: ""
+opening_hours: "Mo,Fr 11:00-18:30; Sa 11:00-17:00; Su 11:00-16:30"
+website: "https://www.velobienfait.com/"
