@@ -1,6 +1,6 @@
 ---
-title: Notre-Dame-Du-Bon-Conseil
+title: Notre-Dame-du-Bon-Conseil
 url: /notre-dame-du-bon-conseil/
-latitude: 45.995
-longitude: -72.349
+latitude: 46.001
+longitude: -72.343
 ---
