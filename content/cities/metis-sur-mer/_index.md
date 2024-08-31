@@ -1,6 +1,6 @@
 ---
 title: Métis-sur-Mer
 url: /metis-sur-mer/
-latitude: 48.682
-longitude: -67.962
+latitude: 48.683
+longitude: -67.966
 ---
