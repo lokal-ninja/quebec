@@ -1,5 +1,5 @@
 ---
 title: "Lavigueur"
 url: /longueuil/lavigueur/
-shop: jewelry
+shop: Schmuck
 ---

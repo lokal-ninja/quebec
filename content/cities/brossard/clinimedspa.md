@@ -1,5 +1,5 @@
 ---
 title: "Clinimedspa"
 url: /brossard/clinimedspa/
-shop: beauty
+shop: Kosmetik
 ---

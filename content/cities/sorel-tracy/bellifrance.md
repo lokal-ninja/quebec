@@ -1,5 +1,5 @@
 ---
 title: "Bellifrance"
 url: /sorel-tracy/bellifrance/
-shop: pet
+shop: Tiere
 ---

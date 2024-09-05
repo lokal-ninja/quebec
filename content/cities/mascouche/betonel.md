@@ -1,5 +1,5 @@
 ---
 title: "Betonel"
 url: /mascouche/betonel/
-shop: paint
+shop: Farben
 ---

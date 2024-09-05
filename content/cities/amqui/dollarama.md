@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /amqui/dollarama/
-shop: variety store
+shop: Kramladen
 ---

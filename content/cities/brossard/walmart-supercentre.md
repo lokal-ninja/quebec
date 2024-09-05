@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercentre"
 url: /brossard/walmart-supercentre/
-shop: supermarket
+shop: Supermarkt
 ---

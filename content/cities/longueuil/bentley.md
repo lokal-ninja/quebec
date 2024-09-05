@@ -1,5 +1,5 @@
 ---
 title: "Bentley"
 url: /longueuil/bentley/
-shop: bag
+shop: Taschen & Koffer
 ---

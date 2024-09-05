@@ -1,5 +1,5 @@
 ---
 title: "CarrXpert"
 url: /carignan/carrxpert/
-shop: car repair
+shop: Autowerkstatt
 ---

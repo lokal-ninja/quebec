@@ -1,5 +1,5 @@
 ---
 title: "Provigo"
 url: /sherbrooke/provigo/
-shop: supermarket
+shop: Supermarkt
 ---

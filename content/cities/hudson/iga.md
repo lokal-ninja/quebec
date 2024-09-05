@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /hudson/iga/
-shop: supermarket
+shop: Supermarkt
 ---

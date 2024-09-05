@@ -1,5 +1,5 @@
 ---
 title: "Hui Tack Wing"
 url: /montreal/hui-tack-wing/
-shop: tea
+shop: Tee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mirna"
 url: /longueuil/mirna/
-shop: shoes
+shop: Schuhe
 ---

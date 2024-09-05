@@ -1,5 +1,5 @@
 ---
 title: "Frisør"
 url: /montreal/frisor/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Epiderma"
 url: /montreal/epiderma/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bluerock"
 url: /sainte-anne-de-bellevue/bluerock/
-shop: kitchen
+shop: Küchen
 ---

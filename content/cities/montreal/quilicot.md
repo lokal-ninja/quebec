@@ -1,5 +1,5 @@
 ---
 title: "Quilicot"
 url: /montreal/quilicot/
-shop: bicycle
+shop: Fahrrad
 ---

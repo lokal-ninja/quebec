@@ -1,5 +1,5 @@
 ---
 title: "BONISOIR"
 url: /levis/bonisoir/
-shop: convenience
+shop: Lebensmittel
 ---

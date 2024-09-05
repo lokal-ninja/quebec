@@ -1,5 +1,5 @@
 ---
 title: "Aubainerie"
 url: /montreal/aubainerie/
-shop: clothes
+shop: Kleidung
 ---

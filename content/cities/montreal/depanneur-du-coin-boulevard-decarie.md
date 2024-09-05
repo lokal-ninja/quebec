@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur du Coin"
 url: /montreal/depanneur-du-coin-boulevard-decarie/
-shop: convenience
+shop: Lebensmittel
 ---

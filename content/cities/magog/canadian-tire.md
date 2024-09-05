@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /magog/canadian-tire/
-shop: convenience
+shop: Lebensmittel
 ---

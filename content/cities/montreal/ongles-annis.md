@@ -1,5 +1,5 @@
 ---
 title: "Ongles Annis"
 url: /montreal/ongles-annis/
-shop: beauty
+shop: Kosmetik
 ---

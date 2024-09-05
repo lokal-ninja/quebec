@@ -1,5 +1,5 @@
 ---
 title: "Excavation Dynamic"
 url: /rigaud/excavation-dynamic/
-shop: shop
+shop: Allgemein
 ---

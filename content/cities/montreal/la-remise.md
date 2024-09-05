@@ -1,5 +1,5 @@
 ---
 title: "La Remise"
 url: /montreal/la-remise/
-shop: doityourself
+shop: Baumarkt
 ---

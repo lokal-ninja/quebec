@@ -1,5 +1,5 @@
 ---
 title: "Agrigourmet"
 url: /montreal/agrigourmet/
-shop: convenience
+shop: Lebensmittel
 ---

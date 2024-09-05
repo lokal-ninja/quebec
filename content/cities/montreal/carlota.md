@@ -1,5 +1,5 @@
 ---
 title: "Carlota"
 url: /montreal/carlota/
-shop: bakery
+shop: Bäckerei
 ---

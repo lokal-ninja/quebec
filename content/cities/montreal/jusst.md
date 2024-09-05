@@ -1,5 +1,5 @@
 ---
 title: "JUSST"
 url: /montreal/jusst/
-shop: bicycle
+shop: Fahrrad
 ---

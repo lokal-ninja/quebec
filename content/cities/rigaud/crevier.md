@@ -1,5 +1,5 @@
 ---
 title: "Crevier"
 url: /rigaud/crevier/
-shop: convenience
+shop: Lebensmittel
 ---

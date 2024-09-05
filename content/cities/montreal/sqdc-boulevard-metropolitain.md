@@ -1,5 +1,5 @@
 ---
 title: "SQDC"
 url: /montreal/sqdc-boulevard-metropolitain/
-shop: cannabis
+shop: Hanf
 ---

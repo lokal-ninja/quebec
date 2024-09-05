@@ -1,5 +1,5 @@
 ---
 title: "Centronaute"
 url: /longueuil/centronaute/
-shop: beauty
+shop: Kosmetik
 ---

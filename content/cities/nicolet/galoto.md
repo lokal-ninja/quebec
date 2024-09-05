@@ -1,5 +1,5 @@
 ---
 title: "Galoto"
 url: /nicolet/galoto/
-shop: bakery
+shop: Bäckerei
 ---

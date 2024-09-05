@@ -1,5 +1,5 @@
 ---
 title: "Noréa Foyers Pomerleau"
 url: /magog/norea-foyers-pomerleau/
-shop: fireplace
+shop: Kamine & Öfen
 ---

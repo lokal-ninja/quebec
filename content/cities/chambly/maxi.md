@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
 url: /chambly/maxi/
-shop: supermarket
+shop: Supermarkt
 ---

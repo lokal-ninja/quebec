@@ -1,5 +1,5 @@
 ---
 title: "Camping Sainte-Madeleine"
 url: /sainte-madeleine/camping-sainte-madeleine/
-shop: convenience
+shop: Lebensmittel
 ---

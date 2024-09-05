@@ -1,5 +1,5 @@
 ---
 title: "Solution Confort"
 url: /montreal/solution-confort/
-shop: shoes
+shop: Schuhe
 ---

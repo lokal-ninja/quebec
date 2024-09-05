@@ -1,5 +1,5 @@
 ---
 title: "CanaDream"
 url: /mirabel/canadream/
-shop: caravan
+shop: Wohnwagen
 ---

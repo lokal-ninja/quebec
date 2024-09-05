@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie L'Ancêtre"
 url: /becancour/fromagerie-lancetre/
-shop: cheese
+shop: Käse
 ---

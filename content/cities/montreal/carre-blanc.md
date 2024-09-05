@@ -1,5 +1,5 @@
 ---
 title: "Carré Blanc"
 url: /montreal/carre-blanc/
-shop: shop
+shop: Allgemein
 ---

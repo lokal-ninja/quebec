@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /la-prairie/saq/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Canac"
 url: /granby/canac/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lumen"
 url: /gatineau/lumen/
-shop: electrical
+shop: Elektrisch
 ---

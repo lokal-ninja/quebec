@@ -1,5 +1,5 @@
 ---
 title: "Jukado"
 url: /montreal/jukado/
-shop: shop
+shop: Allgemein
 ---

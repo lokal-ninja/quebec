@@ -1,5 +1,5 @@
 ---
 title: "Le Classic"
 url: /montreal/le-classic/
-shop: butcher
+shop: Metzgerei
 ---

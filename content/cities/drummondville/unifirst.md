@@ -1,5 +1,5 @@
 ---
 title: "Unifirst"
 url: /drummondville/unifirst/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mécanique du Palais"
 url: /saint-joseph-de-beauce/mecanique-du-palais/
-shop: car repair
+shop: Autowerkstatt
 ---

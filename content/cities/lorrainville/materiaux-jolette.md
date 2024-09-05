@@ -1,5 +1,5 @@
 ---
 title: "Matériaux Jolette"
 url: /lorrainville/materiaux-jolette/
-shop: hardware
+shop: Eisenwaren
 ---

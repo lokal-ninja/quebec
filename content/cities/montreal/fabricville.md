@@ -1,5 +1,5 @@
 ---
 title: "Fabricville"
 url: /montreal/fabricville/
-shop: fabric
+shop: Textil
 ---

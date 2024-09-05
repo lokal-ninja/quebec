@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /montreal/walmart/
-shop: department store
+shop: Warenhaus
 ---

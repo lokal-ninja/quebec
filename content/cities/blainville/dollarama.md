@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /blainville/dollarama/
-shop: variety store
+shop: Kramladen
 ---

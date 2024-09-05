@@ -1,5 +1,5 @@
 ---
 title: "Couche-Tard"
 url: /chambly/couche-tard/
-shop: convenience
+shop: Lebensmittel
 ---

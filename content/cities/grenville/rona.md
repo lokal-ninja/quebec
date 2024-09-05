@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /grenville/rona/
-shop: doityourself
+shop: Baumarkt
 ---

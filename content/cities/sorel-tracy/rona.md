@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /sorel-tracy/rona/
-shop: garden centre
+shop: Garten-Center
 ---

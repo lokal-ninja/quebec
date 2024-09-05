@@ -1,5 +1,5 @@
 ---
 title: "Ruby Mardi"
 url: /montreal/ruby-mardi/
-shop: florist
+shop: Blumen
 ---

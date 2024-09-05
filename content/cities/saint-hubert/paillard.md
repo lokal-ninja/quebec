@@ -1,5 +1,5 @@
 ---
 title: "Paillard"
 url: /saint-hubert/paillard/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bentley"
 url: /shawinigan/bentley/
-shop: bag
+shop: Taschen & Koffer
 ---

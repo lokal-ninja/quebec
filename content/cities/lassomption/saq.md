@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /lassomption/saq/
-shop: alcohol
+shop: Spirituosen
 ---

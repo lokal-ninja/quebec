@@ -1,5 +1,5 @@
 ---
 title: "Nedco"
 url: /drummondville/nedco/
-shop: electrical
+shop: Elektrisch
 ---

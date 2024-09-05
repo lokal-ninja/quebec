@@ -1,5 +1,5 @@
 ---
 title: "Voisin"
 url: /lavaltrie/voisin/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pentagone"
 url: /shawinigan/pentagone/
-shop: clothes
+shop: Kleidung
 ---

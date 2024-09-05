@@ -1,5 +1,5 @@
 ---
 title: "BMR"
 url: /causapscal/bmr/
-shop: hardware
+shop: Eisenwaren
 ---

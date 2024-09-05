@@ -1,5 +1,5 @@
 ---
 title: "Naturiste"
 url: /longueuil/naturiste/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Halte Bijoux"
 url: /montreal/halte-bijoux/
-shop: jewelry
+shop: Schmuck
 ---

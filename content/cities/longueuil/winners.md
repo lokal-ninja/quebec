@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /longueuil/winners/
-shop: clothes
+shop: Kleidung
 ---

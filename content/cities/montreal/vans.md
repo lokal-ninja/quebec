@@ -1,5 +1,5 @@
 ---
 title: "Vans"
 url: /montreal/vans/
-shop: shoes
+shop: Schuhe
 ---

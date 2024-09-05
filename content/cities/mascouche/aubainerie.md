@@ -1,5 +1,5 @@
 ---
 title: "Aubainerie"
 url: /mascouche/aubainerie/
-shop: clothes
+shop: Kleidung
 ---

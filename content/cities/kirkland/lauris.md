@@ -1,5 +1,5 @@
 ---
 title: "Lauri's"
 url: /kirkland/lauris/
-shop: clothes
+shop: Kleidung
 ---

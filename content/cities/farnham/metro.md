@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /farnham/metro/
-shop: supermarket
+shop: Supermarkt
 ---

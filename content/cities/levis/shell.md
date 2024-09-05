@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /levis/shell/
-shop: convenience
+shop: Lebensmittel
 ---

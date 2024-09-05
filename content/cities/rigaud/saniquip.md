@@ -1,5 +1,5 @@
 ---
 title: "Saniquip"
 url: /rigaud/saniquip/
-shop: storage rental
+shop: Mieten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amani"
 url: /montreal/amani/
-shop: hairdresser
+shop: Friseur
 ---

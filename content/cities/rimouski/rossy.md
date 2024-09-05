@@ -1,5 +1,5 @@
 ---
 title: "Rossy"
 url: /rimouski/rossy/
-shop: shop
+shop: Allgemein
 ---

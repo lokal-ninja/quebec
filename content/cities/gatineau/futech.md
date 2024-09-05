@@ -1,5 +1,5 @@
 ---
 title: "Futech"
 url: /gatineau/futech/
-shop: electrical
+shop: Elektrisch
 ---

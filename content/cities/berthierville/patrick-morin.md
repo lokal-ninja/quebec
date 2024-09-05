@@ -1,5 +1,5 @@
 ---
 title: "Patrick Morin"
 url: /berthierville/patrick-morin/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabagie"
 url: /longueuil/tabagie/
-shop: convenience
+shop: Lebensmittel
 ---

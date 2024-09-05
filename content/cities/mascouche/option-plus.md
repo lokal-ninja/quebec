@@ -1,5 +1,5 @@
 ---
 title: "Option Plus"
 url: /mascouche/option-plus/
-shop: clothes
+shop: Kleidung
 ---

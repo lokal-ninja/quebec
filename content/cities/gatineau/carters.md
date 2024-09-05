@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /gatineau/carters/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossy"
 url: /lasalle/rossy/
-shop: convenience
+shop: Lebensmittel
 ---

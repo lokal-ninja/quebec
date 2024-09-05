@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /candiac/costco/
-shop: wholesale
+shop: Großhandel
 ---

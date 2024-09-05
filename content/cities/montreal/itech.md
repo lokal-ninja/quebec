@@ -1,5 +1,5 @@
 ---
 title: "iTech"
 url: /montreal/itech/
-shop: mobile phone
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palumbo"
 url: /lasalle/palumbo/
-shop: supermarket
+shop: Supermarkt
 ---

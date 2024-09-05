@@ -1,5 +1,5 @@
 ---
 title: "Noursacs"
 url: /montreal/noursacs/
-shop: bag
+shop: Taschen & Koffer
 ---

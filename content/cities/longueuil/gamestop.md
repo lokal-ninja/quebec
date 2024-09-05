@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /longueuil/gamestop/
-shop: video games
+shop: Videospiele
 ---

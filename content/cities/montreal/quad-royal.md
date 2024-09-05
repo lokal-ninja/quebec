@@ -1,5 +1,5 @@
 ---
 title: "Quad Royal"
 url: /montreal/quad-royal/
-shop: shop
+shop: Allgemein
 ---

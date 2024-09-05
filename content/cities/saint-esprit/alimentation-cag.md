@@ -1,5 +1,5 @@
 ---
 title: "Alimentation CAG"
 url: /saint-esprit/alimentation-cag/
-shop: general
+shop: Dorfladen
 ---

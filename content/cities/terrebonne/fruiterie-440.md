@@ -1,5 +1,5 @@
 ---
 title: "Fruiterie 440"
 url: /terrebonne/fruiterie-440/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

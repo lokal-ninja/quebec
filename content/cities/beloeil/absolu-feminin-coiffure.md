@@ -1,5 +1,5 @@
 ---
 title: "Absolu féminin coiffure"
 url: /beloeil/absolu-feminin-coiffure/
-shop: hairdresser
+shop: Friseur
 ---

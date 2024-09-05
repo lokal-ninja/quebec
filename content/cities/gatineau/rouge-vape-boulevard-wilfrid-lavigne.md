@@ -1,5 +1,5 @@
 ---
 title: "Rouge Vape"
 url: /gatineau/rouge-vape-boulevard-wilfrid-lavigne/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

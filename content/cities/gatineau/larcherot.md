@@ -1,5 +1,5 @@
 ---
 title: "L'Archerot"
 url: /gatineau/larcherot/
-shop: outdoor
+shop: Outdoor
 ---

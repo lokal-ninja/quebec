@@ -1,5 +1,5 @@
 ---
 title: "Boutique Continental"
 url: /longueuil/boutique-continental/
-shop: boutique
+shop: Modehaus
 ---

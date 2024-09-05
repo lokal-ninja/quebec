@@ -1,5 +1,5 @@
 ---
 title: "Davélo"
 url: /montreal/davelo/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corbeil Electroménagers"
 url: /mascouche/corbeil-electromenagers/
-shop: appliance
+shop: Haushaltsgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oblic"
 url: /montreal/oblic/
-shop: hairdresser
+shop: Friseur
 ---
