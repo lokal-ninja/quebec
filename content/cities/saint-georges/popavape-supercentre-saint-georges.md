@@ -1,5 +1,5 @@
 ---
 title: "Popavape SuperCentre Saint-Georges"
 url: /saint-georges/popavape-supercentre-saint-georges/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

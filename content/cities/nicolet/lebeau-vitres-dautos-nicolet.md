@@ -1,5 +1,5 @@
 ---
 title: "Lebeau vitres d'autos Nicolet"
 url: /nicolet/lebeau-vitres-dautos-nicolet/
-shop: Autowerkstatt
+shop: car repair
 ---

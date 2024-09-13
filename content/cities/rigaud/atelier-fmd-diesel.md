@@ -1,5 +1,5 @@
 ---
 title: "Atelier FMD Diesel"
 url: /rigaud/atelier-fmd-diesel/
-shop: Autowerkstatt
+shop: car repair
 ---

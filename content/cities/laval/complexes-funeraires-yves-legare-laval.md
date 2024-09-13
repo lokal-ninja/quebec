@@ -1,5 +1,5 @@
 ---
 title: "Complexes funéraires Yves Légaré - Laval"
 url: /laval/complexes-funeraires-yves-legare-laval/
-shop: Bestattungen
+shop: funeral directors
 ---

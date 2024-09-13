@@ -1,5 +1,5 @@
 ---
 title: "Salon Barbier Chez Mostafa"
 url: /montreal/salon-barbier-chez-mostafa/
-shop: Friseur
+shop: hairdresser
 ---

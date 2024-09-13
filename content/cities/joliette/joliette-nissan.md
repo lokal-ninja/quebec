@@ -1,5 +1,5 @@
 ---
 title: "Joliette Nissan"
 url: /joliette/joliette-nissan/
-shop: Autohaus
+shop: car
 ---

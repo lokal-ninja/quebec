@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /sorel-tracy/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

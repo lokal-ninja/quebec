@@ -1,5 +1,5 @@
 ---
 title: "Focus Animal"
 url: /rosemere/focus-animal/
-shop: Tiersalon
+shop: pet grooming
 ---

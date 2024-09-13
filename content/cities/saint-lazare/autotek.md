@@ -1,5 +1,5 @@
 ---
 title: "Autotek"
 url: /saint-lazare/autotek/
-shop: Autowerkstatt
+shop: car repair
 ---

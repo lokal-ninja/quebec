@@ -1,5 +1,5 @@
 ---
 title: "Atelier Mécanique Lahey / Garage Lahey"
 url: /riviere-du-loup/atelier-mecanique-lahey-garage-lahey/
-shop: Autowerkstatt
+shop: car repair
 ---

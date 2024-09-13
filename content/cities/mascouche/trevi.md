@@ -1,5 +1,5 @@
 ---
 title: "Trevi"
 url: /mascouche/trevi/
-shop: Pool
+shop: swimming pool
 ---

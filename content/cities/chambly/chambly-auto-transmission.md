@@ -1,5 +1,5 @@
 ---
 title: "Chambly Auto Transmission"
 url: /chambly/chambly-auto-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

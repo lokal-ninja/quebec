@@ -1,5 +1,5 @@
 ---
 title: "Cadieux Automobiles"
 url: /rigaud/cadieux-automobiles/
-shop: Autowerkstatt
+shop: car repair
 ---

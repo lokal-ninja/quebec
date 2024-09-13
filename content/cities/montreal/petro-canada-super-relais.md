@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada - Super Relais"
 url: /montreal/petro-canada-super-relais/
-shop: Lebensmittel
+shop: convenience
 ---

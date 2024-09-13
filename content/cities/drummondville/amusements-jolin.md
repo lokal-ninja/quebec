@@ -1,5 +1,5 @@
 ---
 title: "Amusements Jolin"
 url: /drummondville/amusements-jolin/
-shop: Spiele
+shop: games
 ---

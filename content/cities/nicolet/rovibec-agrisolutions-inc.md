@@ -1,5 +1,5 @@
 ---
 title: "Rovibec Agrisolutions Inc."
 url: /nicolet/rovibec-agrisolutions-inc/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

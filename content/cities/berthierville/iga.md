@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /berthierville/iga/
-shop: Supermarkt
+shop: supermarket
 ---

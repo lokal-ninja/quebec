@@ -1,5 +1,5 @@
 ---
 title: "Lolë"
 url: /montreal/lole/
-shop: Kleidung
+shop: clothes
 ---

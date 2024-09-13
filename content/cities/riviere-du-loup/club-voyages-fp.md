@@ -1,5 +1,5 @@
 ---
 title: "Club Voyages FP"
 url: /riviere-du-loup/club-voyages-fp/
-shop: Reisebüro
+shop: travel agency
 ---

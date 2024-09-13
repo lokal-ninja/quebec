@@ -1,5 +1,5 @@
 ---
 title: "ICI Pneu Touchette - Verdun"
 url: /montreal/ici-pneu-touchette-verdun/
-shop: Autowerkstatt
+shop: car repair
 ---

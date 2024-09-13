@@ -1,5 +1,5 @@
 ---
 title: "Structube"
 url: /mascouche/structube/
-shop: Möbel
+shop: furniture
 ---

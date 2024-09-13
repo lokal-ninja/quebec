@@ -1,5 +1,5 @@
 ---
 title: "Entreposage Lamontagne"
 url: /magog/entreposage-lamontagne/
-shop: Mieten
+shop: storage rental
 ---

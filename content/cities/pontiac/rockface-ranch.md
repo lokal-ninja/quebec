@@ -1,5 +1,5 @@
 ---
 title: "Rockface Ranch"
 url: /pontiac/rockface-ranch/
-shop: Tiefkühl
+shop: frozen food
 ---

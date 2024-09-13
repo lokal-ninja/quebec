@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
 url: /gaspe/maxi/
-shop: Supermarkt
+shop: supermarket
 ---

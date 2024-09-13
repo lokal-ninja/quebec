@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Quali-T"
 url: /shawinigan-sud/depanneur-quali-t/
-shop: Lebensmittel
+shop: convenience
 ---

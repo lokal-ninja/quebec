@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /gatineau/metro-boulevard-greber/
-shop: Supermarkt
+shop: supermarket
 ---

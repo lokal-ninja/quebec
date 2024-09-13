@@ -1,5 +1,5 @@
 ---
 title: "Compagnons éternels"
 url: /rigaud/compagnons-eternels/
-shop: Bestattungen
+shop: funeral directors
 ---

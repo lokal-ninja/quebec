@@ -1,5 +1,5 @@
 ---
 title: "Chico"
 url: /chambly/chico/
-shop: Tiere
+shop: pet
 ---

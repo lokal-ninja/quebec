@@ -1,5 +1,5 @@
 ---
 title: "Fruiterie Muscat"
 url: /montreal/fruiterie-muscat/
-shop: Supermarkt
+shop: supermarket
 ---

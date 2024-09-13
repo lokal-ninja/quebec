@@ -1,5 +1,5 @@
 ---
 title: "Auto Focus International"
 url: /montreal/auto-focus-international/
-shop: Autohaus
+shop: car
 ---

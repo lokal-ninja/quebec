@@ -1,5 +1,5 @@
 ---
 title: "Petite Gourmandise"
 url: /longueuil/petite-gourmandise/
-shop: Konditorei
+shop: pastry
 ---

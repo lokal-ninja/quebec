@@ -1,5 +1,5 @@
 ---
 title: "Brossard Bagel"
 url: /greenfield-park/brossard-bagel/
-shop: Bäckerei
+shop: bakery
 ---

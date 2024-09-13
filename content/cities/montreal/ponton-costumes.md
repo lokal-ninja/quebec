@@ -1,5 +1,5 @@
 ---
 title: "Ponton Costumes"
 url: /montreal/ponton-costumes/
-shop: Kleidung
+shop: clothes
 ---

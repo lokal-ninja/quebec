@@ -1,5 +1,5 @@
 ---
 title: "Salon funéraire Maurice Demers"
 url: /beloeil/salon-funeraire-maurice-demers/
-shop: Bestattungen
+shop: funeral directors
 ---

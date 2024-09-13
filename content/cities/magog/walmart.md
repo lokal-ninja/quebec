@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /magog/walmart/
-shop: Warenhaus
+shop: department store
 ---

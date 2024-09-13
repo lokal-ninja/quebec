@@ -1,5 +1,5 @@
 ---
 title: "Pattes et griffes"
 url: /montreal/pattes-et-griffes/
-shop: Tiere
+shop: pet
 ---

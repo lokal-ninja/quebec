@@ -1,5 +1,5 @@
 ---
 title: "SAQ Sélection"
 url: /quebec/saq-selection-boulevard-laurier/
-shop: Spirituosen
+shop: alcohol
 ---

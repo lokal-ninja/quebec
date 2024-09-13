@@ -1,5 +1,5 @@
 ---
 title: "Entreposage Montréal mini-storage"
 url: /montreal/entreposage-montreal-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

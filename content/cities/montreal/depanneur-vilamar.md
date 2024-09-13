@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Vilamar"
 url: /montreal/depanneur-vilamar/
-shop: Lebensmittel
+shop: convenience
 ---

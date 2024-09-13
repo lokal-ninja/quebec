@@ -1,5 +1,5 @@
 ---
 title: "CopyCa"
 url: /montreal/copyca/
-shop: Kopieren
+shop: copyshop
 ---

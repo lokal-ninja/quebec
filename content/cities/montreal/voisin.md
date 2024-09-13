@@ -1,5 +1,5 @@
 ---
 title: "Voisin"
 url: /montreal/voisin/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CTM"
 url: /gatineau/ctm/
-shop: Handy
+shop: mobile phone
 ---

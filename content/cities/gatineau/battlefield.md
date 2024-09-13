@@ -1,5 +1,5 @@
 ---
 title: "Battlefield"
 url: /gatineau/battlefield/
-shop: Mieten
+shop: storage rental
 ---

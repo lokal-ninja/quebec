@@ -1,5 +1,5 @@
 ---
 title: "Buanderie"
 url: /montreal/buanderie-chemin-de-la-cote-des-neiges/
-shop: Wäscherei
+shop: laundry
 ---

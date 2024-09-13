@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /sherbrooke/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bouclair"
 url: /vaudreuil-dorion/bouclair/
-shop: Möbel
+shop: furniture
 ---

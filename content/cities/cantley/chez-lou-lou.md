@@ -1,5 +1,5 @@
 ---
 title: "Chez Lou Lou"
 url: /cantley/chez-lou-lou/
-shop: Lebensmittel
+shop: convenience
 ---

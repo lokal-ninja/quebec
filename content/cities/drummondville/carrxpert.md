@@ -1,5 +1,5 @@
 ---
 title: "Carrxpert"
 url: /drummondville/carrxpert/
-shop: Autowerkstatt
+shop: car repair
 ---

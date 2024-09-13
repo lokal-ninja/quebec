@@ -1,5 +1,5 @@
 ---
 title: "SDP Autosport Inc"
 url: /saint-etienne-des-gres/sdp-autosport-inc/
-shop: Autoteile
+shop: car parts
 ---

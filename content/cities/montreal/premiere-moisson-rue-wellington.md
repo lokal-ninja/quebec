@@ -1,5 +1,5 @@
 ---
 title: "Première Moisson"
 url: /montreal/premiere-moisson-rue-wellington/
-shop: Bäckerei
+shop: bakery
 ---

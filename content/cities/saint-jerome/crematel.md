@@ -1,5 +1,5 @@
 ---
 title: "Crématel"
 url: /saint-jerome/crematel/
-shop: Bestattungen
+shop: funeral directors
 ---

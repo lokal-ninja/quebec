@@ -1,5 +1,5 @@
 ---
 title: "Gourmande Boutique"
 url: /sherbrooke/gourmande-boutique/
-shop: Andenken
+shop: gift
 ---

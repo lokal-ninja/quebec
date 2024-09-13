@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /rigaud/dollarama/
-shop: Kramladen
+shop: variety store
 ---

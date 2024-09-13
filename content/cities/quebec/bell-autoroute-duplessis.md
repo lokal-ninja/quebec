@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /quebec/bell-autoroute-duplessis/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blainville Mitsubishi"
 url: /blainville/blainville-mitsubishi/
-shop: Autohaus
+shop: car
 ---

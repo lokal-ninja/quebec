@@ -1,5 +1,5 @@
 ---
 title: "Genitech"
 url: /montreal/genitech/
-shop: Elektronik
+shop: electronics
 ---

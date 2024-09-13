@@ -1,5 +1,5 @@
 ---
 title: "Intercar"
 url: /longueuil/intercar/
-shop: Reisebüro
+shop: travel agency
 ---

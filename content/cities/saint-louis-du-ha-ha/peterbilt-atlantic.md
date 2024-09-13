@@ -1,5 +1,5 @@
 ---
 title: "Peterbilt Atlantic"
 url: /saint-louis-du-ha-ha/peterbilt-atlantic/
-shop: Autohaus
+shop: car
 ---

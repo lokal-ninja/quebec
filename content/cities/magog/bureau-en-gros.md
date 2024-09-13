@@ -1,5 +1,5 @@
 ---
 title: "Bureau en Gros"
 url: /magog/bureau-en-gros/
-shop: Schreibwaren
+shop: office supplies
 ---

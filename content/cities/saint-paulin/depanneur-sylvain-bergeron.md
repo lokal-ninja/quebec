@@ -1,5 +1,5 @@
 ---
 title: "Depanneur Sylvain Bergeron"
 url: /saint-paulin/depanneur-sylvain-bergeron/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Épicerie Sonia"
 url: /saint-camille/epicerie-sonia/
-shop: Supermarkt
+shop: supermarket
 ---

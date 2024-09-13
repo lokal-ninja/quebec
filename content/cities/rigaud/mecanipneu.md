@@ -1,5 +1,5 @@
 ---
 title: "Mécanipneu"
 url: /rigaud/mecanipneu/
-shop: Autowerkstatt
+shop: car repair
 ---

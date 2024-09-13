@@ -1,5 +1,5 @@
 ---
 title: "Yellow"
 url: /rosemere/yellow/
-shop: Schuhe
+shop: shoes
 ---

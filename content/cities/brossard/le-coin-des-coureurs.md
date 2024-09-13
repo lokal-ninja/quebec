@@ -1,5 +1,5 @@
 ---
 title: "Le Coin des Coureurs"
 url: /brossard/le-coin-des-coureurs/
-shop: Kleidung
+shop: clothes
 ---

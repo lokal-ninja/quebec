@@ -1,5 +1,5 @@
 ---
 title: "La Planque Mtl"
 url: /montreal/la-planque-mtl/
-shop: Tattoo
+shop: tattoo
 ---

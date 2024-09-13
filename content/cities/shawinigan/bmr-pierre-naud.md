@@ -1,5 +1,5 @@
 ---
 title: "BMR Pierre Naud"
 url: /shawinigan/bmr-pierre-naud/
-shop: Eisenwaren
+shop: hardware
 ---

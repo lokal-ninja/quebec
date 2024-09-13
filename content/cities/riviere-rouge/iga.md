@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /riviere-rouge/iga/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Indigo"
 url: /pointe-claire/indigo/
-shop: Bücher
+shop: books
 ---

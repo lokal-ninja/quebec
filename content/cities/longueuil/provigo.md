@@ -1,5 +1,5 @@
 ---
 title: "Provigo"
 url: /longueuil/provigo/
-shop: Supermarkt
+shop: supermarket
 ---

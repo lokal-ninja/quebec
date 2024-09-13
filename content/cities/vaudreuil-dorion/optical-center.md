@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /vaudreuil-dorion/optical-center/
-shop: Optiker
+shop: optician
 ---

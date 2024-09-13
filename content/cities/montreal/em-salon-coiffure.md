@@ -1,5 +1,5 @@
 ---
 title: "Em salon coiffure"
 url: /montreal/em-salon-coiffure/
-shop: Friseur
+shop: hairdresser
 ---

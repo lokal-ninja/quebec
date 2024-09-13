@@ -1,5 +1,5 @@
 ---
 title: "Ma Bicyclette"
 url: /montreal/ma-bicyclette/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chic Choco Latté"
 url: /victoriaville/chic-choco-latte/
-shop: Eisprodukte
+shop: ice cream
 ---

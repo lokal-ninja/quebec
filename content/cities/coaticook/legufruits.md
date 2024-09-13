@@ -1,5 +1,5 @@
 ---
 title: "Légufruits"
 url: /coaticook/legufruits/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

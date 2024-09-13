@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /anjou/costco/
-shop: Großhandel
+shop: wholesale
 ---

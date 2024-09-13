@@ -1,5 +1,5 @@
 ---
 title: "Librairie Michel Fortin"
 url: /montreal/librairie-michel-fortin/
-shop: Bücher
+shop: books
 ---

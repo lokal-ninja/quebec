@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur l'accomodeur"
 url: /montreal/depanneur-laccomodeur/
-shop: Lebensmittel
+shop: convenience
 ---

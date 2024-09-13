@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /pointe-claire/bell-rte-transcanadienne-ouest/
-shop: Handy
+shop: mobile phone
 ---

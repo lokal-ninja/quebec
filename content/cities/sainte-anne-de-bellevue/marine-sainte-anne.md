@@ -1,5 +1,5 @@
 ---
 title: "Marine Sainte-Anne"
 url: /sainte-anne-de-bellevue/marine-sainte-anne/
-shop: Boot
+shop: boat
 ---

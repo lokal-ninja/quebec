@@ -1,5 +1,5 @@
 ---
 title: "Marché d'alimentation Francoeur"
 url: /drummondville/marche-dalimentation-francoeur/
-shop: Supermarkt
+shop: supermarket
 ---

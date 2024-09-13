@@ -1,5 +1,5 @@
 ---
 title: "Électronique et Plus"
 url: /montreal/electronique-et-plus/
-shop: Elektronik
+shop: electronics
 ---

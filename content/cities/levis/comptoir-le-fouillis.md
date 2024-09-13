@@ -1,5 +1,5 @@
 ---
 title: "Comptoir Le Fouillis"
 url: /levis/comptoir-le-fouillis/
-shop: Kleidung
+shop: clothes
 ---

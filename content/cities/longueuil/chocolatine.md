@@ -1,5 +1,5 @@
 ---
 title: "Chocolatine"
 url: /longueuil/chocolatine/
-shop: Bäckerei
+shop: bakery
 ---

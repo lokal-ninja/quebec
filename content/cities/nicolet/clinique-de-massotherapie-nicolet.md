@@ -1,5 +1,5 @@
 ---
 title: "Clinique de massothérapie Nicolet"
 url: /nicolet/clinique-de-massotherapie-nicolet/
-shop: Massage
+shop: massage
 ---

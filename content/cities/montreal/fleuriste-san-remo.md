@@ -1,5 +1,5 @@
 ---
 title: "Fleuriste San Remo"
 url: /montreal/fleuriste-san-remo/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tony Depanneur"
 url: /saint-leonard/tony-depanneur/
-shop: Lebensmittel
+shop: convenience
 ---

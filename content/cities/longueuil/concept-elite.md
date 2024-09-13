@@ -1,5 +1,5 @@
 ---
 title: "Concept Élite"
 url: /longueuil/concept-elite/
-shop: Kosmetik
+shop: beauty
 ---

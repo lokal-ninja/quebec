@@ -1,5 +1,5 @@
 ---
 title: "Star Bédard"
 url: /sherbrooke/star-bedard/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

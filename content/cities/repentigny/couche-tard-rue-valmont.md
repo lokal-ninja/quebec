@@ -1,5 +1,5 @@
 ---
 title: "Couche-Tard"
 url: /repentigny/couche-tard-rue-valmont/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Groupe Nettoyeur A Sec"
 url: /candiac/groupe-nettoyeur-a-sec/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Provigo"
 url: /montreal/provigo-avenue-de-monkland/
-shop: Supermarkt
+shop: supermarket
 ---

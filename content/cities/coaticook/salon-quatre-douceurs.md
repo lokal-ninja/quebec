@@ -1,5 +1,5 @@
 ---
 title: "Salon Quatre Douceurs"
 url: /coaticook/salon-quatre-douceurs/
-shop: Friseur
+shop: hairdresser
 ---

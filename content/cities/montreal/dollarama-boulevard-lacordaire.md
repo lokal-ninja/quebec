@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /montreal/dollarama-boulevard-lacordaire/
-shop: Kramladen
+shop: variety store
 ---

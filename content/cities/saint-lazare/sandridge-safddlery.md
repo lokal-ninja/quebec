@@ -1,5 +1,5 @@
 ---
 title: "Sandridge Safddlery"
 url: /saint-lazare/sandridge-safddlery/
-shop: Pferde
+shop: equestrian
 ---

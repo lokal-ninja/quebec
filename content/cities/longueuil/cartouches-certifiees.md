@@ -1,5 +1,5 @@
 ---
 title: "Cartouches Certifiées"
 url: /longueuil/cartouches-certifiees/
-shop: Kopieren
+shop: copyshop
 ---

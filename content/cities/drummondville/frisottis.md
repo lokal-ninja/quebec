@@ -1,5 +1,5 @@
 ---
 title: "Frisottis"
 url: /drummondville/frisottis/
-shop: Friseur
+shop: hairdresser
 ---

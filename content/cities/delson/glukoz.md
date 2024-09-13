@@ -1,5 +1,5 @@
 ---
 title: "GLUKOZ"
 url: /delson/glukoz/
-shop: Konditorei
+shop: pastry
 ---

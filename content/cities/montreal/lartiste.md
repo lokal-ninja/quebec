@@ -1,5 +1,5 @@
 ---
 title: "L'Artiste"
 url: /montreal/lartiste/
-shop: Autowerkstatt
+shop: car repair
 ---

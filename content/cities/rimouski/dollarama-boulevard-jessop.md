@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /rimouski/dollarama-boulevard-jessop/
-shop: Kramladen
+shop: variety store
 ---

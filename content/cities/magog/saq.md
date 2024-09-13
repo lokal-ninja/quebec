@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /magog/saq/
-shop: Spirituosen
+shop: alcohol
 ---

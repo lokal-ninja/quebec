@@ -1,5 +1,5 @@
 ---
 title: "Authentik Canada"
 url: /montreal/authentik-canada/
-shop: Reisebüro
+shop: travel agency
 ---

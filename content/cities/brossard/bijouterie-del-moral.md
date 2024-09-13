@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Del Moral"
 url: /brossard/bijouterie-del-moral/
-shop: Schmuck
+shop: jewelry
 ---

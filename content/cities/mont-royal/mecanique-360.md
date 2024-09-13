@@ -1,5 +1,5 @@
 ---
 title: "Mécanique 360"
 url: /mont-royal/mecanique-360/
-shop: Autowerkstatt
+shop: car repair
 ---

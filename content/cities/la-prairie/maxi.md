@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
 url: /la-prairie/maxi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Beau-Matin"
 url: /montreal/depanneur-beau-matin/
-shop: Lebensmittel
+shop: convenience
 ---

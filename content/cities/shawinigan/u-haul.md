@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /shawinigan/u-haul/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pièces D'autos B M"
 url: /matapedia/pieces-dautos-b-m/
-shop: Autoteile
+shop: car parts
 ---

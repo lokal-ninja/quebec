@@ -1,5 +1,5 @@
 ---
 title: "Launda Inc"
 url: /laval/launda-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

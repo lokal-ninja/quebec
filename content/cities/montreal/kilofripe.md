@@ -1,5 +1,5 @@
 ---
 title: "KILOfripe"
 url: /montreal/kilofripe/
-shop: Kleidung
+shop: clothes
 ---

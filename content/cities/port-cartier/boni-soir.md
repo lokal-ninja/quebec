@@ -1,5 +1,5 @@
 ---
 title: "Boni-Soir"
 url: /port-cartier/boni-soir/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tigre Géant"
 url: /gatineau/tigre-geant-boulevard-greber/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /gatineau/dollarama-boulevard-des-grives/
-shop: Kramladen
+shop: variety store
 ---

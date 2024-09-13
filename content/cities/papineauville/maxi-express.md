@@ -1,5 +1,5 @@
 ---
 title: "Maxi Express"
 url: /papineauville/maxi-express/
-shop: Lebensmittel
+shop: convenience
 ---

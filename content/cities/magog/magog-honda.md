@@ -1,5 +1,5 @@
 ---
 title: "Magog Honda"
 url: /magog/magog-honda/
-shop: Autohaus
+shop: car
 ---

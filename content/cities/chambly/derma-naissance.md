@@ -1,5 +1,5 @@
 ---
 title: "Derma Naissance"
 url: /chambly/derma-naissance/
-shop: Kosmetik
+shop: beauty
 ---

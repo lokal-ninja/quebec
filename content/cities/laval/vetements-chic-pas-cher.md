@@ -1,5 +1,5 @@
 ---
 title: "Vêtements Chic Pas Cher"
 url: /laval/vetements-chic-pas-cher/
-shop: Kleidung
+shop: clothes
 ---

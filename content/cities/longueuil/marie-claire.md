@@ -1,5 +1,5 @@
 ---
 title: "Marie Claire"
 url: /longueuil/marie-claire/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boire Grand"
 url: /montreal/boire-grand/
-shop: Spirituosen
+shop: alcohol
 ---

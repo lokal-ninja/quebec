@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /montreal/saq-chemin-de-la-cote-des-neiges/
-shop: Spirituosen
+shop: alcohol
 ---

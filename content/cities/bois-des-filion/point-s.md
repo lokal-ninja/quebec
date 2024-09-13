@@ -1,5 +1,5 @@
 ---
 title: "Point S"
 url: /bois-des-filion/point-s/
-shop: Autowerkstatt
+shop: car repair
 ---

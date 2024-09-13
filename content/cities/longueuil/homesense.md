@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /longueuil/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Soir"
 url: /saint-raphael/super-soir/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "StorageMart"
 url: /laval/storagemart/
-shop: Mieten
+shop: storage rental
 ---

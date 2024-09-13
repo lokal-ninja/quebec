@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /pierrefonds/sherwin-williams/
-shop: Farben
+shop: paint
 ---

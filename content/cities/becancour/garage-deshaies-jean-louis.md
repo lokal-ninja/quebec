@@ -1,5 +1,5 @@
 ---
 title: "Garage Deshaies Jean-Louis"
 url: /becancour/garage-deshaies-jean-louis/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Athame"
 url: /montreal/athame/
-shop: Tattoo
+shop: tattoo
 ---

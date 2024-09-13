@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /mascouche/dollarama/
-shop: Kramladen
+shop: variety store
 ---

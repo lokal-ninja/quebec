@@ -1,5 +1,5 @@
 ---
-title: "DODO BAZAAR"
+title: "Dodo Bazaar"
 url: /montreal/dodo-bazaar/
-shop: Kleidung
+shop: clothes
 ---

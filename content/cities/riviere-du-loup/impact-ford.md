@@ -1,5 +1,5 @@
 ---
 title: "Impact Ford"
 url: /riviere-du-loup/impact-ford/
-shop: Autohaus
+shop: car
 ---

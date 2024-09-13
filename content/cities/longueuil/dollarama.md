@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /longueuil/dollarama/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /chambly/metro/
-shop: Supermarkt
+shop: supermarket
 ---

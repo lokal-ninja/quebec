@@ -1,5 +1,5 @@
 ---
 title: "Royal Photo"
 url: /montreal/royal-photo/
-shop: Kamera
+shop: camera
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marché Caron"
 url: /saint-antonin/marche-caron/
-shop: Lebensmittel
+shop: convenience
 ---

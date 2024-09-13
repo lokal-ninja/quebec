@@ -1,5 +1,5 @@
 ---
 title: "Coopsco Aménagement"
 url: /montreal/coopsco-amenagement/
-shop: Schreibwaren
+shop: office supplies
 ---

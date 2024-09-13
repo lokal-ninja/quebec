@@ -1,5 +1,5 @@
 ---
 title: "Scrupules et cie"
 url: /montreal/scrupules-et-cie/
-shop: Friseur
+shop: hairdresser
 ---

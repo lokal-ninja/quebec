@@ -1,5 +1,5 @@
 ---
 title: "Mécanique LPG Inc"
 url: /saint-donat/mecanique-lpg-inc-rue-principale/
-shop: Autowerkstatt
+shop: car repair
 ---

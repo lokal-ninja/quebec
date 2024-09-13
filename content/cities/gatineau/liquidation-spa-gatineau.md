@@ -1,5 +1,5 @@
 ---
 title: "Liquidation Spa Gatineau"
 url: /gatineau/liquidation-spa-gatineau/
-shop: Möbel
+shop: furniture
 ---

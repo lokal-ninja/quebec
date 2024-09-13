@@ -1,5 +1,5 @@
 ---
 title: "Ma petite friperie"
 url: /gatineau/ma-petite-friperie/
-shop: Kleidung
+shop: clothes
 ---

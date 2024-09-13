@@ -1,5 +1,5 @@
 ---
 title: "Costco Propane"
 url: /drummondville/costco-propane/
-shop: Gasflaschen
+shop: gas
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /gatineau/rona-boulevard-maloney-est/
-shop: Baumarkt
+shop: doityourself
 ---

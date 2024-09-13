@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /boisbriand/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /hawkesbury/dollarama-county-road-17/
-shop: Kramladen
+shop: variety store
 ---

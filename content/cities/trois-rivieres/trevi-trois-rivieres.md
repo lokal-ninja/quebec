@@ -1,5 +1,5 @@
 ---
 title: "Trévi Trois-Rivières"
 url: /trois-rivieres/trevi-trois-rivieres/
-shop: Pool
+shop: swimming pool
 ---

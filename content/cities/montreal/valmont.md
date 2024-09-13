@@ -1,5 +1,5 @@
 ---
 title: "Valmont"
 url: /montreal/valmont/
-shop: Supermarkt
+shop: supermarket
 ---

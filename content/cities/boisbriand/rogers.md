@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /boisbriand/rogers/
-shop: Handy
+shop: mobile phone
 ---

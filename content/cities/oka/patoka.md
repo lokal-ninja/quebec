@@ -1,5 +1,5 @@
 ---
 title: "PatOKA"
 url: /oka/patoka/
-shop: Bäckerei
+shop: bakery
 ---

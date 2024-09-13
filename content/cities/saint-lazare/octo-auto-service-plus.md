@@ -1,5 +1,5 @@
 ---
 title: "OCTO Auto Service Plus"
 url: /saint-lazare/octo-auto-service-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

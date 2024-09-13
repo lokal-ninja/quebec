@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /longueuil/saq/
-shop: Spirituosen
+shop: alcohol
 ---

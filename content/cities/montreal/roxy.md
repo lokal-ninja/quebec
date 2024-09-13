@@ -1,5 +1,5 @@
 ---
 title: "Roxy"
 url: /montreal/roxy/
-shop: Friseur
+shop: hairdresser
 ---

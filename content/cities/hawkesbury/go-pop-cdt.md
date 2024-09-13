@@ -1,5 +1,5 @@
 ---
 title: "Go Pop CDT"
 url: /hawkesbury/go-pop-cdt/
-shop: Kleidung
+shop: clothes
 ---

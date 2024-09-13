@@ -1,5 +1,5 @@
 ---
 title: "Tite Frette"
 url: /gatineau/tite-frette/
-shop: Spirituosen
+shop: alcohol
 ---

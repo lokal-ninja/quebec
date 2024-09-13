@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Passion Couleurs"
 url: /victoriaville/coiffure-passion-couleurs/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jaymart"
 url: /montreal/jaymart/
-shop: Andenken
+shop: gift
 ---

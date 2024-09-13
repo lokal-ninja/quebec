@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /nicolet/dollarama/
-shop: Kramladen
+shop: variety store
 ---

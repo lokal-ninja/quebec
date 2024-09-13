@@ -1,5 +1,5 @@
 ---
 title: "Tau Aliments Naturels"
 url: /montreal/tau-aliments-naturels/
-shop: Bioladen
+shop: health food
 ---

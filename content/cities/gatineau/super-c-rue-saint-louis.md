@@ -1,5 +1,5 @@
 ---
 title: "Super C"
 url: /gatineau/super-c-rue-saint-louis/
-shop: Supermarkt
+shop: supermarket
 ---

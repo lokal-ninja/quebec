@@ -1,5 +1,5 @@
 ---
 title: "Les éditions Frémontel"
 url: /montreal/les-editions-fremontel/
-shop: Wettbüro
+shop: bookmaker
 ---

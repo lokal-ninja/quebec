@@ -1,5 +1,5 @@
 ---
 title: "Alexandre Lyonnais Creation"
 url: /montreal/alexandre-lyonnais-creation/
-shop: Kunst
+shop: art
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vitro Plus"
 url: /laval/vitro-plus/
-shop: Autohaus
+shop: car
 ---

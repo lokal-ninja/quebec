@@ -1,5 +1,5 @@
 ---
 title: "SAQ Express"
 url: /gatineau/saq-express/
-shop: Spirituosen
+shop: alcohol
 ---

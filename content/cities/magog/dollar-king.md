@@ -1,5 +1,5 @@
 ---
 title: "Dollar King"
 url: /magog/dollar-king/
-shop: Kramladen
+shop: variety store
 ---

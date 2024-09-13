@@ -1,5 +1,5 @@
 ---
 title: "Renaissance"
 url: /laval/renaissance/
-shop: Gebrauchtwaren
+shop: charity
 ---

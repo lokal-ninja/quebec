@@ -1,5 +1,5 @@
 ---
 title: "MONTREAL NAIL SUPPLY"
 url: /montreal/montreal-nail-supply/
-shop: Kosmetik
+shop: beauty
 ---

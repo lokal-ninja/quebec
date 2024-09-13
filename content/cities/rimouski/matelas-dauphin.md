@@ -1,5 +1,5 @@
 ---
 title: "Matelas Dauphin"
 url: /rimouski/matelas-dauphin/
-shop: Betten
+shop: bed
 ---

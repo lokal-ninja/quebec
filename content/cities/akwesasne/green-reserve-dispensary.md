@@ -1,5 +1,5 @@
 ---
 title: "Green Reserve Dispensary"
 url: /akwesasne/green-reserve-dispensary/
-shop: Hanf
+shop: cannabis
 ---

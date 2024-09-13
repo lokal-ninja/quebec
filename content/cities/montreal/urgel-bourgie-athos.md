@@ -1,5 +1,5 @@
 ---
 title: "Urgel Bourgie - Athos"
 url: /montreal/urgel-bourgie-athos/
-shop: Bestattungen
+shop: funeral directors
 ---

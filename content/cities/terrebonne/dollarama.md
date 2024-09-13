@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /terrebonne/dollarama/
-shop: Kramladen
+shop: variety store
 ---

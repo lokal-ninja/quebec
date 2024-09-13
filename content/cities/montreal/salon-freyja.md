@@ -1,5 +1,5 @@
 ---
 title: "Salon Freyja"
 url: /montreal/salon-freyja/
-shop: Friseur
+shop: hairdresser
 ---

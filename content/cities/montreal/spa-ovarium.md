@@ -1,5 +1,5 @@
 ---
 title: "Spa Ovarium"
 url: /montreal/spa-ovarium/
-shop: Kosmetik
+shop: beauty
 ---

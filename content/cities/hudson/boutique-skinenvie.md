@@ -1,5 +1,5 @@
 ---
 title: "Boutique Skinenvie"
 url: /hudson/boutique-skinenvie/
-shop: Modehaus
+shop: boutique
 ---

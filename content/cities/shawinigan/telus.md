@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /shawinigan/telus/
-shop: Handy
+shop: mobile phone
 ---

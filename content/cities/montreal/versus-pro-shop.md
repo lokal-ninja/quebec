@@ -1,5 +1,5 @@
 ---
 title: "Versus Pro Shop"
 url: /montreal/versus-pro-shop/
-shop: Fahrrad
+shop: bicycle
 ---

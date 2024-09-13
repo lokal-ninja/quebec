@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /sherbrooke/metro/
-shop: Supermarkt
+shop: supermarket
 ---

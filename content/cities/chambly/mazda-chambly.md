@@ -1,5 +1,5 @@
 ---
 title: "Mazda Chambly"
 url: /chambly/mazda-chambly/
-shop: Autohaus
+shop: car
 ---

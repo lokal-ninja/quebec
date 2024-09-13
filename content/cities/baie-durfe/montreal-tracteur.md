@@ -1,5 +1,5 @@
 ---
 title: "Montréal Tracteur"
 url: /baie-durfe/montreal-tracteur/
-shop: Allgemein
+shop: shop
 ---

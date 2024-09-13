@@ -1,5 +1,5 @@
 ---
 title: "Presotea"
 url: /longueuil/presotea/
-shop: Tee
+shop: tea
 ---

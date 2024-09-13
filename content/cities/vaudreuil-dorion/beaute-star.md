@@ -1,5 +1,5 @@
 ---
 title: "Beauté Star"
 url: /vaudreuil-dorion/beaute-star/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

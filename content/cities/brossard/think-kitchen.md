@@ -1,5 +1,5 @@
 ---
 title: "Think Kitchen"
 url: /brossard/think-kitchen/
-shop: Haushaltsartikel
+shop: houseware
 ---

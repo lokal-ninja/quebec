@@ -1,5 +1,5 @@
 ---
 title: "Entre tes mains"
 url: /montreal/entre-tes-mains/
-shop: Gebrauchtwaren
+shop: charity
 ---

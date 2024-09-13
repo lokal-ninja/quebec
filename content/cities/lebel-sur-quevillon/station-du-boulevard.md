@@ -1,5 +1,5 @@
 ---
 title: "Station du Boulevard"
 url: /lebel-sur-quevillon/station-du-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---

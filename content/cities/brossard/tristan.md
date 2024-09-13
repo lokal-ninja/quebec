@@ -1,5 +1,5 @@
 ---
 title: "Tristan"
 url: /brossard/tristan/
-shop: Kleidung
+shop: clothes
 ---

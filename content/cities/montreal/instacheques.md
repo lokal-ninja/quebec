@@ -1,5 +1,5 @@
 ---
 title: "Instachèques"
 url: /montreal/instacheques/
-shop: Leiher
+shop: pawnbroker
 ---

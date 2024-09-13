@@ -1,5 +1,5 @@
 ---
 title: "Simons"
 url: /quebec/simons-des-galeries-boulevard/
-shop: Kleidung
+shop: clothes
 ---

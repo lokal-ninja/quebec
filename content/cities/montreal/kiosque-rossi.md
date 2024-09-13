@@ -1,5 +1,5 @@
 ---
 title: "Kiosque Rossi"
 url: /montreal/kiosque-rossi/
-shop: Sport
+shop: sports
 ---

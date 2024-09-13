@@ -1,5 +1,5 @@
 ---
 title: "Cigarobec"
 url: /la-prairie/cigarobec/
-shop: Kramladen
+shop: variety store
 ---

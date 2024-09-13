@@ -1,5 +1,5 @@
 ---
 title: "Coconut Beach"
 url: /gatineau/coconut-beach/
-shop: Kosmetik
+shop: beauty
 ---

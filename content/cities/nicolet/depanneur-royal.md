@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Royal"
 url: /nicolet/depanneur-royal/
-shop: Lebensmittel
+shop: convenience
 ---

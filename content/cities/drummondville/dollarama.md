@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /drummondville/dollarama/
-shop: Kramladen
+shop: variety store
 ---

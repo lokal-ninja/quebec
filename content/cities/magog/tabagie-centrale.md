@@ -1,5 +1,5 @@
 ---
 title: "Tabagie Centrale"
 url: /magog/tabagie-centrale/
-shop: Tabak
+shop: tobacco
 ---

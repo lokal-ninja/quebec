@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
 url: /montreal/koodo-avenue-victoria/
-shop: Handy
+shop: mobile phone
 ---

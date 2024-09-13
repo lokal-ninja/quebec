@@ -1,5 +1,5 @@
 ---
 title: "ProColor"
 url: /alma/procolor/
-shop: Autowerkstatt
+shop: car repair
 ---

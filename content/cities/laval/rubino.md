@@ -1,5 +1,5 @@
 ---
 title: "Rubino"
 url: /laval/rubino/
-shop: Schuhe
+shop: shoes
 ---

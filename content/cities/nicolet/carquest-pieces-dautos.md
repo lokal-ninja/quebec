@@ -1,5 +1,5 @@
 ---
 title: "CARQUEST Pièces d’Autos"
 url: /nicolet/carquest-pieces-dautos/
-shop: Autoteile
+shop: car parts
 ---

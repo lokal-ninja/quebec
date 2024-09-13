@@ -1,5 +1,5 @@
 ---
 title: "Tribal"
 url: /saint-lazare/tribal/
-shop: Raumausstattung
+shop: interior decoration
 ---

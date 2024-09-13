@@ -1,5 +1,5 @@
 ---
 title: "Harnois"
 url: /saint-joseph-de-coleraine/harnois/
-shop: Lebensmittel
+shop: convenience
 ---

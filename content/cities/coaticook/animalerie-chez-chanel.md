@@ -1,5 +1,5 @@
 ---
 title: "Animalerie Chez Chanel"
 url: /coaticook/animalerie-chez-chanel/
-shop: Tiere
+shop: pet
 ---

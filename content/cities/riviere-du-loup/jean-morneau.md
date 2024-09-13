@@ -1,5 +1,5 @@
 ---
 title: "Jean Morneau"
 url: /riviere-du-loup/jean-morneau/
-shop: Allgemein
+shop: shop
 ---

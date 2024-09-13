@@ -1,5 +1,5 @@
 ---
 title: "IGA Atwater"
 url: /montreal/iga-atwater/
-shop: Supermarkt
+shop: supermarket
 ---

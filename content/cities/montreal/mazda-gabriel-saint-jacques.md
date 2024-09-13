@@ -1,5 +1,5 @@
 ---
 title: "Mazda Gabriel Saint-Jacques"
 url: /montreal/mazda-gabriel-saint-jacques/
-shop: Autohaus
+shop: car
 ---

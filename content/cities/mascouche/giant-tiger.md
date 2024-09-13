@@ -1,5 +1,5 @@
 ---
 title: "Giant Tiger"
 url: /mascouche/giant-tiger/
-shop: Warenhaus
+shop: department store
 ---

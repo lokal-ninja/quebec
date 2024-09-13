@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /port-cartier/dollarama/
-shop: Kramladen
+shop: variety store
 ---

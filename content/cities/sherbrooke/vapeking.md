@@ -1,5 +1,5 @@
 ---
 title: "vapeking"
 url: /sherbrooke/vapeking/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

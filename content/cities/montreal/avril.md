@@ -1,5 +1,5 @@
 ---
 title: "Avril"
 url: /montreal/avril/
-shop: Bioladen
+shop: health food
 ---

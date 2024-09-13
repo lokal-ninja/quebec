@@ -1,5 +1,5 @@
 ---
 title: "Audrey Brière - Massothérapeute"
 url: /rigaud/audrey-briere-massotherapeute/
-shop: Massage
+shop: massage
 ---

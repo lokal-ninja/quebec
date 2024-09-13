@@ -1,5 +1,5 @@
 ---
 title: "Silencieux Carline"
 url: /sherbrooke/silencieux-carline/
-shop: Autowerkstatt
+shop: car repair
 ---

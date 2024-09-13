@@ -1,5 +1,5 @@
 ---
 title: "S.R. Mécanique"
 url: /saint-etienne-des-gres/s-r-mecanique/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /nicolet/saq/
-shop: Spirituosen
+shop: alcohol
 ---

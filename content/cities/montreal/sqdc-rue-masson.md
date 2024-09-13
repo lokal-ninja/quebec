@@ -1,5 +1,5 @@
 ---
 title: "SQDC"
 url: /montreal/sqdc-rue-masson/
-shop: Hanf
+shop: cannabis
 ---

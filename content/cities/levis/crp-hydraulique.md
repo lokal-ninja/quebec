@@ -1,5 +1,5 @@
 ---
 title: "CRP Hydraulique"
 url: /levis/crp-hydraulique/
-shop: Allgemein
+shop: shop
 ---

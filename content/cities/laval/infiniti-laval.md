@@ -1,5 +1,5 @@
 ---
 title: "Infiniti Laval"
 url: /laval/infiniti-laval/
-shop: Autohaus
+shop: car
 ---

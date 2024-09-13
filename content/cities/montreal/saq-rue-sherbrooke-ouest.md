@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /montreal/saq-rue-sherbrooke-ouest/
-shop: Spirituosen
+shop: alcohol
 ---

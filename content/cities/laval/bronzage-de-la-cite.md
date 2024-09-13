@@ -1,5 +1,5 @@
 ---
 title: "Bronzage de la Cité"
 url: /laval/bronzage-de-la-cite/
-shop: Kosmetik
+shop: beauty
 ---

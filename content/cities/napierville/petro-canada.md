@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /napierville/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

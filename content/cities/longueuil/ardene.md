@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /longueuil/ardene/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /nicolet/esso/
-shop: Lebensmittel
+shop: convenience
 ---

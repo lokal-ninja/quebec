@@ -1,5 +1,5 @@
 ---
 title: "COOP Ste-Justine"
 url: /sainte-justine/coop-ste-justine/
-shop: Einkaufszentrum
+shop: mall
 ---

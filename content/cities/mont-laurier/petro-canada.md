@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /mont-laurier/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

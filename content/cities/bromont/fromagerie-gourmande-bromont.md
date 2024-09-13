@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie Gourmande Bromont"
 url: /bromont/fromagerie-gourmande-bromont/
-shop: Käse
+shop: cheese
 ---

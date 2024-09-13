@@ -1,5 +1,5 @@
 ---
 title: "Microderm Académie"
 url: /montreal/microderm-academie/
-shop: Kosmetik
+shop: beauty
 ---

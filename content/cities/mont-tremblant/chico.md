@@ -1,5 +1,5 @@
 ---
 title: "Chico"
 url: /mont-tremblant/chico/
-shop: Tiere
+shop: pet
 ---

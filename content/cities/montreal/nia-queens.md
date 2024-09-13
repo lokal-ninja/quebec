@@ -1,5 +1,5 @@
 ---
 title: "Nia Queen's"
 url: /montreal/nia-queens/
-shop: Friseur
+shop: hairdresser
 ---

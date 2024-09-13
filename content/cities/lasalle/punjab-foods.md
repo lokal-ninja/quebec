@@ -1,5 +1,5 @@
 ---
 title: "Punjab Foods"
 url: /lasalle/punjab-foods/
-shop: Supermarkt
+shop: supermarket
 ---

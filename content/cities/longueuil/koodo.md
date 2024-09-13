@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
 url: /longueuil/koodo/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Boutique du Collectionneur"
 url: /montreal/la-boutique-du-collectionneur/
-shop: Antiquitäten
+shop: antiques
 ---

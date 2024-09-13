@@ -1,5 +1,5 @@
 ---
 title: "Épicerie resto Malewa"
 url: /quebec/epicerie-resto-malewa/
-shop: Lebensmittel
+shop: convenience
 ---

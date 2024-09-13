@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /vaudreuil-dorion/napa-auto-parts-avenue-saint-charles/
-shop: Autoteile
+shop: car parts
 ---

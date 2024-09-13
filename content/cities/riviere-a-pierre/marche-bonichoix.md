@@ -1,5 +1,5 @@
 ---
 title: "Marché Bonichoix"
 url: /riviere-a-pierre/marche-bonichoix/
-shop: Lebensmittel
+shop: convenience
 ---

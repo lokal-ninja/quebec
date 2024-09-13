@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /sherbrooke/dollarama-chemin-duplessis/
-shop: Kramladen
+shop: variety store
 ---

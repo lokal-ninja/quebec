@@ -1,5 +1,5 @@
 ---
 title: "Tanguay"
 url: /montreal/tanguay/
-shop: Möbel
+shop: furniture
 ---

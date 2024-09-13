@@ -1,5 +1,5 @@
 ---
 title: "Origin"
 url: /montreal/origin/
-shop: Friseur
+shop: hairdresser
 ---

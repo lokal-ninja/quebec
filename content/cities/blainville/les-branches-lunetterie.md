@@ -1,5 +1,5 @@
 ---
 title: "Les Branchés Lunetterie"
 url: /blainville/les-branches-lunetterie/
-shop: Optiker
+shop: optician
 ---

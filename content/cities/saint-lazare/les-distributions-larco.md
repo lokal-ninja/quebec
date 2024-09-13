@@ -1,5 +1,5 @@
 ---
 title: "Les distributions Larco"
 url: /saint-lazare/les-distributions-larco/
-shop: Autoteile
+shop: car parts
 ---

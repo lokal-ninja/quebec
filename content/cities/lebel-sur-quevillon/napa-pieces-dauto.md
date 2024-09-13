@@ -1,5 +1,5 @@
 ---
 title: "NAPA Pièces d'Auto"
 url: /lebel-sur-quevillon/napa-pieces-dauto/
-shop: Autoteile
+shop: car parts
 ---

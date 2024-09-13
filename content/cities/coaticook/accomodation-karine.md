@@ -1,5 +1,5 @@
 ---
 title: "Accomodation Karine"
 url: /coaticook/accomodation-karine/
-shop: Lebensmittel
+shop: convenience
 ---

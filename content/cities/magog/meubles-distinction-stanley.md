@@ -1,5 +1,5 @@
 ---
 title: "Meubles Distinction Stanley"
 url: /magog/meubles-distinction-stanley/
-shop: Möbel
+shop: furniture
 ---

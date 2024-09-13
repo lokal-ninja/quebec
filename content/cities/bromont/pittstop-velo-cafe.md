@@ -1,5 +1,5 @@
 ---
 title: "Pittstop Vélo-Café"
 url: /bromont/pittstop-velo-cafe/
-shop: Fahrrad
+shop: bicycle
 ---

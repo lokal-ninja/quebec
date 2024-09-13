@@ -1,5 +1,5 @@
 ---
 title: "Aldo"
 url: /brossard/aldo/
-shop: Schuhe
+shop: shoes
 ---

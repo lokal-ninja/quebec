@@ -1,5 +1,5 @@
 ---
 title: "Atelier Pro Plus"
 url: /rigaud/atelier-pro-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

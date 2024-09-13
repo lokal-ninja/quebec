@@ -1,5 +1,5 @@
 ---
 title: "WiL Royale"
 url: /montreal/wil-royale/
-shop: Kosmetik
+shop: beauty
 ---

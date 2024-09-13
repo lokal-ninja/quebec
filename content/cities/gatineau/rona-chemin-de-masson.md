@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /gatineau/rona-chemin-de-masson/
-shop: Baumarkt
+shop: doityourself
 ---

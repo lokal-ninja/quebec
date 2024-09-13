@@ -1,5 +1,5 @@
 ---
 title: "Charcuterie Stefan Frick"
 url: /lacolle/charcuterie-stefan-frick/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /shawinigan/saq-7e-avenue/
-shop: Spirituosen
+shop: alcohol
 ---

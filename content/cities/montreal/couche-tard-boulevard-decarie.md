@@ -1,5 +1,5 @@
 ---
 title: "Couche-Tard"
 url: /montreal/couche-tard-boulevard-decarie/
-shop: Lebensmittel
+shop: convenience
 ---

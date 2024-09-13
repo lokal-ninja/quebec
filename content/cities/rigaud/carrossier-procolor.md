@@ -1,5 +1,5 @@
 ---
 title: "Carrossier ProColor"
 url: /rigaud/carrossier-procolor/
-shop: Autowerkstatt
+shop: car repair
 ---

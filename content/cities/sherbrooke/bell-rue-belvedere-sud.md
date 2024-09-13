@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /sherbrooke/bell-rue-belvedere-sud/
-shop: Handy
+shop: mobile phone
 ---

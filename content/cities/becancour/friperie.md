@@ -1,5 +1,5 @@
 ---
 title: "Friperie"
 url: /becancour/friperie/
-shop: Kleidung
+shop: clothes
 ---

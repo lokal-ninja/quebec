@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /longueuil/bell/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Horizon Lussier"
 url: /marieville/horizon-lussier/
-shop: Wohnwagen
+shop: caravan
 ---

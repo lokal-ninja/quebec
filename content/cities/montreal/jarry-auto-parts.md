@@ -1,5 +1,5 @@
 ---
 title: "Jarry Auto Parts"
 url: /montreal/jarry-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

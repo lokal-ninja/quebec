@@ -1,5 +1,5 @@
 ---
 title: "Bopied"
 url: /longueuil/bopied/
-shop: Schuhe
+shop: shoes
 ---

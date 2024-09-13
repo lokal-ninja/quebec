@@ -1,5 +1,5 @@
 ---
 title: "Bouclair"
 url: /lasalle/bouclair/
-shop: Raumausstattung
+shop: interior decoration
 ---

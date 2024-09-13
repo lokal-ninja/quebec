@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /montreal/dollarama-rue-saint-denis-2/
-shop: Kramladen
+shop: variety store
 ---

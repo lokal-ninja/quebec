@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /lasalle/dollarama/
-shop: Kramladen
+shop: variety store
 ---

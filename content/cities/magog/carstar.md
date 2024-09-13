@@ -1,5 +1,5 @@
 ---
 title: "Carstar"
 url: /magog/carstar/
-shop: Autowerkstatt
+shop: car repair
 ---

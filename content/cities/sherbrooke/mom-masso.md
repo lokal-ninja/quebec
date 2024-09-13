@@ -1,5 +1,5 @@
 ---
 title: "Mom masso"
 url: /sherbrooke/mom-masso/
-shop: Massage
+shop: massage
 ---

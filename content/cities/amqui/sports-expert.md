@@ -1,5 +1,5 @@
 ---
 title: "Sports Expert"
 url: /amqui/sports-expert/
-shop: Sport
+shop: sports
 ---

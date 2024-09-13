@@ -1,5 +1,5 @@
 ---
 title: "Tabagie Boutique Indigo"
 url: /longueuil/tabagie-boutique-indigo/
-shop: Lebensmittel
+shop: convenience
 ---

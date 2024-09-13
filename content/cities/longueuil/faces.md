@@ -1,5 +1,5 @@
 ---
 title: "Faces"
 url: /longueuil/faces/
-shop: Kosmetik
+shop: beauty
 ---

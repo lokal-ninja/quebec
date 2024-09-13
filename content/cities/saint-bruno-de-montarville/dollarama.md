@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /saint-bruno-de-montarville/dollarama/
-shop: Kramladen
+shop: variety store
 ---

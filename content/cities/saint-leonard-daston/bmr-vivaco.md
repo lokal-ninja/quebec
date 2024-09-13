@@ -1,5 +1,5 @@
 ---
 title: "BMR VIVACO"
 url: /saint-leonard-daston/bmr-vivaco/
-shop: Baumarkt
+shop: doityourself
 ---

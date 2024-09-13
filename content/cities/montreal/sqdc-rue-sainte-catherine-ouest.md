@@ -1,5 +1,5 @@
 ---
 title: "SQDC"
 url: /montreal/sqdc-rue-sainte-catherine-ouest/
-shop: Hanf
+shop: cannabis
 ---

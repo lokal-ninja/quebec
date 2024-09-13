@@ -1,5 +1,5 @@
 ---
 title: "coiffure club"
 url: /laval/coiffure-club/
-shop: Friseur
+shop: hairdresser
 ---

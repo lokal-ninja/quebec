@@ -1,5 +1,5 @@
 ---
 title: "Brûlerie Iki"
 url: /beloeil/brulerie-iki/
-shop: Kaffee
+shop: coffee
 ---

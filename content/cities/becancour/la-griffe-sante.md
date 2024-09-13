@@ -1,5 +1,5 @@
 ---
 title: "La Griffe Santé"
 url: /becancour/la-griffe-sante/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossy"
 url: /saint-remi/rossy/
-shop: Kramladen
+shop: variety store
 ---

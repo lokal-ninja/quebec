@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz Laval"
 url: /laval/mercedes-benz-laval/
-shop: Autohaus
+shop: car
 ---

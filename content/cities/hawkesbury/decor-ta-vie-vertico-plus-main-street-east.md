@@ -1,5 +1,5 @@
 ---
 title: "Décor ta vie - Vertico plus"
 url: /hawkesbury/decor-ta-vie-vertico-plus-main-street-east/
-shop: Jalousien
+shop: window blind
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /sherbrooke/dollarama/
-shop: Kramladen
+shop: variety store
 ---
