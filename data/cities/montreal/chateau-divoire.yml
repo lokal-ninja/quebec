@@ -1,11 +1,11 @@
 id: 124401256
-type: way
+type: node
 latitude: 45.49866
 longitude: -73.57753
 postcode: ""
 city: Montréal
-street: "Rue de la Montagne"
-housenumber: 2020
+street: Rue de la Montagne
+housenumber: "2020"
 phone: ""
 opening_hours: ""
 website: ""

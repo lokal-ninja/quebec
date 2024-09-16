@@ -1,11 +1,11 @@
 id: 246847505
-type: way
+type: node
 latitude: 46.59335
 longitude: -71.20428
-postcode: "G0S 2W0"
+postcode: G0S 2W0
 city: Saint-Lambert-de-Lauzon
-street: "Rue du Pont"
-housenumber: 1234
+street: Rue du Pont
+housenumber: "1234"
 phone: ""
 opening_hours: ""
 website: ""

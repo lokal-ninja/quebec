@@ -1,11 +1,11 @@
 id: 83004421
-type: way
+type: node
 latitude: 46.33014
 longitude: -72.5665
-postcode: "G9A 6M1"
+postcode: G9A 6M1
 city: Trois-Rivières
-street: "Boulevard des Récollets"
-housenumber: 4025
-phone: "+1 (819) 693-0855"
+street: Boulevard des Récollets
+housenumber: "4025"
+phone: +1 (819) 693-0855
 opening_hours: ""
-website: "https://www.rona.ca"
+website: https://www.rona.ca

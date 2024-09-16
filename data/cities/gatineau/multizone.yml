@@ -2,10 +2,10 @@ id: 4567873629
 type: node
 latitude: 45.46837
 longitude: -75.70113
-postcode: "J8T 6H5"
+postcode: J8T 6H5
 city: Gatineau
-street: "Boulevard Gréber"
-housenumber: 140
-phone: "+1-819-525-6322"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-17:00"
-website: "https://multizone.ca"
+street: Boulevard Gréber
+housenumber: "140"
+phone: +1-819-525-6322
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-17:00
+website: https://multizone.ca

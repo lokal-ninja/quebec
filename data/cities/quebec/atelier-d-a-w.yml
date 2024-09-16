@@ -1,11 +1,11 @@
 id: 302805146
-type: way
+type: node
 latitude: 46.89277
 longitude: -71.32073
-postcode: "G2N 0J8"
+postcode: G2N 0J8
 city: Québec
-street: "Rue du Nickel"
-housenumber: 600
+street: Rue du Nickel
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

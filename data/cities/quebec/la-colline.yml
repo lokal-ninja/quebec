@@ -1,11 +1,11 @@
 id: 149696782
-type: way
+type: node
 latitude: 46.77245
 longitude: -71.31624
 postcode: ""
 city: Québec
-street: "Chemin Sainte-Foy"
-housenumber: 3207
+street: Chemin Sainte-Foy
+housenumber: "3207"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 552393426
-type: way
+type: node
 latitude: 46.63593
 longitude: -72.7165
-postcode: "G9T 5K5"
+postcode: G9T 5K5
 city: Shawinigan
-street: "4e rue"
-housenumber: 4300
-phone: "+1-819-538-6084"
+street: 4e rue
+housenumber: "4300"
+phone: +1-819-538-6084
 opening_hours: ""
 website: ""

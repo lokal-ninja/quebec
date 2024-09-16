@@ -1,11 +1,11 @@
 id: 220905921
-type: way
+type: node
 latitude: 46.87434
 longitude: -71.33027
-postcode: "G3E 1L2"
+postcode: G3E 1L2
 city: Québec
-street: "Rue de la Faune"
-housenumber: 1536
-phone: "+1-418-842-6693"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://ecoelectro.ca/"
+street: Rue de la Faune
+housenumber: "1536"
+phone: +1-418-842-6693
+opening_hours: Mo-Fr 08:00-17:00
+website: https://ecoelectro.ca/

@@ -1,11 +1,11 @@
 id: 264200756
-type: way
+type: node
 latitude: 46.55092
 longitude: -75.4956
-postcode: "J9L 1L2"
+postcode: J9L 1L2
 city: Mont-Laurier
-street: "boulevard Albiny-Paquette"
-housenumber: 555
+street: boulevard Albiny-Paquette
+housenumber: "555"
 phone: ""
 opening_hours: ""
 website: ""

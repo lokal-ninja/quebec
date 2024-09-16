@@ -1,11 +1,11 @@
 id: 28238969
-type: way
+type: node
 latitude: 45.42302
 longitude: -73.48653
-postcode: "J5R 4V3"
+postcode: J5R 4V3
 city: La Prairie
-street: "Boulevard Taschereau"
-housenumber: 50
+street: Boulevard Taschereau
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

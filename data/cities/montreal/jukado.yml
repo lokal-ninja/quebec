@@ -2,10 +2,10 @@ id: 5572219472
 type: node
 latitude: 45.54754
 longitude: -73.66247
-postcode: "H3L 2N7"
+postcode: H3L 2N7
 city: Montréal
-street: "Boulevard Saint-Laurent"
-housenumber: 10126
-phone: "+1-514-387-7119"
+street: Boulevard Saint-Laurent
+housenumber: "10126"
+phone: +1-514-387-7119
 opening_hours: ""
 website: ""

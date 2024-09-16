@@ -1,11 +1,11 @@
 id: 579973047
-type: way
+type: node
 latitude: 45.41952
 longitude: -72.76121
 postcode: ""
 city: Granby
-street: "Rue Raymond-Héroux"
-housenumber: 25
+street: Rue Raymond-Héroux
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

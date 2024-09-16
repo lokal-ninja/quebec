@@ -1,11 +1,11 @@
 id: 699818625
-type: way
+type: node
 latitude: 49.91351
 longitude: -74.36108
-postcode: "G8P1N6"
+postcode: G8P1N6
 city: chibouga
-street: "3e Rue"
-housenumber: 434
+street: 3e Rue
+housenumber: "434"
 phone: ""
 opening_hours: ""
 website: ""

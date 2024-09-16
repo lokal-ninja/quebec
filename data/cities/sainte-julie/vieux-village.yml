@@ -1,11 +1,11 @@
 id: 898186026
-type: way
+type: node
 latitude: 45.59203
 longitude: -73.34228
 postcode: ""
 city: Sainte-Julie
-street: "Rue Principale"
-housenumber: 1791
+street: Rue Principale
+housenumber: "1791"
 phone: ""
 opening_hours: ""
 website: ""

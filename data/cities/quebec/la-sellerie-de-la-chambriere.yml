@@ -2,10 +2,10 @@ id: 2411514699
 type: node
 latitude: 46.80112
 longitude: -71.3275
-postcode: "G2E 5L1"
+postcode: G2E 5L1
 city: Québec
-street: "Avenue Saint-Jean-Baptiste"
-housenumber: 1005
-phone: "+1-418-658-6789"
+street: Avenue Saint-Jean-Baptiste
+housenumber: "1005"
+phone: +1-418-658-6789
 opening_hours: ""
-website: "https://www.chambriere.ca/"
+website: https://www.chambriere.ca/

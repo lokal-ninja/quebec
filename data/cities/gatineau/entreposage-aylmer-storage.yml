@@ -1,11 +1,11 @@
 id: 760774084
-type: way
+type: node
 latitude: 45.43499
 longitude: -75.81836
 postcode: ""
 city: Gatineau
-street: "Chemin Vanier"
-housenumber: 951
+street: Chemin Vanier
+housenumber: "951"
 phone: ""
 opening_hours: ""
 website: ""

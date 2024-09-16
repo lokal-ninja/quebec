@@ -1,11 +1,11 @@
 id: 46844705
-type: way
+type: node
 latitude: 45.58353
 longitude: -73.58645
 postcode: ""
 city: Montréal
-street: "Boulevard Métropolitain, voie de desserte sud"
-housenumber: 5500
+street: Boulevard Métropolitain, voie de desserte sud
+housenumber: "5500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 732465624
-type: way
+type: node
 latitude: 45.40415
 longitude: -71.90087
-postcode: "J1H 1E8"
+postcode: J1H 1E8
 city: Sherbrooke
-street: "Rue de Montréal"
-housenumber: 566
+street: Rue de Montréal
+housenumber: "566"
 phone: ""
 opening_hours: ""
 website: ""

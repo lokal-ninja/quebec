@@ -1,11 +1,11 @@
 id: 550627836
-type: way
+type: node
 latitude: 46.37152
 longitude: -71.61205
-postcode: "G0S 1V0"
+postcode: G0S 1V0
 city: Lyster
-street: "Rue Bécancour"
-housenumber: 2535
-phone: "+1-819-389-1276"
+street: Rue Bécancour
+housenumber: "2535"
+phone: +1-819-389-1276
 opening_hours: ""
 website: ""

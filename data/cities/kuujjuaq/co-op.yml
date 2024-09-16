@@ -1,11 +1,11 @@
 id: 503631602
-type: way
+type: node
 latitude: 58.10716
 longitude: -68.40044
-postcode: "J0M 1C0"
+postcode: J0M 1C0
 city: Kuujjuaq
 street: ""
-housenumber: 511
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

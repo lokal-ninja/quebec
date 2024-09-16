@@ -1,11 +1,11 @@
 id: 846599730
-type: way
+type: node
 latitude: 45.08866
 longitude: -73.75207
 postcode: ""
 city: Saint-Chrysostome
-street: "Rang Duncan"
-housenumber: 147
+street: Rang Duncan
+housenumber: "147"
 phone: ""
 opening_hours: ""
-website: "https://www.framboisesetparapluies.ca/"
+website: https://www.framboisesetparapluies.ca/

@@ -4,8 +4,8 @@ latitude: 48.4493
 longitude: -68.53354
 postcode: ""
 city: Rimouski
-street: "Rue Saint-Germain Ouest"
-housenumber: 120
-phone: "+1-418-724-8090"
-opening_hours: "Mo,Tu,We 09:30-17:30; Th,Fr 09:30-21:00; Sa 09:30-17:00; Su 12:00-17:00"
-website: "https://auditionmusik.com/"
+street: Rue Saint-Germain Ouest
+housenumber: "120"
+phone: +1-418-724-8090
+opening_hours: Mo,Tu,We 09:30-17:30; Th,Fr 09:30-21:00; Sa 09:30-17:00; Su 12:00-17:00
+website: https://auditionmusik.com/

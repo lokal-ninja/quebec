@@ -1,11 +1,11 @@
 id: 148472077
-type: way
+type: node
 latitude: 46.82152
 longitude: -71.25225
-postcode: "G1M 3E5"
+postcode: G1M 3E5
 city: Québec
-street: "Boulevard Wilfrid-Hamel"
-housenumber: 552
-phone: "+1-418-529-0728"
+street: Boulevard Wilfrid-Hamel
+housenumber: "552"
+phone: +1-418-529-0728
 opening_hours: ""
-website: "https://www.fdlcentrecommercial.com/"
+website: https://www.fdlcentrecommercial.com/

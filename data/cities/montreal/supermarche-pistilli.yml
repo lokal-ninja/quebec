@@ -1,11 +1,11 @@
 id: 784494967
-type: way
+type: node
 latitude: 45.5691
 longitude: -73.64555
-postcode: "H2B 1B1"
+postcode: H2B 1B1
 city: Montréal
-street: "Rue Sauvé Est"
-housenumber: 2105
+street: Rue Sauvé Est
+housenumber: "2105"
 phone: ""
 opening_hours: ""
 website: ""

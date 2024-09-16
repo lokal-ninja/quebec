@@ -1,11 +1,11 @@
 id: 1008663883
-type: way
+type: node
 latitude: 46.33877
 longitude: -72.58769
-postcode: "G8Z 4A7"
+postcode: G8Z 4A7
 city: Trois-Rivières
-street: "Boulevard Jean-XXIII"
-housenumber: 5110
-phone: "+1 (819) 374-5323"
+street: Boulevard Jean-XXIII
+housenumber: "5110"
+phone: +1 (819) 374-5323
 opening_hours: ""
-website: "https://www.trtoyota.ca/"
+website: https://www.trtoyota.ca/

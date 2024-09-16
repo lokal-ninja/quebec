@@ -1,11 +1,11 @@
 id: 551684296
-type: way
+type: node
 latitude: 45.99294
 longitude: -72.23612
-postcode: "J0A 1H0"
+postcode: J0A 1H0
 city: Sainte-Clotilde-De-Horton
-street: "QC-122"
-housenumber: 6
-phone: "+1-819-336-2090"
+street: QC-122
+housenumber: "6"
+phone: +1-819-336-2090
 opening_hours: ""
 website: ""

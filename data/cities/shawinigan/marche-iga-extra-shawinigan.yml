@@ -1,11 +1,11 @@
 id: 317035869
-type: way
+type: node
 latitude: 46.55731
 longitude: -72.74679
-postcode: "G9N 8K8"
+postcode: G9N 8K8
 city: Shawinigan
-street: "Rue Trudel"
-housenumber: 1500
-phone: "+1-819-536-4141"
-opening_hours: "8:00 - 21:00"
+street: Rue Trudel
+housenumber: "1500"
+phone: +1-819-536-4141
+opening_hours: 8:00 - 21:00
 website: ""

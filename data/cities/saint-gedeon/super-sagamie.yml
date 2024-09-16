@@ -1,11 +1,11 @@
 id: 549634353
-type: way
+type: node
 latitude: 48.47961
 longitude: -71.79165
-postcode: "G0W 2P0"
+postcode: G0W 2P0
 city: Saint-Gédéon
-street: "Rue du Pont"
-housenumber: 645
-phone: "+1-418-345-8580"
+street: Rue du Pont
+housenumber: "645"
+phone: +1-418-345-8580
 opening_hours: ""
 website: ""

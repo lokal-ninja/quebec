@@ -2,10 +2,10 @@ id: 11288971062
 type: node
 latitude: 45.56294
 longitude: -73.60813
-postcode: "h1z3e1"
+postcode: h1z3e1
 city: Montréal
-street: "Boulevard Saint-Michel"
-housenumber: 7930
-phone: "+1-514-725-7878"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://www.ginabeaute.ca/"
+street: Boulevard Saint-Michel
+housenumber: "7930"
+phone: +1-514-725-7878
+opening_hours: Mo-Su 09:00-19:00
+website: https://www.ginabeaute.ca/

@@ -4,8 +4,9 @@ latitude: 45.45532
 longitude: -73.57217
 postcode: ""
 city: Montréal
-street: "Rue de Verdun"
-housenumber: 5111
-phone: "+1 514 419 3219"
-opening_hours: "Tu par rendezvous; We 10:00-17:00; Th-Fr 10:00-19:00; Sa 10:00-17:00; Su-Mo off"
-website: "https://centrelatienda.com/"
+street: Rue de Verdun
+housenumber: "5111"
+phone: +1 514 419 3219
+opening_hours: Tu "par rendezvous"; We 10:00-17:00; Th-Fr 10:00-19:00; Sa 10:00-17:00;
+    Su-Mo off
+website: https://centrelatienda.com/

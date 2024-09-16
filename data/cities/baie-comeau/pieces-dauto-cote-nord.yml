@@ -1,11 +1,11 @@
 id: 317466582
-type: way
+type: node
 latitude: 49.21436
 longitude: -68.19218
 postcode: ""
 city: Baie-Comeau
-street: "Boulevard La Salle"
-housenumber: 324
-phone: "+1-418-296-6067"
+street: Boulevard La Salle
+housenumber: "324"
+phone: +1-418-296-6067
 opening_hours: ""
 website: ""

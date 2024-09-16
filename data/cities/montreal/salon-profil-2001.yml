@@ -2,10 +2,11 @@ id: 2503425552
 type: node
 latitude: 45.54877
 longitude: -73.53546
-postcode: "H1V 1X1"
+postcode: H1V 1X1
 city: Montréal
-street: "Rue Sainte-Catherine Est"
-housenumber: 4117
-phone: "+1-514-527-8819"
-opening_hours: "Mo off; Tu-We 10:00-17:00; Th 10:00-19:00; Fr 10:00-20:00; Sa 09:00-16:00; Su off"
-website: "https://www.facebook.com/people/Salon-Profil-2001-Enr/100063703504356/"
+street: Rue Sainte-Catherine Est
+housenumber: "4117"
+phone: +1-514-527-8819
+opening_hours: Mo off; Tu-We 10:00-17:00; Th 10:00-19:00; Fr 10:00-20:00; Sa 09:00-16:00;
+    Su off
+website: https://www.facebook.com/people/Salon-Profil-2001-Enr/100063703504356/

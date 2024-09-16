@@ -1,11 +1,11 @@
 id: 550438394
-type: way
+type: node
 latitude: 46.89934
 longitude: -72.92744
-postcode: "G0X 2C0"
+postcode: G0X 2C0
 city: Trois-Rives
-street: "QC-155"
-housenumber: 3902
-phone: "+1-819-646-5753"
+street: QC-155
+housenumber: "3902"
+phone: +1-819-646-5753
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-trois-rives-qc-esso-200303055"
+website: https://www.esso.ca/en-ca/find-station/esso-trois-rives-qc-esso-200303055

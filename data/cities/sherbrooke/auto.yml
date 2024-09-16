@@ -1,11 +1,11 @@
 id: 734159945
-type: way
+type: node
 latitude: 45.39739
 longitude: -71.9391
-postcode: "J1L 1C5"
+postcode: J1L 1C5
 city: Sherbrooke
-street: "Rue King Ouest"
-housenumber: 2700
+street: Rue King Ouest
+housenumber: "2700"
 phone: ""
 opening_hours: ""
-website: "https://www.automod.qc.ca/succursale/sherbrooke-2/"
+website: https://www.automod.qc.ca/succursale/sherbrooke-2/

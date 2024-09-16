@@ -2,10 +2,10 @@ id: 10297609019
 type: node
 latitude: 45.58876
 longitude: -73.78015
-postcode: "H7L 4S9"
+postcode: H7L 4S9
 city: Laval
-street: "Boulevard des Oiseaux"
-housenumber: 2745
-phone: "+1-450-736-1323"
-opening_hours: "Mo,Th,Fr 09:00-21:00; Tu,We 10:00-21:00; Sa 09:00-15:00"
-website: "https://declicbeaute.com/"
+street: Boulevard des Oiseaux
+housenumber: "2745"
+phone: +1-450-736-1323
+opening_hours: Mo,Th,Fr 09:00-21:00; Tu,We 10:00-21:00; Sa 09:00-15:00
+website: https://declicbeaute.com/

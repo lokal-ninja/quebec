@@ -1,11 +1,11 @@
 id: 230916387
-type: way
+type: node
 latitude: 45.59605
 longitude: -73.09031
-postcode: "J0H 1S0"
+postcode: J0H 1S0
 city: Sainte-Madeleine
-street: "Boulevard Laurier"
-housenumber: 850
-phone: "+1-450-795-3272"
+street: Boulevard Laurier
+housenumber: "850"
+phone: +1-450-795-3272
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 3479423722
 type: node
 latitude: 46.35329
 longitude: -72.54318
-postcode: "G9A 3P6"
+postcode: G9A 3P6
 city: Trois-Rivières
-street: "Boulevard du Saint-Maurice"
-housenumber: 501
+street: Boulevard du Saint-Maurice
+housenumber: "501"
 phone: ""
 opening_hours: ""
-website: "https://www.saq.com/webapp/wcs/stores/servlet/SAQStoreLocatorSearchResultsStoreDetailsView?storeLocationId=10316&catalogId=50000&langId=-2&storeIdentifier=33560&storeId=20002&&pageSize=10&orderBy=1&regionId=Mauricie&sousRegionId=Trois-Rivi%C3%A8res"
+website: https://www.saq.com/webapp/wcs/stores/servlet/SAQStoreLocatorSearchResultsStoreDetailsView?storeLocationId=10316&catalogId=50000&langId=-2&storeIdentifier=33560&storeId=20002&&pageSize=10&orderBy=1&regionId=Mauricie&sousRegionId=Trois-Rivi%C3%A8res

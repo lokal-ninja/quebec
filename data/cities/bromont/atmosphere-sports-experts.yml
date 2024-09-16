@@ -1,11 +1,11 @@
 id: 301720829
-type: way
+type: node
 latitude: 45.33615
 longitude: -72.65139
-postcode: "J2L 0A1"
+postcode: J2L 0A1
 city: Bromont
-street: "Place Champêtre"
-housenumber: 550
+street: Place Champêtre
+housenumber: "550"
 phone: ""
 opening_hours: ""
 website: ""

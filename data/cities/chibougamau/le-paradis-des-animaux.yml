@@ -1,11 +1,11 @@
 id: 837245559
-type: way
+type: node
 latitude: 49.91311
 longitude: -74.3595
-postcode: "G8P1Z7"
+postcode: G8P1Z7
 city: Chibougamau
-street: "3e Avenue"
-housenumber: 132
+street: 3e Avenue
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-We 09:00-17:00; Th,Fr 09:00-21:00; Sa 09:00-17:00; Su 11:00-18:00"
+opening_hours: Mo-We 09:00-17:00; Th,Fr 09:00-21:00; Sa 09:00-17:00; Su 11:00-18:00
 website: ""

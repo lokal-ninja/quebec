@@ -1,11 +1,11 @@
 id: 1002694563
-type: way
+type: node
 latitude: 46.55964
 longitude: -72.73663
-postcode: "G9N 3M8"
+postcode: G9N 3M8
 city: Shawinigan
-street: "Boulevard Saint-Sacrement"
-housenumber: 1100
+street: Boulevard Saint-Sacrement
+housenumber: "1100"
 phone: ""
 opening_hours: ""
 website: ""

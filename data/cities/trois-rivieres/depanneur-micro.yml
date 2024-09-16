@@ -1,11 +1,11 @@
 id: 1010704479
-type: way
+type: node
 latitude: 46.36524
 longitude: -72.5972
-postcode: "G8Y 1X8"
+postcode: G8Y 1X8
 city: Trois-Rivières
-street: "Boulevard des Chenaux"
-housenumber: 5700
+street: Boulevard des Chenaux
+housenumber: "5700"
 phone: ""
-opening_hours: "Mo-Fr 06:30-23:00; Sa,Su 07:00-23:00"
+opening_hours: Mo-Fr 06:30-23:00; Sa,Su 07:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 349876812
-type: way
+type: node
 latitude: 45.30701
 longitude: -73.23673
-postcode: "J2X 1T8"
+postcode: J2X 1T8
 city: Saint-Jean-sur-Richelieu
-street: "5e Avenue"
-housenumber: 275
+street: 5e Avenue
+housenumber: "275"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 625687508
-type: way
+type: node
 latitude: 46.77691
 longitude: -71.34956
-postcode: "G1X 0E4"
+postcode: G1X 0E4
 city: Québec
-street: "Avenue Blaise-Pascal"
-housenumber: 3400
+street: Avenue Blaise-Pascal
+housenumber: "3400"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa-Su 09:00-17:00"
+opening_hours: Mo-Fr 10:00-21:00; Sa-Su 09:00-17:00
 website: ""

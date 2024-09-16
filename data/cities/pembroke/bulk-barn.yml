@@ -1,11 +1,11 @@
 id: 357803376
-type: way
+type: node
 latitude: 45.82307
 longitude: -77.08422
-postcode: "K8A 6Z2"
+postcode: K8A 6Z2
 city: Pembroke
-street: "Pembroke Street East"
-housenumber: 1034
+street: Pembroke Street East
+housenumber: "1034"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00, Sa 09:00-18:00, Su 11:00-17:00"
+opening_hours: Mo-Fr 09:00-21:00, Sa 09:00-18:00, Su 11:00-17:00
 website: ""

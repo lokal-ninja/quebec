@@ -4,8 +4,8 @@ latitude: 45.52584
 longitude: -73.5867
 postcode: ""
 city: Montréal
-street: "Rue Saint-Denis"
-housenumber: 4845
-phone: "+1 514 499 0101"
-opening_hours: "Mo-Fr 09:00-16:00; Sa-Su off"
-website: "https://www.cliniqueo.com/"
+street: Rue Saint-Denis
+housenumber: "4845"
+phone: +1 514 499 0101
+opening_hours: Mo-Fr 09:00-16:00; Sa-Su off
+website: https://www.cliniqueo.com/

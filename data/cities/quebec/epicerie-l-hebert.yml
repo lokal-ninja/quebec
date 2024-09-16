@@ -1,11 +1,11 @@
 id: 931648040
-type: way
+type: node
 latitude: 46.80701
 longitude: -71.23553
-postcode: "G1K4P5"
+postcode: G1K4P5
 city: Québec
-street: "Rue Saint-Germain"
-housenumber: 549
+street: Rue Saint-Germain
+housenumber: "549"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 5321927363
 type: node
 latitude: 46.72866
 longitude: -72.43521
-postcode: "G0X 2G0"
+postcode: G0X 2G0
 city: Saint-Adelphe
-street: "501 QC-352"
-housenumber: 501
-phone: "+1-418-322-5572"
+street: 501 QC-352
+housenumber: "501"
+phone: +1-418-322-5572
 opening_hours: ""
 website: ""

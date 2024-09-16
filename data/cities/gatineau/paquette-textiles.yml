@@ -1,11 +1,11 @@
 id: 68853705
-type: way
+type: node
 latitude: 45.46707
 longitude: -75.70097
-postcode: "J8T 6H5"
+postcode: J8T 6H5
 city: Gatineau
-street: "Boulevard Gréber"
-housenumber: 110
-phone: "+1-819-205-1504"
-opening_hours: "Tu-Sa 10:00-17:00"
-website: "https://www.paquettetextiles.com"
+street: Boulevard Gréber
+housenumber: "110"
+phone: +1-819-205-1504
+opening_hours: Tu-Sa 10:00-17:00
+website: https://www.paquettetextiles.com

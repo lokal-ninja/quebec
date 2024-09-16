@@ -1,11 +1,11 @@
 id: 1303932215
-type: way
+type: node
 latitude: 45.10002
 longitude: -73.76365
 postcode: ""
 city: Saint-Chrysostome
-street: "Rang Notre-Dame"
-housenumber: 469
+street: Rang Notre-Dame
+housenumber: "469"
 phone: ""
 opening_hours: ""
 website: ""

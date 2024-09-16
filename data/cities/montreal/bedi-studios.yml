@@ -2,10 +2,10 @@ id: 12081182326
 type: node
 latitude: 45.52531
 longitude: -73.59811
-postcode: "H2T 1S1"
+postcode: H2T 1S1
 city: Montréal
-street: "Boulevard Saint-Laurent"
-housenumber: 5432
-phone: "+1-514-502-2224"
+street: Boulevard Saint-Laurent
+housenumber: "5432"
+phone: +1-514-502-2224
 opening_hours: ""
-website: "https://bedistudios.com"
+website: https://bedistudios.com

@@ -1,11 +1,11 @@
 id: 435829080
-type: way
+type: node
 latitude: 48.82839
 longitude: -64.30958
 postcode: ""
 city: Gaspé
-street: "Boulevard de Grande-Grève"
-housenumber: 2051
-phone: "+1-418-892-5383"
+street: Boulevard de Grande-Grève
+housenumber: "2051"
+phone: +1-418-892-5383
 opening_hours: ""
 website: ""

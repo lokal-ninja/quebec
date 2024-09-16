@@ -1,11 +1,11 @@
 id: 334429162
-type: way
+type: node
 latitude: 46.68204
 longitude: -71.73163
-postcode: "G3M 1K0"
+postcode: G3M 1K0
 city: Donnacona
-street: "QC-138"
-housenumber: 90
-phone: "+1-418-285-4740"
+street: QC-138
+housenumber: "90"
+phone: +1-418-285-4740
 opening_hours: ""
 website: ""

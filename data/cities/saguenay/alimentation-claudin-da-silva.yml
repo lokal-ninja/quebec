@@ -1,11 +1,11 @@
 id: 348104520
-type: way
+type: node
 latitude: 48.42222
 longitude: -71.0257
 postcode: ""
 city: Saguenay
-street: "Rue Fradette"
-housenumber: 452
+street: Rue Fradette
+housenumber: "452"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

@@ -2,10 +2,10 @@ id: 9178241120
 type: node
 latitude: 46.82628
 longitude: -71.28312
-postcode: "G1M2X5"
+postcode: G1M2X5
 city: Québec
-street: "Avenue Godin"
-housenumber: 1025
-phone: "+1 418-681-3214"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://pefraser.com/"
+street: Avenue Godin
+housenumber: "1025"
+phone: +1 418-681-3214
+opening_hours: Mo-Fr 08:00-17:00
+website: https://pefraser.com/

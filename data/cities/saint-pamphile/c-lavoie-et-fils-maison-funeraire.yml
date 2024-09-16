@@ -1,11 +1,11 @@
 id: 392861962
-type: way
+type: node
 latitude: 46.9589
 longitude: -69.78039
-postcode: "G0R 3X0"
+postcode: G0R 3X0
 city: Saint-Pamphile
-street: "Rue du Foyer Sud"
-housenumber: 18
-phone: "+1-418-356-3822"
+street: Rue du Foyer Sud
+housenumber: "18"
+phone: +1-418-356-3822
 opening_hours: ""
-website: "https://deladurantaye.qc.ca/"
+website: https://deladurantaye.qc.ca/

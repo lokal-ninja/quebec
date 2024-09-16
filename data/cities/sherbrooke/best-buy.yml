@@ -1,11 +1,11 @@
 id: 40157378
-type: way
+type: node
 latitude: 45.40263
 longitude: -71.95977
 postcode: ""
 city: Sherbrooke
-street: "Boulevard de Portland"
-housenumber: 3450
+street: Boulevard de Portland
+housenumber: "3450"
 phone: ""
 opening_hours: ""
-website: "https://www.bestbuy.ca/"
+website: https://www.bestbuy.ca/

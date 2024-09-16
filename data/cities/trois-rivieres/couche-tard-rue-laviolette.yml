@@ -1,11 +1,11 @@
 id: 707864676
-type: way
+type: node
 latitude: 46.34661
 longitude: -72.54257
 postcode: ""
 city: Trois-Rivières
-street: "Rue Laviolette"
-housenumber: 550
+street: Rue Laviolette
+housenumber: "550"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

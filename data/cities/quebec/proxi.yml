@@ -1,11 +1,11 @@
 id: 967441326
-type: way
+type: node
 latitude: 46.80251
 longitude: -71.33196
-postcode: "G2E 2G8"
+postcode: G2E 2G8
 city: Québec
-street: "Boulevard Wilfrid-Hamel"
-housenumber: 5105
+street: Boulevard Wilfrid-Hamel
+housenumber: "5105"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

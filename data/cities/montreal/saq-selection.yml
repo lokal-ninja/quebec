@@ -2,10 +2,11 @@ id: 3086395870
 type: node
 latitude: 45.54347
 longitude: -73.5631
-postcode: "H1Y 3R6"
+postcode: H1Y 3R6
 city: Montréal
-street: "Rue André-Laurendeau"
-housenumber: 4125
+street: Rue André-Laurendeau
+housenumber: "4125"
 phone: ""
-opening_hours: "Mo 12:00-19:00; Tu,We 10:00-19:00; Th,Fr 09:30-21:00; Sa 09:00-18:00; Su 10:00-18:00"
+opening_hours: Mo 12:00-19:00; Tu,We 10:00-19:00; Th,Fr 09:30-21:00; Sa 09:00-18:00;
+    Su 10:00-18:00
 website: ""

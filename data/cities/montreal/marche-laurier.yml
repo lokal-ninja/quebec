@@ -2,10 +2,10 @@ id: 1743393639
 type: node
 latitude: 45.52658
 longitude: -73.58991
-postcode: "H2T 1G7"
+postcode: H2T 1G7
 city: Montréal
-street: "Avenue Laurier Est"
-housenumber: 377
+street: Avenue Laurier Est
+housenumber: "377"
 phone: ""
 opening_hours: ""
-website: "https://www.marchelaurier.ca/"
+website: https://www.marchelaurier.ca/

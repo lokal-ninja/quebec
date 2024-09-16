@@ -1,11 +1,11 @@
 id: 231145256
-type: way
+type: node
 latitude: 47.36428
 longitude: -70.03787
-postcode: "G0R 1Z0"
+postcode: G0R 1Z0
 city: La Pocatière
-street: "Rue Poiré"
-housenumber: 625
+street: Rue Poiré
+housenumber: "625"
 phone: ""
 opening_hours: ""
 website: ""

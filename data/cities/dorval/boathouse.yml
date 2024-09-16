@@ -2,10 +2,10 @@ id: 4055255896
 type: node
 latitude: 45.44687
 longitude: -73.7392
-postcode: "H9S 1A1"
+postcode: H9S 1A1
 city: Dorval
-street: "Boulevard Montréal-Toronto"
-housenumber: 724
-phone: "+1-514-631-8503"
+street: Boulevard Montréal-Toronto
+housenumber: "724"
+phone: +1-514-631-8503
 opening_hours: ""
-website: "https://www.boathouse.ca/"
+website: https://www.boathouse.ca/

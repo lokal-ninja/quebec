@@ -1,11 +1,11 @@
 id: 368028099
-type: way
+type: node
 latitude: 45.45396
 longitude: -75.75199
-postcode: "J8Y 6A4"
+postcode: J8Y 6A4
 city: Gatineau
-street: "Rue Bédard"
-housenumber: 101
+street: Rue Bédard
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

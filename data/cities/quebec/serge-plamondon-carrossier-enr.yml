@@ -1,11 +1,11 @@
 id: 889031313
-type: way
+type: node
 latitude: 46.82183
 longitude: -71.2276
-postcode: "G1L 2S3"
+postcode: G1L 2S3
 city: Québec
-street: "4e Rue"
-housenumber: 202
-phone: "+1-418-525-9210"
+street: 4e Rue
+housenumber: "202"
+phone: +1-418-525-9210
 opening_hours: ""
 website: ""

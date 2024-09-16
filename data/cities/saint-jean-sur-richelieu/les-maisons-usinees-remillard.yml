@@ -1,11 +1,11 @@
 id: 114804415
-type: way
+type: node
 latitude: 45.381
 longitude: -73.3841
 postcode: ""
 city: Saint-Jean-sur-Richelieu
-street: "Boulevard Saint-Luc"
-housenumber: 1300
+street: Boulevard Saint-Luc
+housenumber: "1300"
 phone: ""
 opening_hours: ""
-website: "https://www.maisonsremillard.com/"
+website: https://www.maisonsremillard.com/

@@ -1,11 +1,11 @@
 id: 40159101
-type: way
+type: node
 latitude: 45.41852
 longitude: -71.96667
-postcode: "J1L 0A5"
+postcode: J1L 0A5
 city: Sherbrooke
-street: "boulevard du Plateau Saint-Joseph"
-housenumber: 1150
+street: boulevard du Plateau Saint-Joseph
+housenumber: "1150"
 phone: ""
 opening_hours: ""
-website: "https://www.thebrick.com/"
+website: https://www.thebrick.com/

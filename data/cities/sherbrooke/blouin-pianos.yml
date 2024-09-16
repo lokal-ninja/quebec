@@ -1,11 +1,11 @@
 id: 259415886
-type: way
+type: node
 latitude: 45.39856
 longitude: -71.91339
-postcode: "J1J 2C2"
+postcode: J1J 2C2
 city: Sherbrooke
-street: "Rue King Ouest"
-housenumber: 1506
+street: Rue King Ouest
+housenumber: "1506"
 phone: ""
 opening_hours: ""
-website: "https://pianoblouin.com/en/"
+website: https://pianoblouin.com/en/

@@ -1,11 +1,11 @@
 id: 1197841435
-type: way
+type: node
 latitude: 47.48624
 longitude: -70.30339
 postcode: ""
 city: Les Éboulements
-street: "Route du Fleuve"
-housenumber: 2593
+street: Route du Fleuve
+housenumber: "2593"
 phone: ""
 opening_hours: ""
-website: "https://fermeeboulmontaise.ca"
+website: https://fermeeboulmontaise.ca

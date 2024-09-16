@@ -2,10 +2,11 @@ id: 2501999075
 type: node
 latitude: 45.5562
 longitude: -73.53071
-postcode: "H1V 1Z7"
+postcode: H1V 1Z7
 city: Montréal
-street: "Rue Sainte-Catherine Est"
-housenumber: 4835
-phone: "+1 514 254 9090"
-opening_hours: "Mo off; Tu off; We 09:00-15:00; Th-Fr 09:00-18:00; Sa 09:00-15:00; Su off"
+street: Rue Sainte-Catherine Est
+housenumber: "4835"
+phone: +1 514 254 9090
+opening_hours: Mo off; Tu off; We 09:00-15:00; Th-Fr 09:00-18:00; Sa 09:00-15:00;
+    Su off
 website: ""

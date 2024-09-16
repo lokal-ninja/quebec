@@ -4,8 +4,8 @@ latitude: 45.54914
 longitude: -73.5418
 postcode: ""
 city: Montréal
-street: "Rue Ontario Est"
-housenumber: 3966
+street: Rue Ontario Est
+housenumber: "3966"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa,Su 10:00-17:00"
-website: "http://www.comptantontario.com/"
+opening_hours: Mo-Fr 10:00-21:00; Sa,Su 10:00-17:00
+website: http://www.comptantontario.com/

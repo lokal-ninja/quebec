@@ -4,8 +4,8 @@ latitude: 45.47456
 longitude: -73.60823
 postcode: ""
 city: Montréal
-street: "Rue Sherbrooke Ouest"
-housenumber: 5252
+street: Rue Sherbrooke Ouest
+housenumber: "5252"
 phone: ""
 opening_hours: ""
-website: "https://www.giantmontreal.ca/ca"
+website: https://www.giantmontreal.ca/ca

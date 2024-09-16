@@ -1,11 +1,11 @@
 id: 389666155
-type: way
+type: node
 latitude: 45.51202
 longitude: -73.63226
-postcode: "H3S 1B1"
+postcode: H3S 1B1
 city: Montréal
-street: "Chemin Bates"
-housenumber: 2800
+street: Chemin Bates
+housenumber: "2800"
 phone: ""
 opening_hours: ""
 website: ""

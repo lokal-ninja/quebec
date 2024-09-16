@@ -4,8 +4,8 @@ latitude: 45.5308
 longitude: -73.60812
 postcode: ""
 city: Montréal
-street: "Rue Beaubien Est"
-housenumber: 43
+street: Rue Beaubien Est
+housenumber: "43"
 phone: ""
-opening_hours: "We-Sa 11:30-17:00"
-website: "https://www.jaifengmtl.com/"
+opening_hours: We-Sa 11:30-17:00
+website: https://www.jaifengmtl.com/

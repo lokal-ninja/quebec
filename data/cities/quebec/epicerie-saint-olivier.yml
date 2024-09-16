@@ -1,11 +1,11 @@
 id: 480203314
-type: way
+type: node
 latitude: 46.8091
 longitude: -71.22603
-postcode: "G1R 1G4"
+postcode: G1R 1G4
 city: Québec
-street: "Rue Saint-Olivier"
-housenumber: 200
+street: Rue Saint-Olivier
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

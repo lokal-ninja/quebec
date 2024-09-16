@@ -1,11 +1,11 @@
 id: 155092515
-type: way
+type: node
 latitude: 45.39657
 longitude: -71.96655
-postcode: "J1L 2S7"
+postcode: J1L 2S7
 city: Sherbrooke
-street: "Boulevard Industriel"
-housenumber: 4135
-phone: "+1 819 823 5355"
+street: Boulevard Industriel
+housenumber: "4135"
+phone: +1 819 823 5355
 opening_hours: ""
-website: "https://www.electro5.com/"
+website: https://www.electro5.com/

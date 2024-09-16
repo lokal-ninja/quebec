@@ -1,11 +1,11 @@
 id: 290035723
-type: way
+type: node
 latitude: 48.55575
 longitude: -71.63977
-postcode: "G8B 5E3"
+postcode: G8B 5E3
 city: Alma
-street: "Avenue du Pont Nord"
-housenumber: 404
+street: Avenue du Pont Nord
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

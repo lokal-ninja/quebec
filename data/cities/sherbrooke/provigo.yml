@@ -1,11 +1,11 @@
 id: 804716998
-type: way
+type: node
 latitude: 45.39774
 longitude: -71.92059
-postcode: "J1J 0A4"
+postcode: J1J 0A4
 city: Sherbrooke
-street: "Boulevard Jacques-Cartier Sud"
-housenumber: 55
+street: Boulevard Jacques-Cartier Sud
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

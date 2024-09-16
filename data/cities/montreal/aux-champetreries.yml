@@ -1,11 +1,11 @@
 id: 1199889102
-type: way
+type: node
 latitude: 45.55409
 longitude: -73.53935
-postcode: "H1V 3V3"
+postcode: H1V 3V3
 city: Montréal
-street: "Rue Ontario Est"
-housenumber: 4445
-phone: "+1-514-254-3541"
+street: Rue Ontario Est
+housenumber: "4445"
+phone: +1-514-254-3541
 opening_hours: ""
-website: "http://www.distributionsescalier.com/"
+website: http://www.distributionsescalier.com/

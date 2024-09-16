@@ -1,11 +1,11 @@
 id: 551459752
-type: way
+type: node
 latitude: 46.11008
 longitude: -74.0026
 postcode: ""
 city: Entrelacs
-street: "Chemin d'Entrelacs"
-housenumber: 2400
+street: Chemin d'Entrelacs
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

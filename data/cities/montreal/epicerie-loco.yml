@@ -2,10 +2,10 @@ id: 4359752011
 type: node
 latitude: 45.543
 longitude: -73.62876
-postcode: "H2P 1V3"
+postcode: H2P 1V3
 city: Montreal
-street: "Rue Jarry Est"
-housenumber: 422
-phone: "+1 438 386-7345"
+street: Rue Jarry Est
+housenumber: "422"
+phone: +1 438 386-7345
 opening_hours: ""
-website: "https://www.epicerieloco.ca/"
+website: https://www.epicerieloco.ca/

@@ -4,8 +4,8 @@ latitude: 45.53205
 longitude: -73.60696
 postcode: ""
 city: Montréal
-street: "Rue Beaubien Est"
-housenumber: 201
-phone: "+1 514 418 1616"
-opening_hours: "We,Su 11:00-18:30; Th-Sa 11:00-23:30"
-website: "https://www.landouille.com/"
+street: Rue Beaubien Est
+housenumber: "201"
+phone: +1 514 418 1616
+opening_hours: We,Su 11:00-18:30; Th-Sa 11:00-23:30
+website: https://www.landouille.com/

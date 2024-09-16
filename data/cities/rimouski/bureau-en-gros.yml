@@ -1,11 +1,11 @@
 id: 140611252
-type: way
+type: node
 latitude: 48.45673
 longitude: -68.49427
-postcode: "G5M 1X1"
+postcode: G5M 1X1
 city: Rimouski
-street: "Montée Industrielle-et-Commerciale"
-housenumber: 390
-phone: "+1-418-724-7033"
+street: Montée Industrielle-et-Commerciale
+housenumber: "390"
+phone: +1-418-724-7033
 opening_hours: ""
-website: "https://locations.bureauengros.com/qc/rimouski/fournitures-de-bureau-ca-206.html"
+website: https://locations.bureauengros.com/qc/rimouski/fournitures-de-bureau-ca-206.html

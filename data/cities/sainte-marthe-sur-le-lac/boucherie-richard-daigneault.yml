@@ -1,11 +1,11 @@
 id: 805489794
-type: way
+type: node
 latitude: 45.52856
 longitude: -73.94123
-postcode: "J0N 1P0"
+postcode: J0N 1P0
 city: Sainte-Marthe-sur-le-Lac
-street: "Chemin d'Oka"
-housenumber: 3101
+street: Chemin d'Oka
+housenumber: "3101"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa-Su 09:00-17:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa-Su 09:00-17:00
 website: ""

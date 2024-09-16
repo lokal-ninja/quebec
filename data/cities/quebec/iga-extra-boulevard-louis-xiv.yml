@@ -1,11 +1,11 @@
 id: 203312741
-type: way
+type: node
 latitude: 46.87298
 longitude: -71.25385
 postcode: ""
 city: Québec
-street: "Boulevard Louis-XIV"
-housenumber: 1233
+street: Boulevard Louis-XIV
+housenumber: "1233"
 phone: ""
 opening_hours: ""
 website: ""

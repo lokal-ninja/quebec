@@ -4,8 +4,8 @@ latitude: 45.53519
 longitude: -73.60863
 postcode: ""
 city: Montréal
-street: "Rue Saint-Zotique Est"
-housenumber: 388
-phone: "+1-514-271-8989"
-opening_hours: "Tu-Fr 11:00-19:00; Sa-Su 12:00-17:00"
-website: "http://fripefabrique.com/"
+street: Rue Saint-Zotique Est
+housenumber: "388"
+phone: +1-514-271-8989
+opening_hours: Tu-Fr 11:00-19:00; Sa-Su 12:00-17:00
+website: http://fripefabrique.com/

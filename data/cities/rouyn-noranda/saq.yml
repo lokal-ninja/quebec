@@ -1,11 +1,11 @@
 id: 374902318
-type: way
+type: node
 latitude: 48.24104
 longitude: -79.03653
 postcode: ""
 city: Rouyn-Noranda
-street: "Boulevard Rideau"
-housenumber: 200
+street: Boulevard Rideau
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

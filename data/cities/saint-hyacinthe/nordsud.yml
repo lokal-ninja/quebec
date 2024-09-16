@@ -1,11 +1,11 @@
 id: 680473564
-type: way
+type: node
 latitude: 45.60662
 longitude: -72.97212
-postcode: "J2S 6S5"
+postcode: J2S 6S5
 city: Saint-Hyacinthe
-street: "Avenue Castelneau"
-housenumber: 715
-phone: "+1-450 778-3408"
+street: Avenue Castelneau
+housenumber: "715"
+phone: +1-450 778-3408
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 287200635
-type: way
+type: node
 latitude: 45.76515
 longitude: -74.01815
-postcode: "J7Y 4Y7"
+postcode: J7Y 4Y7
 city: Saint-Jérôme
-street: "Boulevard Jean-Baptiste-Rolland Ouest"
-housenumber: 1001
+street: Boulevard Jean-Baptiste-Rolland Ouest
+housenumber: "1001"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/st-jerome-saint-jerome-qc-529.html"
+website: https://www.costco.ca/warehouse-locations/st-jerome-saint-jerome-qc-529.html

@@ -1,11 +1,11 @@
 id: 105861127
-type: way
+type: node
 latitude: 45.45912
 longitude: -73.2569
 postcode: ""
 city: Saint-Mathias-sur-Richelieu
-street: "Chemin des Patriotes"
-housenumber: 123
+street: Chemin des Patriotes
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

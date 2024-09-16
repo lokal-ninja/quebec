@@ -4,8 +4,8 @@ latitude: 45.55026
 longitude: -73.57375
 postcode: ""
 city: Montréal
-street: "Rue Masson"
-housenumber: 3189
-phone: "+1-514-522-3680"
-opening_hours: "Mo,We 09:30-17:30; Tu,Th,Fr 09:30-20:30; Sa 09:30-16:00"
-website: "https://www.lelunetier.com/"
+street: Rue Masson
+housenumber: "3189"
+phone: +1-514-522-3680
+opening_hours: Mo,We 09:30-17:30; Tu,Th,Fr 09:30-20:30; Sa 09:30-16:00
+website: https://www.lelunetier.com/

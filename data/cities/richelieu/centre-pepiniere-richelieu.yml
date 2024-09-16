@@ -1,11 +1,11 @@
 id: 105861090
-type: way
+type: node
 latitude: 45.45833
 longitude: -73.26135
 postcode: ""
 city: Richelieu
-street: "Chemin Richelieu"
-housenumber: 80
+street: Chemin Richelieu
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

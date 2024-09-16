@@ -2,10 +2,10 @@ id: 1932245660
 type: node
 latitude: 45.5049
 longitude: -73.5562
-postcode: "H2Y 2V8"
+postcode: H2Y 2V8
 city: Montréal
-street: "Rue Saint-Sulpice"
-housenumber: 461
-phone: "+1-514-285-4944"
-opening_hours: "May-Dec Mo-We 09:00-18:00, Th-Su 09:00-20:00; Jan-Apr We-Su 10:00-17:00"
-website: "https://www.noeleternel.com/"
+street: Rue Saint-Sulpice
+housenumber: "461"
+phone: +1-514-285-4944
+opening_hours: May-Dec Mo-We 09:00-18:00, Th-Su 09:00-20:00; Jan-Apr We-Su 10:00-17:00
+website: https://www.noeleternel.com/

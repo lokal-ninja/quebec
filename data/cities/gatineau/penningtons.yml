@@ -1,11 +1,11 @@
 id: 670772457
-type: way
+type: node
 latitude: 45.46284
 longitude: -75.70064
-postcode: "J8T 3P8"
+postcode: J8T 3P8
 city: Gatineau
-street: "Boulevard Gréber"
-housenumber: 64
-phone: "+1 819-568-0402"
-opening_hours: "Mo-We,Sa 10:00-17:00; Th-Fr 10:00-18:00; Su 11:00-17:00"
-website: "https://locations.penningtons.com/qc-gatineau-5132"
+street: Boulevard Gréber
+housenumber: "64"
+phone: +1 819-568-0402
+opening_hours: Mo-We,Sa 10:00-17:00; Th-Fr 10:00-18:00; Su 11:00-17:00
+website: https://locations.penningtons.com/qc-gatineau-5132

@@ -1,11 +1,11 @@
 id: 623920315
-type: way
+type: node
 latitude: 45.55419
 longitude: -73.58688
-postcode: "H1Y 1H4"
+postcode: H1Y 1H4
 city: Montréal
-street: "Rue Beaubien Est"
-housenumber: 3194
-phone: "+1-514-727-0525"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-17:00"
-website: "http://www.climatisationbeaubien.ca"
+street: Rue Beaubien Est
+housenumber: "3194"
+phone: +1-514-727-0525
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-17:00
+website: http://www.climatisationbeaubien.ca

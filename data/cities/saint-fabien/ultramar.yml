@@ -1,11 +1,11 @@
 id: 368505563
-type: way
+type: node
 latitude: 48.3006
 longitude: -68.86529
-postcode: "G0L 2Z0"
+postcode: G0L 2Z0
 city: Saint-Fabien
-street: "Route 132 Est"
-housenumber: 104
-phone: "+1-418-869-2250"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Route 132 Est
+housenumber: "104"
+phone: +1-418-869-2250
+opening_hours: Mo-Su 07:00-22:00
 website: ""

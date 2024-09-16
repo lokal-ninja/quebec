@@ -1,11 +1,11 @@
 id: 418304632
-type: way
+type: node
 latitude: 45.42682
 longitude: -75.73375
 postcode: ""
 city: Gatineau
-street: "Boulevard Saint-Joseph"
-housenumber: 53
+street: Boulevard Saint-Joseph
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

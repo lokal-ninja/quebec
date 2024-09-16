@@ -2,10 +2,10 @@ id: 7700332924
 type: node
 latitude: 45.8668
 longitude: -72.47878
-postcode: "J2B 7P5"
+postcode: J2B 7P5
 city: Drummondville
-street: "Boulevard Saint-Joseph"
-housenumber: 2825
-phone: "+1-819-479-3209"
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 08:00-17:00"
-website: "https://www.canac.ca/fr/index.aspx"
+street: Boulevard Saint-Joseph
+housenumber: "2825"
+phone: +1-819-479-3209
+opening_hours: Mo-Fr 08:00-21:00; Sa-Su 08:00-17:00
+website: https://www.canac.ca/fr/index.aspx

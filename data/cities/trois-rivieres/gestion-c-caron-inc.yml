@@ -1,11 +1,11 @@
 id: 876244518
-type: way
+type: node
 latitude: 46.34915
 longitude: -72.57106
-postcode: "G8Z 1V5"
+postcode: G8Z 1V5
 city: Trois-Rivières
-street: "Boulevard des Forges"
-housenumber: 3130
+street: Boulevard des Forges
+housenumber: "3130"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
+opening_hours: Mo-Su 07:00-23:00
 website: ""

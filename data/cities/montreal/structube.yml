@@ -2,10 +2,10 @@ id: 5648456756
 type: node
 latitude: 45.51265
 longitude: -73.55858
-postcode: "H2X1P2"
+postcode: H2X1P2
 city: Montréal
-street: "Boulevard René-Lévesque Est"
-housenumber: 375
+street: Boulevard René-Lévesque Est
+housenumber: "375"
 phone: ""
 opening_hours: ""
-website: "https://www.structube.com/en/our-stores/montreal-rene-levesque-est"
+website: https://www.structube.com/en/our-stores/montreal-rene-levesque-est

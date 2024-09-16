@@ -1,11 +1,11 @@
 id: 241881543
-type: way
+type: node
 latitude: 45.19148
 longitude: -72.76066
-postcode: "J2K 5G9"
+postcode: J2K 5G9
 city: Cowansville
-street: "Rue de Salaberry"
-housenumber: 145
-phone: "+1 450-263-4232"
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00"
-website: "https://www.canadiantire.ca/"
+street: Rue de Salaberry
+housenumber: "145"
+phone: +1 450-263-4232
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00
+website: https://www.canadiantire.ca/

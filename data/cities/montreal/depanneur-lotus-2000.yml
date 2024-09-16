@@ -1,11 +1,11 @@
 id: 236790085
-type: way
+type: node
 latitude: 45.55993
 longitude: -73.54323
-postcode: "H1V 1E4"
+postcode: H1V 1E4
 city: Montréal
-street: "Hochelaga"
-housenumber: 4810
-phone: "+1-514-256-6141"
+street: Hochelaga
+housenumber: "4810"
+phone: +1-514-256-6141
 opening_hours: ""
 website: ""

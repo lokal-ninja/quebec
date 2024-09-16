@@ -4,8 +4,8 @@ latitude: 46.8117
 longitude: -71.23921
 postcode: ""
 city: Québec
-street: "Rue Saint-Vallier Ouest"
-housenumber: 411
-phone: "+1-581-705-9555"
-opening_hours: "Su-Tu 12:00-19:00; We 12:00-19:30; Th-Sa 12:00-20:30"
-website: "https://superettedudiner.com/"
+street: Rue Saint-Vallier Ouest
+housenumber: "411"
+phone: +1-581-705-9555
+opening_hours: Su-Tu 12:00-19:00; We 12:00-19:30; Th-Sa 12:00-20:30
+website: https://superettedudiner.com/

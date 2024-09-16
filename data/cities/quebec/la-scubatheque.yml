@@ -1,11 +1,11 @@
 id: 680393634
-type: way
+type: node
 latitude: 46.76401
 longitude: -71.39963
-postcode: "G2G 0H5"
+postcode: G2G 0H5
 city: Québec
-street: "Boulevard Wilfrid-Hamel"
-housenumber: 8155
-phone: "+1-418-687-3302"
+street: Boulevard Wilfrid-Hamel
+housenumber: "8155"
+phone: +1-418-687-3302
 opening_hours: ""
-website: "https://www.scubatheque.com/"
+website: https://www.scubatheque.com/

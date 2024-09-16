@@ -1,11 +1,11 @@
 id: 641983612
-type: way
+type: node
 latitude: 46.38309
 longitude: -72.54626
-postcode: "G8T 6Z6"
+postcode: G8T 6Z6
 city: Trois-Rivières
-street: "Boulevard Thibeau"
-housenumber: 665
+street: Boulevard Thibeau
+housenumber: "665"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:30; Sa,Su 10:00-17:00"
-website: "https://www.bulkbarn.ca/"
+opening_hours: Mo-Fr 09:30-20:30; Sa,Su 10:00-17:00
+website: https://www.bulkbarn.ca/

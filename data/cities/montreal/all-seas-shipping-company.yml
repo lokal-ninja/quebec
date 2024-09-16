@@ -2,10 +2,10 @@ id: 1307400050
 type: node
 latitude: 45.50094
 longitude: -73.55772
-postcode: "H2Y 2H1"
+postcode: H2Y 2H1
 city: Montréal
-street: "Rue Sainte-Hélène"
-housenumber: 424
-phone: "+1-514-288-8844"
+street: Rue Sainte-Hélène
+housenumber: "424"
+phone: +1-514-288-8844
 opening_hours: ""
-website: "http://allseas.ca"
+website: http://allseas.ca

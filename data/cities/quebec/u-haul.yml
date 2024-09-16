@@ -1,11 +1,11 @@
 id: 664914826
-type: way
+type: node
 latitude: 46.84064
 longitude: -71.23468
-postcode: "G1J3X2"
+postcode: G1J3X2
 city: Québec
-street: "Boulevard Henri-Bourassa"
-housenumber: 2495
+street: Boulevard Henri-Bourassa
+housenumber: "2495"
 phone: ""
 opening_hours: ""
 website: ""

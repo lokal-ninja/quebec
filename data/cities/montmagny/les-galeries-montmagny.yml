@@ -1,11 +1,11 @@
 id: 104323908
-type: way
+type: node
 latitude: 46.98108
 longitude: -70.57098
 postcode: ""
 city: Montmagny
-street: "Boulevard Taché Ouest"
-housenumber: 101
+street: Boulevard Taché Ouest
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

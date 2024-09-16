@@ -1,11 +1,11 @@
 id: 484848106
-type: way
+type: node
 latitude: 46.87263
 longitude: -71.33445
-postcode: "G3E 1K7"
+postcode: G3E 1K7
 city: Québec
-street: "Rue de la Faune"
-housenumber: 2142
+street: Rue de la Faune
+housenumber: "2142"
 phone: ""
 opening_hours: ""
-website: "http://www.pralineetchocolat.ca"
+website: http://www.pralineetchocolat.ca

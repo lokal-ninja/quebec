@@ -1,11 +1,11 @@
 id: 222684409
-type: way
+type: node
 latitude: 45.39566
 longitude: -71.86694
 postcode: ""
 city: Sherbrooke
-street: "rue Galt Est"
-housenumber: 1000
+street: rue Galt Est
+housenumber: "1000"
 phone: ""
-opening_hours: "Mo-Su 08:00-21:00; Sa-Su 08:00-17:00"
-website: "https://www.canac.ca/"
+opening_hours: Mo-Su 08:00-21:00; Sa-Su 08:00-17:00
+website: https://www.canac.ca/

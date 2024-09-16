@@ -2,10 +2,10 @@ id: 9902611802
 type: node
 latitude: 45.52751
 longitude: -73.60289
-postcode: "H2T 1T3"
+postcode: H2T 1T3
 city: Montréal
-street: "Boulevard Saint-Laurent"
-housenumber: 5830
-phone: "+1 514 903 9115"
+street: Boulevard Saint-Laurent
+housenumber: "5830"
+phone: +1 514 903 9115
 opening_hours: ""
-website: "https://www.lebutterblume.com/"
+website: https://www.lebutterblume.com/

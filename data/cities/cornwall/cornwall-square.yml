@@ -1,11 +1,11 @@
 id: 92167833
-type: way
+type: node
 latitude: 45.01627
 longitude: -74.727
-postcode: "K6H 6M2"
+postcode: K6H 6M2
 city: Cornwall
-street: "Water Street East"
-housenumber: 1
+street: Water Street East
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

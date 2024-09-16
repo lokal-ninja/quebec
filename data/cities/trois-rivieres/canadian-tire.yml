@@ -1,11 +1,11 @@
 id: 315562517
-type: way
+type: node
 latitude: 46.35086
 longitude: -72.58155
 postcode: ""
 city: Trois-Rivières
-street: "Boulevard des Forges"
-housenumber: 
+street: Boulevard des Forges
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00"
-website: "https://www.canadiantire.ca/"
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00
+website: https://www.canadiantire.ca/

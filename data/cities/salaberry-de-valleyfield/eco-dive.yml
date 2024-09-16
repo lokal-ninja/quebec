@@ -1,11 +1,11 @@
 id: 680636194
-type: way
+type: node
 latitude: 45.25619
 longitude: -74.13511
-postcode: "J6T 1B3"
+postcode: J6T 1B3
 city: Salaberry-de-Valleyfield
-street: "Rue Victoria"
-housenumber: 307
-phone: "+1-450-802-8958"
+street: Rue Victoria
+housenumber: "307"
+phone: +1-450-802-8958
 opening_hours: ""
-website: "https://www.ecodive.ca"
+website: https://www.ecodive.ca

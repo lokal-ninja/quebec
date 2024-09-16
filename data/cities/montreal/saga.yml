@@ -4,8 +4,8 @@ latitude: 45.46975
 longitude: -73.60821
 postcode: ""
 city: Montréal
-street: "Chemin Upper-Lachine"
-housenumber: 5574
-phone: "+1 514 977 4359"
-opening_hours: "Th-Sa 12:00-18:00"
-website: "https://www.librairiesaga.ca/"
+street: Chemin Upper-Lachine
+housenumber: "5574"
+phone: +1 514 977 4359
+opening_hours: Th-Sa 12:00-18:00
+website: https://www.librairiesaga.ca/

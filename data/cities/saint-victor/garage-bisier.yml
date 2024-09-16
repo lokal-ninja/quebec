@@ -1,11 +1,11 @@
 id: 550266188
-type: way
+type: node
 latitude: 46.15252
 longitude: -70.89913
-postcode: "G0M 2B0"
+postcode: G0M 2B0
 city: Saint-Victor
-street: "Rue Principale"
-housenumber: 353
+street: Rue Principale
+housenumber: "353"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 876335253
-type: way
+type: node
 latitude: 46.3525
 longitude: -72.61447
-postcode: "G8Y 7H3"
+postcode: G8Y 7H3
 city: Trois-Rivières-Ouest
-street: "Rue de Montlieu"
-housenumber: 5160
-phone: "+1-819-266-3387"
+street: Rue de Montlieu
+housenumber: "5160"
+phone: +1-819-266-3387
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.5182
 longitude: -73.57811
 postcode: ""
 city: Montréal
-street: "Avenue Duluth Est"
-housenumber: 130
-phone: "+1 514 288 2451"
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 08:00-19:00; Su off"
-website: "https://www.facebook.com/SoaresBoucherie/"
+street: Avenue Duluth Est
+housenumber: "130"
+phone: +1 514 288 2451
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-21:00; Sa 08:00-19:00; Su off
+website: https://www.facebook.com/SoaresBoucherie/

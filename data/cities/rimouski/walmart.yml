@@ -1,11 +1,11 @@
 id: 95805194
-type: way
+type: node
 latitude: 48.45448
 longitude: -68.49738
-postcode: "G5M 1Y1"
+postcode: G5M 1Y1
 city: Rimouski
-street: "Montée Industrielle-et-Commerciale"
-housenumber: 415
-phone: "+1-418-722-1990"
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00"
-website: "https://www.walmart.ca/en/stores-near-me/rimouski-quebec-3198"
+street: Montée Industrielle-et-Commerciale
+housenumber: "415"
+phone: +1-418-722-1990
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00
+website: https://www.walmart.ca/en/stores-near-me/rimouski-quebec-3198

@@ -1,11 +1,11 @@
 id: 429061424
-type: way
+type: node
 latitude: 45.44015
 longitude: -75.73478
 postcode: ""
 city: Gatineau
-street: "Boulevard Montclair"
-housenumber: 43
+street: Boulevard Montclair
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

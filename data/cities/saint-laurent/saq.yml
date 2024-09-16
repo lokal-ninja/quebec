@@ -1,11 +1,11 @@
 id: 299079387
-type: way
+type: node
 latitude: 45.51812
 longitude: -73.7
-postcode: "H4R 1K4"
+postcode: H4R 1K4
 city: Saint-Laurent
-street: "Boulevard Marcel-Laurin"
-housenumber: 1919
-phone: "+1-514-744-6628"
+street: Boulevard Marcel-Laurin
+housenumber: "1919"
+phone: +1-514-744-6628
 opening_hours: ""
-website: "http://SAQ.com"
+website: http://SAQ.com

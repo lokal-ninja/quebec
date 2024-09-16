@@ -1,11 +1,11 @@
 id: 168860997
-type: way
+type: node
 latitude: 45.34725
 longitude: -73.30032
 postcode: ""
 city: Saint-Jean-sur-Richelieu
-street: "Rue Bernier"
-housenumber: 295
+street: Rue Bernier
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

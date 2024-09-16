@@ -1,11 +1,11 @@
 id: 550683115
-type: way
+type: node
 latitude: 46.53793
 longitude: -70.78505
-postcode: "G0R 3N0"
+postcode: G0R 3N0
 city: Saint-Malachie
-street: "Route Henderson"
-housenumber: 621
-phone: "+1-418-642-2871"
+street: Route Henderson
+housenumber: "621"
+phone: +1-418-642-2871
 opening_hours: ""
 website: ""

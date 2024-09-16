@@ -2,10 +2,10 @@ id: 1070167403
 type: node
 latitude: 45.55071
 longitude: -73.57312
-postcode: "H1Y 1Y3"
+postcode: H1Y 1Y3
 city: Montréal
-street: "Rue Masson"
-housenumber: 3238
-phone: "+1-514-376-8836"
-opening_hours: "Mo-Fr 10:00-21:00; Sa,Su 10:00-17:00"
-website: "https://renaissancequebec.ca"
+street: Rue Masson
+housenumber: "3238"
+phone: +1-514-376-8836
+opening_hours: Mo-Fr 10:00-21:00; Sa,Su 10:00-17:00
+website: https://renaissancequebec.ca

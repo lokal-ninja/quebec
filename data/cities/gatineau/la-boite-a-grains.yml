@@ -1,11 +1,11 @@
 id: 162779819
-type: way
+type: node
 latitude: 45.45012
 longitude: -75.73661
-postcode: "J8Y 4A6"
+postcode: J8Y 4A6
 city: Gatineau
-street: "Boulevard Saint-Joseph"
-housenumber: 581
+street: Boulevard Saint-Joseph
+housenumber: "581"
 phone: ""
 opening_hours: ""
 website: ""

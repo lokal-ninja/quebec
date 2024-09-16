@@ -1,11 +1,11 @@
 id: 46844799
-type: way
+type: node
 latitude: 45.56985
 longitude: -73.60637
-postcode: "H1Z 4J8"
+postcode: H1Z 4J8
 city: Montréal
-street: "19e"
-housenumber: 8200
-phone: "+1-514-593-1333"
+street: 19e
+housenumber: "8200"
+phone: +1-514-593-1333
 opening_hours: ""
-website: "http://samifruits.com/"
+website: http://samifruits.com/

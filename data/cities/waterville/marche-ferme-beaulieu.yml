@@ -1,11 +1,11 @@
 id: 128107699
-type: way
+type: node
 latitude: 45.34395
 longitude: -71.86571
 postcode: ""
 city: Waterville
-street: "Route 143"
-housenumber: 3750
+street: Route 143
+housenumber: "3750"
 phone: ""
 opening_hours: ""
 website: ""

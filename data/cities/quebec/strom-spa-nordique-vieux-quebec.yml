@@ -1,11 +1,11 @@
 id: 641981594
-type: way
+type: node
 latitude: 46.80048
 longitude: -71.21147
-postcode: "G1K 0E4"
+postcode: G1K 0E4
 city: Québec
-street: "Boulevard Champlain"
-housenumber: 515
-phone: "+1-877-761-2772"
-opening_hours: "10:00-22:00"
-website: "https://www.stromspa.com/"
+street: Boulevard Champlain
+housenumber: "515"
+phone: +1-877-761-2772
+opening_hours: 10:00-22:00
+website: https://www.stromspa.com/

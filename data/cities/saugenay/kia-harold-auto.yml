@@ -1,11 +1,11 @@
 id: 701377042
-type: way
+type: node
 latitude: 48.38493
 longitude: -71.1089
 postcode: ""
 city: Saugenay
-street: "Boulevard du Royaume Ouest"
-housenumber: 1120
+street: Boulevard du Royaume Ouest
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

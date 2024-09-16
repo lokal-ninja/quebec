@@ -1,11 +1,11 @@
 id: 504323371
-type: way
+type: node
 latitude: 45.46869
 longitude: -73.60972
 postcode: ""
 city: Montréal
-street: "Chemin Upper Lachine"
-housenumber: 5650
+street: Chemin Upper Lachine
+housenumber: "5650"
 phone: ""
 opening_hours: ""
 website: ""

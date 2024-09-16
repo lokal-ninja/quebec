@@ -1,11 +1,11 @@
 id: 386099042
-type: way
+type: node
 latitude: 48.42846
 longitude: -71.07025
 postcode: ""
 city: Saguenay
-street: "Rue Racine Ouest"
-housenumber: 55
+street: Rue Racine Ouest
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

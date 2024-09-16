@@ -1,11 +1,11 @@
 id: 414891267
-type: way
+type: node
 latitude: 45.52875
 longitude: -74.20042
 postcode: ""
 city: Saint-Placide
-street: "Boulevard Saint-Placide"
-housenumber: 2135
+street: Boulevard Saint-Placide
+housenumber: "2135"
 phone: ""
 opening_hours: ""
 website: ""

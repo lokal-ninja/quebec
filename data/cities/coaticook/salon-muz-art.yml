@@ -4,8 +4,9 @@ latitude: 45.12502
 longitude: -71.79706
 postcode: ""
 city: Coaticook
-street: "Rue Saint-Jacques Sud"
-housenumber: 386
-phone: "+1-819-347-5022"
-opening_hours: "Mo off; Tu 09:00-19:00; We-Th 09:00-20:00; Fr 08:30-17:00; Sa-Su off; PH off"
-website: "https://www.salonmuz-art.ca/"
+street: Rue Saint-Jacques Sud
+housenumber: "386"
+phone: +1-819-347-5022
+opening_hours: Mo off; Tu 09:00-19:00; We-Th 09:00-20:00; Fr 08:30-17:00; Sa-Su off;
+    PH off
+website: https://www.salonmuz-art.ca/

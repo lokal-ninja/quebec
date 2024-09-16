@@ -1,11 +1,11 @@
 id: 1199889109
-type: way
+type: node
 latitude: 45.55402
 longitude: -73.53954
-postcode: "H1V 3V3"
+postcode: H1V 3V3
 city: Montréal
-street: "Rue Ontario Est"
-housenumber: 4445
-phone: "+1-514-253-7925"
+street: Rue Ontario Est
+housenumber: "4445"
+phone: +1-514-253-7925
 opening_hours: ""
 website: ""

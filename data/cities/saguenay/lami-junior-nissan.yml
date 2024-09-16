@@ -1,11 +1,11 @@
 id: 701377041
-type: way
+type: node
 latitude: 48.38419
 longitude: -71.09122
 postcode: ""
 city: Saguenay
-street: "Boulevard du Royaume Ouest"
-housenumber: 567
+street: Boulevard du Royaume Ouest
+housenumber: "567"
 phone: ""
 opening_hours: ""
 website: ""

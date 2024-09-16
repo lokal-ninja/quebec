@@ -1,11 +1,11 @@
 id: 398866375
-type: way
+type: node
 latitude: 48.56793
 longitude: -78.10446
 postcode: ""
 city: Amos
-street: "12e Avenue Est"
-housenumber: 421
+street: 12e Avenue Est
+housenumber: "421"
 phone: ""
 opening_hours: ""
 website: ""

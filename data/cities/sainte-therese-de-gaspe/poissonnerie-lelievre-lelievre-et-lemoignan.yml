@@ -1,11 +1,11 @@
 id: 491134667
-type: way
+type: node
 latitude: 48.41552
 longitude: -64.39657
-postcode: "G0C 3B0"
+postcode: G0C 3B0
 city: Sainte-Thérèse-de-Gaspé
-street: "Rue des Vigneaux"
-housenumber: 52
-phone: "+1-418-385-3310"
+street: Rue des Vigneaux
+housenumber: "52"
+phone: +1-418-385-3310
 opening_hours: ""
 website: ""

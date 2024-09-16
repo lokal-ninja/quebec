@@ -1,11 +1,11 @@
 id: 893990277
-type: way
+type: node
 latitude: 45.53415
 longitude: -72.0486
-postcode: "J0B2V0"
+postcode: J0B2V0
 city: Saint-François-Xavier-de-Brompton
-street: "Rue Principale"
-housenumber: 144
+street: Rue Principale
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

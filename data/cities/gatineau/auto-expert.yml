@@ -1,11 +1,11 @@
 id: 465012275
-type: way
+type: node
 latitude: 45.58892
 longitude: -75.41516
 postcode: ""
 city: Gatineau
-street: "Rue Charles"
-housenumber: 438
+street: Rue Charles
+housenumber: "438"
 phone: ""
 opening_hours: ""
 website: ""

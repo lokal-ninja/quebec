@@ -1,11 +1,11 @@
 id: 369135051
-type: way
+type: node
 latitude: 45.46987
 longitude: -75.7005
-postcode: "J8T 3R1"
+postcode: J8T 3R1
 city: Gatineau
-street: "Boulevard Gréber"
-housenumber: 155
-phone: "+1 819-561-4221"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-13:00; Su off"
-website: "https://www.midas.com/store/qc/gatineau/155-greber-boul-j8t-3r1?shopnum=9500"
+street: Boulevard Gréber
+housenumber: "155"
+phone: +1 819-561-4221
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-13:00; Su off
+website: https://www.midas.com/store/qc/gatineau/155-greber-boul-j8t-3r1?shopnum=9500

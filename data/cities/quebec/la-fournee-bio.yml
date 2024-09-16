@@ -1,11 +1,11 @@
 id: 244752786
-type: way
+type: node
 latitude: 46.82841
 longitude: -71.23138
-postcode: "G1L 2X7"
+postcode: G1L 2X7
 city: Québec
-street: "3e Avenue"
-housenumber: 1296
+street: 3e Avenue
+housenumber: "1296"
 phone: ""
 opening_hours: ""
 website: ""

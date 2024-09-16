@@ -1,11 +1,11 @@
 id: 163606654
-type: way
+type: node
 latitude: 45.47889
 longitude: -75.69082
-postcode: "J8T 3R6"
+postcode: J8T 3R6
 city: Gatineau
-street: "Boulevard Maloney Ouest"
-housenumber: 960
-phone: "+1-819-778-2225"
-opening_hours: "Mo-We,Fr 09:00-17:00; Th 09:00-18:00"
-website: "https://voyage.caaquebec.com/en/contact-us/gatineau-travel-agency/"
+street: Boulevard Maloney Ouest
+housenumber: "960"
+phone: +1-819-778-2225
+opening_hours: Mo-We,Fr 09:00-17:00; Th 09:00-18:00
+website: https://voyage.caaquebec.com/en/contact-us/gatineau-travel-agency/

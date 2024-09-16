@@ -2,10 +2,10 @@ id: 4726976004
 type: node
 latitude: 46.81463
 longitude: -71.21084
-postcode: "G1R 4H8"
+postcode: G1R 4H8
 city: Quebec
-street: "côte du palais"
-housenumber: 42
-phone: "+1-418-380-8237"
-opening_hours: "07:00-19:00"
+street: côte du palais
+housenumber: "42"
+phone: +1-418-380-8237
+opening_hours: 07:00-19:00
 website: ""

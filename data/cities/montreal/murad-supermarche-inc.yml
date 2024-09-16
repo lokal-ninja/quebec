@@ -1,11 +1,11 @@
 id: 744765230
-type: way
+type: node
 latitude: 45.53068
 longitude: -73.63578
-postcode: "H3N 1G5"
+postcode: H3N 1G5
 city: Montréal
-street: "Rue Jarry Ouest"
-housenumber: 700
+street: Rue Jarry Ouest
+housenumber: "700"
 phone: ""
-opening_hours: "Mo-Su 08:30-22:00"
+opening_hours: Mo-Su 08:30-22:00
 website: ""

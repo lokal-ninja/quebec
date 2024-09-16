@@ -1,11 +1,11 @@
 id: 680215351
-type: way
+type: node
 latitude: 45.58712
 longitude: -73.71041
-postcode: "H7M 2Y2"
+postcode: H7M 2Y2
 city: Laval
-street: "Boulevard des Laurentides"
-housenumber: 1355
-phone: "+1-450-667-4656"
+street: Boulevard des Laurentides
+housenumber: "1355"
+phone: +1-450-667-4656
 opening_hours: ""
-website: "https://www.boutiqueduplongeur.com/"
+website: https://www.boutiqueduplongeur.com/

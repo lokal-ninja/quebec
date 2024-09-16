@@ -2,10 +2,10 @@ id: 452590078
 type: node
 latitude: 45.45139
 longitude: -73.44409
-postcode: "J4Y 0A5"
+postcode: J4Y 0A5
 city: Brossard
-street: "Boulevard Leduc"
-housenumber: 8440
-phone: "+1-450-678-7087"
-opening_hours: "Mo-Tu 09:30-18:00; We-Fr 09:30-21:00; Sa 09:00-17:00; Su 10:00-17:00"
-website: "http://www.entrepotducadre.ca/"
+street: Boulevard Leduc
+housenumber: "8440"
+phone: +1-450-678-7087
+opening_hours: Mo-Tu 09:30-18:00; We-Fr 09:30-21:00; Sa 09:00-17:00; Su 10:00-17:00
+website: http://www.entrepotducadre.ca/

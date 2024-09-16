@@ -1,11 +1,11 @@
 id: 548915471
-type: way
+type: node
 latitude: 45.45726
 longitude: -73.5908
 postcode: ""
 city: Montréal
-street: "Rue Jolicoeur"
-housenumber: 1903
+street: Rue Jolicoeur
+housenumber: "1903"
 phone: ""
 opening_hours: ""
 website: ""

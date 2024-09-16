@@ -1,11 +1,11 @@
 id: 190800467
-type: way
+type: node
 latitude: 48.57149
 longitude: -78.10531
 postcode: ""
 city: Amos
-street: "4e Rue Est"
-housenumber: 472
+street: 4e Rue Est
+housenumber: "472"
 phone: ""
 opening_hours: ""
 website: ""

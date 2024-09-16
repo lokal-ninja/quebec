@@ -1,11 +1,11 @@
 id: 40158972
-type: way
+type: node
 latitude: 45.42076
 longitude: -71.96977
-postcode: "J1L 3C5"
+postcode: J1L 3C5
 city: Sherbrooke
-street: "Boulevard du Plateau St-Joseph"
-housenumber: 1355
-phone: "+1-819-348-4481"
+street: Boulevard du Plateau St-Joseph
+housenumber: "1355"
+phone: +1-819-348-4481
 opening_hours: ""
-website: "http://www.homedepot.ca"
+website: http://www.homedepot.ca

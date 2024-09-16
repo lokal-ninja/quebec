@@ -1,11 +1,11 @@
 id: 82699497
-type: way
+type: node
 latitude: 46.33134
 longitude: -72.57338
-postcode: "G9A 6J2"
+postcode: G9A 6J2
 city: Trois-Rivières
-street: "Boulevard des Récollets"
-housenumber: 2930
-phone: "+1 (819) 238-1718"
+street: Boulevard des Récollets
+housenumber: "2930"
+phone: +1 (819) 238-1718
 opening_hours: ""
-website: "https://www.jysk.ca/"
+website: https://www.jysk.ca/

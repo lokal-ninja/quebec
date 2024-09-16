@@ -1,11 +1,11 @@
 id: 551051423
-type: way
+type: node
 latitude: 46.74051
 longitude: -72.55838
-postcode: "G0X 2H0"
+postcode: G0X 2H0
 city: Saint-Tite
-street: "QC-153"
-housenumber: 995
-phone: "+1-418-365-5038"
+street: QC-153
+housenumber: "995"
+phone: +1-418-365-5038
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 427842970
-type: way
+type: node
 latitude: 45.43029
 longitude: -75.7364
 postcode: ""
 city: Gatineau
-street: "Rue Demontigny"
-housenumber: 5
+street: Rue Demontigny
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

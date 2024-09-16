@@ -1,11 +1,11 @@
 id: 1126581286
-type: way
+type: node
 latitude: 49.05327
 longitude: -76.97885
-postcode: "J0Y 1X0"
+postcode: J0Y 1X0
 city: Lebel-sur-Quévillon
-street: "Place Quévillon"
-housenumber: 66
+street: Place Quévillon
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

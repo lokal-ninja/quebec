@@ -4,8 +4,8 @@ latitude: 45.49411
 longitude: -73.5641
 postcode: ""
 city: Montréal
-street: "Rue Notre-Dame Ouest"
-housenumber: 120
-phone: "+1 514 564 7770"
-opening_hours: "Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00"
-website: "http://notrebarbier.com/"
+street: Rue Notre-Dame Ouest
+housenumber: "120"
+phone: +1 514 564 7770
+opening_hours: Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00
+website: http://notrebarbier.com/

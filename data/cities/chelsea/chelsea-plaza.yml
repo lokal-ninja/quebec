@@ -1,11 +1,11 @@
 id: 273579207
-type: way
+type: node
 latitude: 45.50835
 longitude: -75.7856
-postcode: "J9B 1L2"
+postcode: J9B 1L2
 city: Chelsea
-street: "Route 105"
-housenumber: 528
+street: Route 105
+housenumber: "528"
 phone: ""
 opening_hours: ""
 website: ""

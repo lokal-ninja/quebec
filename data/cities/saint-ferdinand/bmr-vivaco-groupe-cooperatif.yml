@@ -1,11 +1,11 @@
 id: 99937283
-type: way
+type: node
 latitude: 46.12978
 longitude: -71.58911
-postcode: "G0N 1N0"
+postcode: G0N 1N0
 city: Saint-Ferdinand
-street: "Route 165"
-housenumber: 2461
+street: Route 165
+housenumber: "2461"
 phone: ""
 opening_hours: ""
 website: ""

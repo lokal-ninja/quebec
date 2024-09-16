@@ -1,11 +1,11 @@
 id: 409612585
-type: way
+type: node
 latitude: 46.73742
 longitude: -70.02355
 postcode: ""
 city: Sainte-Lucie-de-Beauregard
-street: "Rue Principale"
-housenumber: 146
-phone: "+1 418-223-3761"
+street: Rue Principale
+housenumber: "146"
+phone: +1 418-223-3761
 opening_hours: ""
 website: ""

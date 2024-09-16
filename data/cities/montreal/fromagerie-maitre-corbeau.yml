@@ -2,10 +2,10 @@ id: 5945752785
 type: node
 latitude: 45.53308
 longitude: -73.58429
-postcode: "h2j3n4"
+postcode: h2j3n4
 city: Montréal
-street: "Rue Chambord"
-housenumber: 5101
-phone: "+1 514 528 3293"
-opening_hours: "Mo-We 08:30-18:30; Th-Fr 08:30-20:00; Sa 08:30-18:00; Su 08:30-17:00"
-website: "https://www.fromagerie-maitrecorbeau.com/"
+street: Rue Chambord
+housenumber: "5101"
+phone: +1 514 528 3293
+opening_hours: Mo-We 08:30-18:30; Th-Fr 08:30-20:00; Sa 08:30-18:00; Su 08:30-17:00
+website: https://www.fromagerie-maitrecorbeau.com/

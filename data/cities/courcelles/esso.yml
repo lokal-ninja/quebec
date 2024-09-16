@@ -1,11 +1,11 @@
 id: 550257323
-type: way
+type: node
 latitude: 45.88127
 longitude: -70.99152
-postcode: "G0M 1C0"
+postcode: G0M 1C0
 city: Courcelles
-street: "Rue Principale"
-housenumber: 101
-phone: "+1-418-483-5297"
+street: Rue Principale
+housenumber: "101"
+phone: +1-418-483-5297
 opening_hours: ""
 website: ""

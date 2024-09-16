@@ -1,11 +1,11 @@
 id: 549356762
-type: way
+type: node
 latitude: 48.39666
 longitude: -68.65805
-postcode: "G0L 1B0"
+postcode: G0L 1B0
 city: Le Bic
-street: "QC-132"
-housenumber: 2207
-phone: "+1-418-736-5083"
+street: QC-132
+housenumber: "2207"
+phone: +1-418-736-5083
 opening_hours: ""
 website: ""

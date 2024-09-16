@@ -1,11 +1,11 @@
 id: 290009888
-type: way
+type: node
 latitude: 48.45996
 longitude: -70.97765
-postcode: "G0V 1S0"
+postcode: G0V 1S0
 city: Saint-Fulgence
-street: "Boulevard de Tadoussac"
-housenumber: 50
-phone: "+1-418-674-2811"
+street: Boulevard de Tadoussac
+housenumber: "50"
+phone: +1-418-674-2811
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-saint-fulgence-qc-esso-200303284"
+website: https://www.esso.ca/en-ca/find-station/esso-saint-fulgence-qc-esso-200303284

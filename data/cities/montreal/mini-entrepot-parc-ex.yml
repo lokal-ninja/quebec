@@ -1,11 +1,11 @@
 id: 46865944
-type: way
+type: node
 latitude: 45.53191
 longitude: -73.62832
-postcode: "H3N 1K2"
+postcode: H3N 1K2
 city: Montréal
-street: "Rue Saint-Roch"
-housenumber: 403
+street: Rue Saint-Roch
+housenumber: "403"
 phone: ""
 opening_hours: ""
-website: "http://www.mep-ex.ca/"
+website: http://www.mep-ex.ca/

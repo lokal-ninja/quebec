@@ -1,11 +1,11 @@
 id: 328247817
-type: way
+type: node
 latitude: 45.50358
 longitude: -75.80215
-postcode: "J9B 1J3"
+postcode: J9B 1J3
 city: Chelsea
-street: "Chemin Old Chelsea"
-housenumber: 148
-phone: "+1-819-827-5340"
+street: Chemin Old Chelsea
+housenumber: "148"
+phone: +1-819-827-5340
 opening_hours: ""
 website: ""

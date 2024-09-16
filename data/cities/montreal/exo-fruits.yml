@@ -1,11 +1,11 @@
 id: 991607476
-type: way
+type: node
 latitude: 45.4954
 longitude: -73.62105
-postcode: "H3T 1X8"
+postcode: H3T 1X8
 city: Montréal
-street: "Chemin de la Côte-des-Neiges"
-housenumber: 5192
-phone: "+1-514-738-1384"
+street: Chemin de la Côte-des-Neiges
+housenumber: "5192"
+phone: +1-514-738-1384
 opening_hours: ""
 website: ""

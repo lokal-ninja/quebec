@@ -1,11 +1,11 @@
 id: 465215666
-type: way
+type: node
 latitude: 46.86342
 longitude: -71.33051
-postcode: "G3E 1H8"
+postcode: G3E 1H8
 city: Québec
-street: "Avenue Lapierre"
-housenumber: 1185
+street: Avenue Lapierre
+housenumber: "1185"
 phone: ""
 opening_hours: ""
 website: ""

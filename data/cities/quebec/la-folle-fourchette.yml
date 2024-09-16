@@ -2,10 +2,10 @@ id: 4013245974
 type: node
 latitude: 46.82647
 longitude: -71.22942
-postcode: "G1L 2X1"
+postcode: G1L 2X1
 city: Québec
-street: "3e Avenue"
-housenumber: 98
-phone: "+1-581-742-0767"
-opening_hours: "10:00-19:00"
-website: "http://lafollefourchette.com"
+street: 3e Avenue
+housenumber: "98"
+phone: +1-581-742-0767
+opening_hours: 10:00-19:00
+website: http://lafollefourchette.com

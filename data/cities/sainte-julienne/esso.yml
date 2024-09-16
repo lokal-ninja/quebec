@@ -1,11 +1,11 @@
 id: 553054905
-type: way
+type: node
 latitude: 46.00024
 longitude: -73.72277
-postcode: "J0K 2T0"
+postcode: J0K 2T0
 city: Sainte-Julienne
-street: "QC-125"
-housenumber: 2912
-phone: "+1-450-834-5375"
+street: QC-125
+housenumber: "2912"
+phone: +1-450-834-5375
 opening_hours: ""
 website: ""

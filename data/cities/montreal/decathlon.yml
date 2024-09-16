@@ -4,8 +4,8 @@ latitude: 45.53337
 longitude: -73.64851
 postcode: ""
 city: Montréal
-street: "Rue du Marché-Central"
-housenumber: 955
+street: Rue du Marché-Central
+housenumber: "955"
 phone: ""
 opening_hours: ""
-website: "https://www.decathlon.ca/fr/stores/decathlon-marche-central"
+website: https://www.decathlon.ca/fr/stores/decathlon-marche-central

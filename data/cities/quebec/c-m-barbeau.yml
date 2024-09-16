@@ -1,11 +1,11 @@
 id: 395875988
-type: way
+type: node
 latitude: 46.87087
 longitude: -71.33854
-postcode: "G3E 1J2"
+postcode: G3E 1J2
 city: Québec
-street: "Rue de la Faune"
-housenumber: 2506
+street: Rue de la Faune
+housenumber: "2506"
 phone: ""
 opening_hours: ""
-website: "http://www.cmbarbeau.ca"
+website: http://www.cmbarbeau.ca

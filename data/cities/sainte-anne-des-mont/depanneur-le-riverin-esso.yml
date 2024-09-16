@@ -1,11 +1,11 @@
 id: 549189351
-type: way
+type: node
 latitude: 49.12277
 longitude: -66.49943
-postcode: "G0E 2G0"
+postcode: G0E 2G0
 city: Sainte-Anne-des-Mont
-street: "Boulevard Sainte-Anne Ouest"
-housenumber: 200
-phone: "+1-418-763-5717"
+street: Boulevard Sainte-Anne Ouest
+housenumber: "200"
+phone: +1-418-763-5717
 opening_hours: ""
 website: ""

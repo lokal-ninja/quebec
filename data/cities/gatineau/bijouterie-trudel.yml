@@ -1,11 +1,11 @@
 id: 465000866
-type: way
+type: node
 latitude: 45.58962
 longitude: -75.41673
-postcode: "J8L 2G7"
+postcode: J8L 2G7
 city: Gatineau
-street: "Avenue de Buckingham"
-housenumber: 396
+street: Avenue de Buckingham
+housenumber: "396"
 phone: ""
 opening_hours: ""
 website: ""

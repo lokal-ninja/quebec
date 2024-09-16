@@ -1,11 +1,11 @@
 id: 674223634
-type: way
+type: node
 latitude: 45.39424
 longitude: -72.0141
-postcode: "J1R 0L1"
+postcode: J1R 0L1
 city: Sherbrooke
-street: "Chemin de Saint-Élie"
-housenumber: 6185
+street: Chemin de Saint-Élie
+housenumber: "6185"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 476679594
-type: way
+type: node
 latitude: 45.48429
 longitude: -75.62565
-postcode: "J8P 1G2"
+postcode: J8P 1G2
 city: Gatineau
-street: "Boulevard Maloney Est"
-housenumber: 655
-phone: "+1 819-669-6111"
-opening_hours: "Mo-We,Fr 07:30-17:30; Th 07:30-20:00; Sa 08:00-15:00; Su off"
-website: "https://www.attache-remorques.com"
+street: Boulevard Maloney Est
+housenumber: "655"
+phone: +1 819-669-6111
+opening_hours: Mo-We,Fr 07:30-17:30; Th 07:30-20:00; Sa 08:00-15:00; Su off
+website: https://www.attache-remorques.com

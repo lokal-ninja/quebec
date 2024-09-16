@@ -1,11 +1,11 @@
 id: 671623824
-type: way
+type: node
 latitude: 45.48452
 longitude: -75.61034
 postcode: ""
 city: Gatineau
-street: "Boulevard Maloney Est"
-housenumber: 825
+street: Boulevard Maloney Est
+housenumber: "825"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 285262569
-type: way
+type: node
 latitude: 45.59396
 longitude: -73.57203
-postcode: "H1S 1N1"
+postcode: H1S 1N1
 city: Montréal
-street: "Rue Jean-Talon Est"
-housenumber: 6700
+street: Rue Jean-Talon Est
+housenumber: "6700"
 phone: ""
 opening_hours: ""
 website: ""

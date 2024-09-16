@@ -1,11 +1,11 @@
 id: 290028094
-type: way
+type: node
 latitude: 46.20735
 longitude: -75.67583
-postcode: "J0W 1S0"
+postcode: J0W 1S0
 city: Notre-Dame-de-Pontmain
-street: "Route 309 Sud"
-housenumber: 501
-phone: "+1-819-767-2474"
+street: Route 309 Sud
+housenumber: "501"
+phone: +1-819-767-2474
 opening_hours: ""
 website: ""

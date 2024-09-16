@@ -1,11 +1,11 @@
 id: 799492308
-type: way
+type: node
 latitude: 46.69732
 longitude: -71.58462
-postcode: "G0A 2R0"
+postcode: G0A 2R0
 city: Neuville
-street: "Rue de l'Église"
-housenumber: 206
-phone: "+1-418-876-2626"
+street: Rue de l'Église
+housenumber: "206"
+phone: +1-418-876-2626
 opening_hours: ""
 website: ""

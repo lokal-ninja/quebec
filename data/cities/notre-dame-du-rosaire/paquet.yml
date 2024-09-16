@@ -1,11 +1,11 @@
 id: 549818901
-type: way
+type: node
 latitude: 46.82302
 longitude: -70.3887
-postcode: "G0R 2H0"
+postcode: G0R 2H0
 city: Notre-Dame-du-Rosaire
-street: "Rue Principale"
-housenumber: 85
-phone: "+1-418-469-0001"
+street: Rue Principale
+housenumber: "85"
+phone: +1-418-469-0001
 opening_hours: ""
 website: ""

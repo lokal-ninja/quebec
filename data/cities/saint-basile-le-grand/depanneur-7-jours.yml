@@ -1,11 +1,11 @@
 id: 665225843
-type: way
+type: node
 latitude: 45.52532
 longitude: -73.28903
-postcode: "J3N 1L6"
+postcode: J3N 1L6
 city: Saint-Basile-le-Grand
-street: "Rue Principale"
-housenumber: 221
+street: Rue Principale
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

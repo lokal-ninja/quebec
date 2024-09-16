@@ -2,10 +2,10 @@ id: 1573682014
 type: node
 latitude: 45.51934
 longitude: -73.58429
-postcode: "H2W 1Z8"
+postcode: H2W 1Z8
 city: Montréal
-street: "Boulevard Saint-Laurent"
-housenumber: 4375
+street: Boulevard Saint-Laurent
+housenumber: "4375"
 phone: ""
-opening_hours: "Mo-We 10:00-18:00, Th 09:00-20:00, Fr 10:00-20:00, Sa 10:00-17:00"
-website: "(514) 843-4354"
+opening_hours: Mo-We 10:00-18:00, Th 09:00-20:00, Fr 10:00-20:00, Sa 10:00-17:00
+website: (514) 843-4354

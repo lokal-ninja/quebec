@@ -1,11 +1,11 @@
 id: 549180854
-type: way
+type: node
 latitude: 48.02851
 longitude: -65.25226
-postcode: "G0C 2K0"
+postcode: G0C 2K0
 city: Paspébiac
-street: "Boulevard Gérard-D.-Levesque Ouest"
-housenumber: 41
-phone: "+1-418-752-6987"
+street: Boulevard Gérard-D.-Levesque Ouest
+housenumber: "41"
+phone: +1-418-752-6987
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1310965799
-type: way
+type: node
 latitude: 48.68373
 longitude: -67.95688
 postcode: ""
 city: Métis-sur-Mer
-street: "Route 132"
-housenumber: 91
+street: Route 132
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

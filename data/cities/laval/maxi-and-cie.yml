@@ -1,11 +1,11 @@
 id: 277425590
-type: way
+type: node
 latitude: 45.55362
 longitude: -73.75107
 postcode: ""
 city: Laval
-street: "Boulevard Saint-Martin"
-housenumber: 
+street: Boulevard Saint-Martin
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

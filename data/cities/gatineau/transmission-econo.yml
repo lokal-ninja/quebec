@@ -1,11 +1,11 @@
 id: 307636727
-type: way
+type: node
 latitude: 45.46643
 longitude: -75.70011
-postcode: "J8T 3P9"
+postcode: J8T 3P9
 city: Gatineau
-street: "Boulevard Gréber"
-housenumber: 111
-phone: "+1 819-561-7550"
-opening_hours: "Mo-Fr 08:00-17:00; Sa-Su off"
+street: Boulevard Gréber
+housenumber: "111"
+phone: +1 819-561-7550
+opening_hours: Mo-Fr 08:00-17:00; Sa-Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 406475434
-type: way
+type: node
 latitude: 48.56845
 longitude: -78.13193
 postcode: ""
 city: Amos
-street: "6e Rue Ouest"
-housenumber: 321
+street: 6e Rue Ouest
+housenumber: "321"
 phone: ""
 opening_hours: ""
 website: ""

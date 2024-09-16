@@ -1,11 +1,11 @@
 id: 139560476
-type: way
+type: node
 latitude: 45.42778
 longitude: -75.71643
-postcode: "J8X 3H2"
+postcode: J8X 3H2
 city: Gatineau
-street: "Rue Laval"
-housenumber: 71
+street: Rue Laval
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

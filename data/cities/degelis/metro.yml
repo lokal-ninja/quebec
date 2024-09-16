@@ -1,11 +1,11 @@
 id: 792547772
-type: way
+type: node
 latitude: 47.54342
 longitude: -68.62434
-postcode: "G5T 1L9"
+postcode: G5T 1L9
 city: Dégelis
-street: "Avenue Principale"
-housenumber: 605
-phone: "+1-418-853-5560"
+street: Avenue Principale
+housenumber: "605"
+phone: +1-418-853-5560
 opening_hours: ""
 website: ""

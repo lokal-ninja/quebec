@@ -4,8 +4,8 @@ latitude: 45.46442
 longitude: -73.567
 postcode: ""
 city: Montréal
-street: "Rue Wellington"
-housenumber: 3939
-phone: "+1 514 767 3572"
-opening_hours: "Mo-Fr 09:30-20:30; Sa 09:30-17:00; Su 10:00-17:00"
+street: Rue Wellington
+housenumber: "3939"
+phone: +1 514 767 3572
+opening_hours: Mo-Fr 09:30-20:30; Sa 09:30-17:00; Su 10:00-17:00
 website: ""

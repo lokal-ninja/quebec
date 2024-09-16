@@ -2,10 +2,10 @@ id: 962774432
 type: node
 latitude: 46.35329
 longitude: -72.54652
-postcode: "G9A 3P6"
+postcode: G9A 3P6
 city: Trois-Rivières
-street: "Boulevard du Saint-Maurice"
-housenumber: 750
-phone: "+1 (819) 371-1120"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.superc.ca/index.fr.html"
+street: Boulevard du Saint-Maurice
+housenumber: "750"
+phone: +1 (819) 371-1120
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.superc.ca/index.fr.html

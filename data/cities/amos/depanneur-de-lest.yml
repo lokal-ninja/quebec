@@ -1,11 +1,11 @@
 id: 398621618
-type: way
+type: node
 latitude: 48.57496
 longitude: -78.10631
 postcode: ""
 city: Amos
-street: "4e Rue Est"
-housenumber: 642
+street: 4e Rue Est
+housenumber: "642"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 45.51179
 longitude: -73.56674
 postcode: ""
 city: Montréal
-street: "Rue Ontario Est"
-housenumber: 25
-phone: "+1 514 848 9658"
-opening_hours: "Mo-Su"
+street: Rue Ontario Est
+housenumber: "25"
+phone: +1 514 848 9658
+opening_hours: Mo-Su
 website: ""

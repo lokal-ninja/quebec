@@ -2,10 +2,10 @@ id: 6371198071
 type: node
 latitude: 46.8084
 longitude: -71.28028
-postcode: "G1M 1P2"
+postcode: G1M 1P2
 city: Québec
-street: "Boulevard Père-Lelièvre"
-housenumber: 1545
+street: Boulevard Père-Lelièvre
+housenumber: "1545"
 phone: ""
 opening_hours: ""
-website: "https://www.yrva.ca/"
+website: https://www.yrva.ca/

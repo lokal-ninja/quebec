@@ -2,10 +2,10 @@ id: 2501999227
 type: node
 latitude: 45.55367
 longitude: -73.53194
-postcode: "H1V 1Y7"
+postcode: H1V 1Y7
 city: Montréal
-street: "Rue Sainte-Catherine Est"
-housenumber: 4596
-phone: "+1-514-255-3079"
+street: Rue Sainte-Catherine Est
+housenumber: "4596"
+phone: +1-514-255-3079
 opening_hours: ""
-website: "http://patisserielaloraine.ca"
+website: http://patisserielaloraine.ca

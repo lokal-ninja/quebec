@@ -1,11 +1,11 @@
 id: 551113607
-type: way
+type: node
 latitude: 46.57181
 longitude: -71.82707
-postcode: "G0S 1Y0"
+postcode: G0S 1Y0
 city: Saint-Édouard-de-Lotbinière
-street: "Rue Principale"
-housenumber: 2408
-phone: "+1-418-796-3098"
+street: Rue Principale
+housenumber: "2408"
+phone: +1-418-796-3098
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 552136177
-type: way
+type: node
 latitude: 46.76282
 longitude: -71.70856
-postcode: "G3H 3L1"
+postcode: G3H 3L1
 city: Pont-Rouge
-street: "Boulevard Notre-Dame"
-housenumber: 131
-phone: "+1-418-873-2764"
+street: Boulevard Notre-Dame
+housenumber: "131"
+phone: +1-418-873-2764
 opening_hours: ""
 website: ""

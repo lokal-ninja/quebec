@@ -2,10 +2,10 @@ id: 2505515332
 type: node
 latitude: 45.55432
 longitude: -73.53402
-postcode: "H1V 1V4"
+postcode: H1V 1V4
 city: Montréal
-street: "Rue Adam"
-housenumber: 4609
-phone: "+1 514 255 5254"
+street: Rue Adam
+housenumber: "4609"
+phone: +1 514 255 5254
 opening_hours: ""
 website: ""

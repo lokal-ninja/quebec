@@ -4,8 +4,8 @@ latitude: 45.52602
 longitude: -73.55913
 postcode: ""
 city: Montréal
-street: "Rue Ontario Est"
-housenumber: 1808
-phone: "+1 514 523 0302"
-opening_hours: "Mo-Su 12:00-19:00"
-website: "https://www.facebook.com/cracheur.dencre/"
+street: Rue Ontario Est
+housenumber: "1808"
+phone: +1 514 523 0302
+opening_hours: Mo-Su 12:00-19:00
+website: https://www.facebook.com/cracheur.dencre/

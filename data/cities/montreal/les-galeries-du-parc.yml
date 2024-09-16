@@ -1,11 +1,11 @@
 id: 725213374
-type: way
+type: node
 latitude: 45.51028
 longitude: -73.575
-postcode: "H2X 3P9"
+postcode: H2X 3P9
 city: Montréal
-street: "Avenue du Parc"
-housenumber: 3575
+street: Avenue du Parc
+housenumber: "3575"
 phone: ""
-opening_hours: "Mo-Su 06:00-24:00"
+opening_hours: Mo-Su 06:00-24:00
 website: ""

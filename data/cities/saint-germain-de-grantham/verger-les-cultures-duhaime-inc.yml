@@ -1,11 +1,11 @@
 id: 99441121
-type: way
+type: node
 latitude: 45.83328
 longitude: -72.57731
-postcode: "J0C 1K0"
+postcode: J0C 1K0
 city: Saint-Germain-de-Grantham
-street: "Route 239"
-housenumber: 405
+street: Route 239
+housenumber: "405"
 phone: "+18193952433"
-opening_hours: "Mo-Su 09:30-18:00"
-website: "https://www.duhaimegourmet.com/"
+opening_hours: Mo-Su 09:30-18:00
+website: https://www.duhaimegourmet.com/

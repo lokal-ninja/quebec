@@ -1,11 +1,11 @@
 id: 549635443
-type: way
+type: node
 latitude: 48.44324
 longitude: -70.70943
-postcode: "G0V 1S0"
+postcode: G0V 1S0
 city: Saint-Fulgence
-street: "Route de Tadoussac"
-housenumber: 1918
-phone: "+1-418-674-1012"
+street: Route de Tadoussac
+housenumber: "1918"
+phone: +1-418-674-1012
 opening_hours: ""
 website: ""

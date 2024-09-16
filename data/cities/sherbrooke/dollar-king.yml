@@ -1,11 +1,11 @@
 id: 722874400
-type: way
+type: node
 latitude: 45.39925
 longitude: -71.93363
-postcode: "J1J 2N3"
+postcode: J1J 2N3
 city: Sherbrooke
-street: "Rue Clark"
-housenumber: 51
+street: Rue Clark
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

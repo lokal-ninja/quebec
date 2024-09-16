@@ -1,11 +1,11 @@
 id: 945508273
-type: way
+type: node
 latitude: 45.90776
 longitude: -71.73484
-postcode: "G0P 1C0"
+postcode: G0P 1C0
 city: Notre-Dame-de-Ham
-street: "Rue Principale"
-housenumber: 15
-phone: "+1 819 990 0788"
+street: Rue Principale
+housenumber: "15"
+phone: +1 819 990 0788
 opening_hours: ""
-website: "https://www.laproieduchien.com/"
+website: https://www.laproieduchien.com/

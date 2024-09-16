@@ -1,11 +1,11 @@
 id: 290035720
-type: way
+type: node
 latitude: 48.3164
 longitude: -71.135
-postcode: "G7N 1W1"
+postcode: G7N 1W1
 city: Laterrière
-street: "Boulevard Talbot"
-housenumber: 5850
-phone: "+1-418-678-3337"
+street: Boulevard Talbot
+housenumber: "5850"
+phone: +1-418-678-3337
 opening_hours: ""
 website: ""

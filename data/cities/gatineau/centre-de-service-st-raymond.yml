@@ -1,11 +1,11 @@
 id: 310896611
-type: way
+type: node
 latitude: 45.44671
 longitude: -75.74221
 postcode: ""
 city: Gatineau
-street: "Boulevard Saint-Raymond"
-housenumber: 93
+street: Boulevard Saint-Raymond
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

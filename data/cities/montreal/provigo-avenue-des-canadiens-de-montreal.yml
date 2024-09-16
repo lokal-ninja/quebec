@@ -4,8 +4,8 @@ latitude: 45.49652
 longitude: -73.57033
 postcode: ""
 city: Montréal
-street: "Avenue des Canadiens-de-Montréal"
-housenumber: 1275
-phone: "+1 514 934-1261"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.provigo.ca/store-locator/details/8464"
+street: Avenue des Canadiens-de-Montréal
+housenumber: "1275"
+phone: +1 514 934-1261
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.provigo.ca/store-locator/details/8464

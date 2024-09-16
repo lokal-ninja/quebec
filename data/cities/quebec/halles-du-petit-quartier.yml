@@ -1,11 +1,11 @@
 id: 158692225
-type: way
+type: node
 latitude: 46.80286
 longitude: -71.2247
 postcode: ""
 city: Québec
-street: "Avenue Cartier"
-housenumber: 1191
+street: Avenue Cartier
+housenumber: "1191"
 phone: ""
 opening_hours: ""
 website: ""

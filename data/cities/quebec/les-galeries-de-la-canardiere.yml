@@ -1,11 +1,11 @@
 id: 103871086
-type: way
+type: node
 latitude: 46.84533
 longitude: -71.217
-postcode: "G1J 1Y4"
+postcode: G1J 1Y4
 city: Québec
-street: "Boulevard Sainte-Anne"
-housenumber: 2485
+street: Boulevard Sainte-Anne
+housenumber: "2485"
 phone: ""
 opening_hours: ""
 website: ""

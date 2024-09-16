@@ -4,8 +4,8 @@ latitude: 45.48691
 longitude: -73.79808
 postcode: ""
 city: Dollard-Des Ormeaux
-street: "Boulevard des Sources"
-housenumber: 3375
-phone: "+1-888-683-7799"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-16:00"
-website: "https://www.terrafolia.ca/"
+street: Boulevard des Sources
+housenumber: "3375"
+phone: +1-888-683-7799
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-16:00
+website: https://www.terrafolia.ca/

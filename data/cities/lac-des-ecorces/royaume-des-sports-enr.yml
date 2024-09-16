@@ -1,11 +1,11 @@
 id: 264392121
-type: way
+type: node
 latitude: 46.55768
 longitude: -75.36653
-postcode: "J0W 1H0"
+postcode: J0W 1H0
 city: Lac-des-Écorces
-street: "Boulevard St-François"
-housenumber: 557
+street: Boulevard St-François
+housenumber: "557"
 phone: ""
 opening_hours: ""
 website: ""

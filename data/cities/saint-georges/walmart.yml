@@ -1,11 +1,11 @@
 id: 198868638
-type: way
+type: node
 latitude: 46.12906
 longitude: -70.67996
-postcode: "G5Y 0A1"
+postcode: G5Y 0A1
 city: Saint-Georges
-street: "107e Rue"
-housenumber: 750
+street: 107e Rue
+housenumber: "750"
 phone: ""
 opening_hours: ""
-website: "https://www.walmart.ca/en/stores-near-me/st-georges-de-beauce-qc-1040"
+website: https://www.walmart.ca/en/stores-near-me/st-georges-de-beauce-qc-1040

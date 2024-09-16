@@ -1,11 +1,11 @@
 id: 571073634
-type: way
+type: node
 latitude: 48.7193
 longitude: -67.41726
 postcode: ""
 city: Saint-René-de-Matane
-street: "Route de la Montagne"
-housenumber: 12
-phone: "+1-418-224-3888"
+street: Route de la Montagne
+housenumber: "12"
+phone: +1-418-224-3888
 opening_hours: ""
-website: "fumoirmchasse.com"
+website: fumoirmchasse.com

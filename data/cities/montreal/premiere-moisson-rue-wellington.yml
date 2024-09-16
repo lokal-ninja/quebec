@@ -4,8 +4,8 @@ latitude: 45.46175
 longitude: -73.5669
 postcode: ""
 city: Montréal
-street: "Rue Wellington"
-housenumber: 4214
-phone: "+1 514 657 5778"
-opening_hours: "Mo-Fr 08:00-19:00; Sa-Su 08:30-19:00"
-website: "https://premieremoisson.com/fr/succursales/verdun"
+street: Rue Wellington
+housenumber: "4214"
+phone: +1 514 657 5778
+opening_hours: Mo-Fr 08:00-19:00; Sa-Su 08:30-19:00
+website: https://premieremoisson.com/fr/succursales/verdun

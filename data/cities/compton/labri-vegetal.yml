@@ -1,11 +1,11 @@
 id: 835572698
-type: way
+type: node
 latitude: 45.26313
 longitude: -71.85231
-postcode: "J0B 1L0"
+postcode: J0B 1L0
 city: Compton
-street: "Chemin Drouin"
-housenumber: 350
+street: Chemin Drouin
+housenumber: "350"
 phone: "+18198373081"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://abrivegetal.com/index.php"
+opening_hours: Mo-Su 08:00-20:00
+website: https://abrivegetal.com/index.php

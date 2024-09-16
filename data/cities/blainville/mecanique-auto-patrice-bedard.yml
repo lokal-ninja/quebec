@@ -1,11 +1,11 @@
 id: 1181142282
-type: way
+type: node
 latitude: 45.66241
 longitude: -73.86201
 postcode: ""
 city: Blainville
-street: "Boulevard Curé-Labelle"
-housenumber: 674
+street: Boulevard Curé-Labelle
+housenumber: "674"
 phone: ""
 opening_hours: ""
 website: ""

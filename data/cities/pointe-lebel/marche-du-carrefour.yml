@@ -1,11 +1,11 @@
 id: 549237166
-type: way
+type: node
 latitude: 49.17389
 longitude: -68.32648
-postcode: "G0H 1N0"
+postcode: G0H 1N0
 city: Pointe-Lebel
-street: "Rue Granier"
-housenumber: 1
+street: Rue Granier
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 6371198070
 type: node
 latitude: 46.80847
 longitude: -71.28035
-postcode: "G1M 1P2"
+postcode: G1M 1P2
 city: Québec
-street: "Boulevard Père-Lelièvre"
-housenumber: 1545
-phone: "+1-418-683-5858"
+street: Boulevard Père-Lelièvre
+housenumber: "1545"
+phone: +1-418-683-5858
 opening_hours: ""
-website: "https://www.plongeenautilus.com"
+website: https://www.plongeenautilus.com

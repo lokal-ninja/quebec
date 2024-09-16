@@ -4,8 +4,8 @@ latitude: 45.45524
 longitude: -73.57218
 postcode: ""
 city: Montréal
-street: "Rue de Verdun"
-housenumber: 5117
-phone: "+1 514 270 0088"
-opening_hours: "Mo, Tu, Th, Fr 09:00-18:00; We 09:00-18:30; Sa 09:00-17:00; Su 10:00-15:00"
-website: "http://www.lafloret.com/"
+street: Rue de Verdun
+housenumber: "5117"
+phone: +1 514 270 0088
+opening_hours: Mo, Tu, Th, Fr 09:00-18:00; We 09:00-18:30; Sa 09:00-17:00; Su 10:00-15:00
+website: http://www.lafloret.com/

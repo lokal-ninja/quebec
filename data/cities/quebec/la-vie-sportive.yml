@@ -1,11 +1,11 @@
 id: 128447205
-type: way
+type: node
 latitude: 46.83508
 longitude: -71.27095
-postcode: "G2J 1A7"
+postcode: G2J 1A7
 city: Québec
-street: "Rue Bouvier"
-housenumber: 600
-phone: "+1 418-623-8368"
-opening_hours: "Mo-We 09:30-17:30; Tu-Fr 09:30-21:00; Sa 09:00-17:00; Su 10:00-17:00"
-website: "http://www.viesportive.com"
+street: Rue Bouvier
+housenumber: "600"
+phone: +1 418-623-8368
+opening_hours: Mo-We 09:30-17:30; Tu-Fr 09:30-21:00; Sa 09:00-17:00; Su 10:00-17:00
+website: http://www.viesportive.com

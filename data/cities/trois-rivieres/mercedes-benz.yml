@@ -1,11 +1,11 @@
 id: 530447562
-type: way
+type: node
 latitude: 46.31791
 longitude: -72.5807
-postcode: "G9B 0X4"
+postcode: G9B 0X4
 city: Trois-Rivières
-street: "Boulevard Arthur-Rousseau"
-housenumber: 1500
-phone: "+1 (819) 373-2355"
+street: Boulevard Arthur-Rousseau
+housenumber: "1500"
+phone: +1 (819) 373-2355
 opening_hours: ""
-website: "https://www.mercedes-benz-troisrivieres.ca/fr"
+website: https://www.mercedes-benz-troisrivieres.ca/fr

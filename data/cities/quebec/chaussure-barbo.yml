@@ -1,11 +1,11 @@
 id: 400043096
-type: way
+type: node
 latitude: 46.8717
 longitude: -71.33577
-postcode: "G3E 1K8"
+postcode: G3E 1K8
 city: Québec
-street: "Rue de la Faune"
-housenumber: 2351
+street: Rue de la Faune
+housenumber: "2351"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 40235583
-type: way
+type: node
 latitude: 48.39456
 longitude: -71.07431
-postcode: "G7H 7W8"
+postcode: G7H 7W8
 city: Chicoutimi
-street: "Boulevard Barrette"
-housenumber: 180
-phone: "+1-418-549-9357"
-opening_hours: "Mo-Tu 08:00-22:00"
+street: Boulevard Barrette
+housenumber: "180"
+phone: +1-418-549-9357
+opening_hours: Mo-Tu 08:00-22:00
 website: ""

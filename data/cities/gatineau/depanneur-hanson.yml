@@ -1,11 +1,11 @@
 id: 104508144
-type: way
+type: node
 latitude: 45.42765
 longitude: -75.72696
 postcode: ""
 city: Gatineau
-street: "Rue Hanson"
-housenumber: 46
+street: Rue Hanson
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 7581019646
 type: node
 latitude: 45.57418
 longitude: -73.71459
-postcode: "H7M 5G4"
+postcode: H7M 5G4
 city: Laval
-street: "Boulevard Saint-Martin Ouest"
-housenumber: 666
-phone: "+1 450-975-4535"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "https://www.vileda.ca/"
+street: Boulevard Saint-Martin Ouest
+housenumber: "666"
+phone: +1 450-975-4535
+opening_hours: Mo-Fr 08:00-16:30
+website: https://www.vileda.ca/

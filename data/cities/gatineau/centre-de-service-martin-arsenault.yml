@@ -1,11 +1,11 @@
 id: 477886853
-type: way
+type: node
 latitude: 45.43387
 longitude: -75.7162
 postcode: ""
 city: Gatineau
-street: "Rue Saint-Étienne"
-housenumber: 77
+street: Rue Saint-Étienne
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

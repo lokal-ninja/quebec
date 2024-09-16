@@ -1,11 +1,11 @@
 id: 47221135
-type: way
+type: node
 latitude: 45.48602
 longitude: -73.84898
-postcode: "H9H 2A6"
+postcode: H9H 2A6
 city: Dollard-Des Ormeaux
-street: "boulevard St-Jean"
-housenumber: 4648
-phone: "+1-514-696-7777"
+street: boulevard St-Jean
+housenumber: "4648"
+phone: +1-514-696-7777
 opening_hours: ""
-website: "https://www.acuragabriel.com/"
+website: https://www.acuragabriel.com/

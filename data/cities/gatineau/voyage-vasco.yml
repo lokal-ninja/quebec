@@ -1,11 +1,11 @@
 id: 430083215
-type: way
+type: node
 latitude: 45.4435
 longitude: -75.73765
 postcode: ""
 city: Gatineau
-street: "Rue Gamelin"
-housenumber: 91
+street: Rue Gamelin
+housenumber: "91"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1130952604
-type: way
+type: node
 latitude: 45.56912
 longitude: -73.75105
-postcode: "H7T 1C7"
+postcode: H7T 1C7
 city: Laval
-street: "Boulevard le Carrefour"
-housenumber: 3003
-phone: "+1-450-687-1360"
+street: Boulevard le Carrefour
+housenumber: "3003"
+phone: +1-450-687-1360
 opening_hours: ""
-website: "https://www.cfshops.com/carrefour-laval.html"
+website: https://www.cfshops.com/carrefour-laval.html

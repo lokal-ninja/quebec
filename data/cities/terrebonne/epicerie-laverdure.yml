@@ -1,11 +1,11 @@
 id: 510623593
-type: way
+type: node
 latitude: 45.69346
 longitude: -73.63179
-postcode: "J6W 1C7"
+postcode: J6W 1C7
 city: Terrebonne
-street: "Rue Saint-Pierre"
-housenumber: 623
+street: Rue Saint-Pierre
+housenumber: "623"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

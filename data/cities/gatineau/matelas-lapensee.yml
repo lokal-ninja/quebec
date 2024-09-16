@@ -1,11 +1,11 @@
 id: 68853843
-type: way
+type: node
 latitude: 45.45955
 longitude: -75.73485
-postcode: "J8Y 6V4"
+postcode: J8Y 6V4
 city: Gatineau
-street: "Boulevard de la Carrière"
-housenumber: 1085
+street: Boulevard de la Carrière
+housenumber: "1085"
 phone: ""
 opening_hours: ""
 website: ""

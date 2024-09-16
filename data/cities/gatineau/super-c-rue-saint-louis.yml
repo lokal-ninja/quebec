@@ -1,11 +1,11 @@
 id: 165740052
-type: way
+type: node
 latitude: 45.4936
 longitude: -75.7557
-postcode: "J8V 1A4"
+postcode: J8V 1A4
 city: Gatineau
-street: "Rue Saint-Louis"
-housenumber: 2505
-phone: "+1 819-561-3772"
+street: Rue Saint-Louis
+housenumber: "2505"
+phone: +1 819-561-3772
 opening_hours: ""
 website: ""

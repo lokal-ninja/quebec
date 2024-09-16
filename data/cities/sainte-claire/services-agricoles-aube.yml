@@ -1,11 +1,11 @@
 id: 896280510
-type: way
+type: node
 latitude: 46.59496
 longitude: -70.8632
 postcode: ""
 city: Sainte-Claire
-street: "Chemin de la Rivière-Etchemin"
-housenumber: 461
+street: Chemin de la Rivière-Etchemin
+housenumber: "461"
 phone: ""
 opening_hours: ""
 website: ""

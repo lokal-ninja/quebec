@@ -1,11 +1,11 @@
 id: 243012358
-type: way
+type: node
 latitude: 45.55343
 longitude: -73.54888
 postcode: ""
 city: Montréal
-street: "Boulevard Pie-IX"
-housenumber: 2525
+street: Boulevard Pie-IX
+housenumber: "2525"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-14:00"
+opening_hours: Mo,We,Fr 10:00-14:00
 website: ""

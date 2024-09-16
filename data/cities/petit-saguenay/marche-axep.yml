@@ -1,11 +1,11 @@
 id: 111436266
-type: way
+type: node
 latitude: 48.20906
 longitude: -70.06796
 postcode: ""
 city: Petit-Saguenay
-street: "Rue Dumas"
-housenumber: 60
+street: Rue Dumas
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

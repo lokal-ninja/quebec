@@ -1,11 +1,11 @@
 id: 403657378
-type: way
+type: node
 latitude: 46.02843
 longitude: -74.02381
 postcode: ""
 city: Estérel
-street: "Avenue d'Anvers"
-housenumber: 1
-phone: "+1-450-822-8687"
+street: Avenue d'Anvers
+housenumber: "1"
+phone: +1-450-822-8687
 opening_hours: ""
-website: "https://www.skidefondesterel.com/"
+website: https://www.skidefondesterel.com/

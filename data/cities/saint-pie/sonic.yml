@@ -1,11 +1,11 @@
 id: 552414375
-type: way
+type: node
 latitude: 45.50834
 longitude: -72.89399
-postcode: "J0H 1W0"
+postcode: J0H 1W0
 city: Saint-Pie
-street: "Rue Saint Pierre"
-housenumber: 225
+street: Rue Saint Pierre
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

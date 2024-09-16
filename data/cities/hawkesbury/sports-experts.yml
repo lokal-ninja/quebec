@@ -2,10 +2,10 @@ id: 5196931642
 type: node
 latitude: 45.5914
 longitude: -74.59472
-postcode: "K6A 2R2"
+postcode: K6A 2R2
 city: Hawkesbury
-street: "Rd 17 #110"
-housenumber: 454
-phone: "+1-613-632-0793"
-opening_hours: "Mo-We 09:00-17:30, Th-Fr 09:00-21:00, Sa 09:00-17:00, Su 10:00-16:00"
-website: "http://intersport.ca"
+street: 'Rd 17 #110'
+housenumber: "454"
+phone: +1-613-632-0793
+opening_hours: Mo-We 09:00-17:30, Th-Fr 09:00-21:00, Sa 09:00-17:00, Su 10:00-16:00
+website: http://intersport.ca

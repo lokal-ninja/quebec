@@ -4,8 +4,8 @@ latitude: 45.46292
 longitude: -73.56713
 postcode: ""
 city: Montréal
-street: "Rue Wellington"
-housenumber: 4071
+street: Rue Wellington
+housenumber: "4071"
 phone: ""
-opening_hours: "par rendezvous"
-website: "https://www.sacrilegetattoo.com/"
+opening_hours: '"par rendezvous"'
+website: https://www.sacrilegetattoo.com/

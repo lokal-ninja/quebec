@@ -1,11 +1,11 @@
 id: 233779339
-type: way
+type: node
 latitude: 45.55005
 longitude: -73.54631
-postcode: "H1W 1N4"
+postcode: H1W 1N4
 city: Montréal
-street: "Rue de Rouen"
-housenumber: 3921
-phone: "+1-514-255-9069"
+street: Rue de Rouen
+housenumber: "3921"
+phone: +1-514-255-9069
 opening_hours: ""
-website: "https://silvauto.ca/"
+website: https://silvauto.ca/

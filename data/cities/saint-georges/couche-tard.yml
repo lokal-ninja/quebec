@@ -1,11 +1,11 @@
 id: 363334316
-type: way
+type: node
 latitude: 46.12352
 longitude: -70.67031
 postcode: ""
 city: Saint-Georges
-street: "Boulevard Lacroix"
-housenumber: 11755
+street: Boulevard Lacroix
+housenumber: "11755"
 phone: ""
 opening_hours: ""
 website: ""

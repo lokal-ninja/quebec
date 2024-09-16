@@ -1,11 +1,11 @@
 id: 161998604
-type: way
+type: node
 latitude: 45.42017
 longitude: -75.75185
 postcode: ""
 city: Gatineau
-street: "Boulevard Alexandre-Taché"
-housenumber: 479
+street: Boulevard Alexandre-Taché
+housenumber: "479"
 phone: ""
 opening_hours: ""
 website: ""

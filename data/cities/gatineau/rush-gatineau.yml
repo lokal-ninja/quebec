@@ -1,11 +1,11 @@
 id: 670779942
-type: way
+type: node
 latitude: 45.46791
 longitude: -75.70132
-postcode: "J8T 6H5"
+postcode: J8T 6H5
 city: Gatineau
-street: "Boulevard Gréber"
-housenumber: 130
-phone: "+1 819-592-2241"
+street: Boulevard Gréber
+housenumber: "130"
+phone: +1 819-592-2241
 opening_hours: ""
 website: ""

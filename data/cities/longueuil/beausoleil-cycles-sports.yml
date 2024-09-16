@@ -1,11 +1,11 @@
 id: 755431070
-type: way
+type: node
 latitude: 45.50828
 longitude: -73.49528
 postcode: ""
 city: Longueuil
-street: "Rue Saint-Pierre"
-housenumber: 1833
+street: Rue Saint-Pierre
+housenumber: "1833"
 phone: ""
 opening_hours: ""
 website: ""

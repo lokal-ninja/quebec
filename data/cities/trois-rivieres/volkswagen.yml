@@ -1,11 +1,11 @@
 id: 664223997
-type: way
+type: node
 latitude: 46.31632
 longitude: -72.58297
-postcode: "G9B 0X4"
+postcode: G9B 0X4
 city: Trois-Rivières
-street: "Boulevard Arthur-Rousseau"
-housenumber: 1755
-phone: "+1 (819) 377-7777"
+street: Boulevard Arthur-Rousseau
+housenumber: "1755"
+phone: +1 (819) 377-7777
 opening_hours: ""
-website: "https://www.mauricie-vw.ca/fr"
+website: https://www.mauricie-vw.ca/fr

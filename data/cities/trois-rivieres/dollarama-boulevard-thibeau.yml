@@ -1,11 +1,11 @@
 id: 331079627
-type: way
+type: node
 latitude: 46.3839
 longitude: -72.54711
-postcode: "G8T 7A2"
+postcode: G8T 7A2
 city: Trois-Rivières
-street: "Boulevard Thibeau"
-housenumber: 687
+street: Boulevard Thibeau
+housenumber: "687"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00"
-website: "https://www.dollarama.com/"
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00
+website: https://www.dollarama.com/

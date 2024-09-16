@@ -4,8 +4,8 @@ latitude: 45.52794
 longitude: -73.58527
 postcode: ""
 city: Montréal
-street: "Rue Gilford"
-housenumber: 801
-phone: "+1-514-522-8971"
-opening_hours: "We 12:00-18:00; Th-Fr 12:00-19:00; Sa 12:00-17:00"
+street: Rue Gilford
+housenumber: "801"
+phone: +1-514-522-8971
+opening_hours: We 12:00-18:00; Th-Fr 12:00-19:00; Sa 12:00-17:00
 website: ""

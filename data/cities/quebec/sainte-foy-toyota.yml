@@ -1,11 +1,11 @@
 id: 193697795
-type: way
+type: node
 latitude: 46.78399
 longitude: -71.30722
-postcode: "G1V 1A4"
+postcode: G1V 1A4
 city: Québec
-street: "Boulevard du Versant-Nord"
-housenumber: 2777
-phone: "+1-418-658-1340"
+street: Boulevard du Versant-Nord
+housenumber: "2777"
+phone: +1-418-658-1340
 opening_hours: ""
 website: ""

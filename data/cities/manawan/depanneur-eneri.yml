@@ -2,10 +2,11 @@ id: 7165343657
 type: node
 latitude: 47.21527
 longitude: -74.39366
-postcode: "J0K 1M0"
+postcode: J0K 1M0
 city: Manawan
-street: "Rue Otapi"
-housenumber: 420
+street: Rue Otapi
+housenumber: "420"
 phone: ""
-opening_hours: "Mo 07:00-23:00; Tu 07:00-23:00; We 07:00-23:00; Th 07:00-23:00; Fr 07:00-23:00; Sa 07:00-23:00; Su 07:00-23:00"
+opening_hours: Mo 07:00-23:00; Tu 07:00-23:00; We 07:00-23:00; Th 07:00-23:00; Fr
+    07:00-23:00; Sa 07:00-23:00; Su 07:00-23:00
 website: ""

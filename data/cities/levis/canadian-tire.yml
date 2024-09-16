@@ -1,11 +1,11 @@
 id: 189982775
-type: way
+type: node
 latitude: 46.72952
 longitude: -71.27653
-postcode: "G6W 8A8"
+postcode: G6W 8A8
 city: Lévis
-street: "Rue de la Concorde"
-housenumber: 700
+street: Rue de la Concorde
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://www.canadiantire.ca/"
+website: https://www.canadiantire.ca/

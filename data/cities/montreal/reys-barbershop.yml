@@ -2,10 +2,11 @@ id: 4818894522
 type: node
 latitude: 45.5165
 longitude: -73.56626
-postcode: "H2X 3K8"
+postcode: H2X 3K8
 city: Montréal
-street: "Rue Saint-Denis"
-housenumber: 2063
-phone: "+1 514 880 2149"
-opening_hours: "Mo 11:00-19:00; Tu-We 11:00-19:00; Th-Fr 11:00-20:00; Sa 11:00-15:00; Su off"
-website: "https://reysbarbershop.dudaone.com/"
+street: Rue Saint-Denis
+housenumber: "2063"
+phone: +1 514 880 2149
+opening_hours: Mo 11:00-19:00; Tu-We 11:00-19:00; Th-Fr 11:00-20:00; Sa 11:00-15:00;
+    Su off
+website: https://reysbarbershop.dudaone.com/

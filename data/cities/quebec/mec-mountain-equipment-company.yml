@@ -1,11 +1,11 @@
 id: 128333462
-type: way
+type: node
 latitude: 46.83427
 longitude: -71.29926
 postcode: ""
 city: Québec
-street: "Boulevard Lebourgneuf"
-housenumber: 1475
+street: Boulevard Lebourgneuf
+housenumber: "1475"
 phone: "+14185228884"
-opening_hours: "Mo-We 10:00-19:00; Th-Fr 10:00-21:00; Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://www.mec.ca/quebec"
+opening_hours: Mo-We 10:00-19:00; Th-Fr 10:00-21:00; Sa 09:00-17:00; Su 10:00-17:00
+website: https://www.mec.ca/quebec

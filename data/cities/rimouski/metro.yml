@@ -1,11 +1,11 @@
 id: 368524793
-type: way
+type: node
 latitude: 48.43936
 longitude: -68.55446
 postcode: ""
 city: Rimouski
-street: "Boulevard Saint-Germain"
-housenumber: 465
+street: Boulevard Saint-Germain
+housenumber: "465"
 phone: ""
 opening_hours: ""
 website: ""

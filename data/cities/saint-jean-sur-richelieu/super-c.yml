@@ -1,11 +1,11 @@
 id: 166262260
-type: way
+type: node
 latitude: 45.3121
 longitude: -73.26288
 postcode: ""
 city: Saint-Jean-sur-Richelieu
-street: "Boulevard du Séminaire Nord"
-housenumber: 393
+street: Boulevard du Séminaire Nord
+housenumber: "393"
 phone: ""
 opening_hours: ""
 website: ""

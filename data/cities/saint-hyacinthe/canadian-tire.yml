@@ -1,11 +1,11 @@
 id: 201672015
-type: way
+type: node
 latitude: 45.64319
 longitude: -72.97865
 postcode: ""
 city: Saint-Hyacinthe
-street: "Rue Martineau"
-housenumber: 5930
+street: Rue Martineau
+housenumber: "5930"
 phone: ""
 opening_hours: ""
-website: "https://www.canadiantire.ca/"
+website: https://www.canadiantire.ca/

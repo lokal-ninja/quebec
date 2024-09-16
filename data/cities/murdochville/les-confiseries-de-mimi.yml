@@ -1,11 +1,11 @@
 id: 666566381
-type: way
+type: node
 latitude: 48.96046
 longitude: -65.49088
-postcode: "G0E 1W0"
+postcode: G0E 1W0
 city: Murdochville
-street: "Route 198"
-housenumber: 578
+street: Route 198
+housenumber: "578"
 phone: ""
 opening_hours: ""
 website: ""

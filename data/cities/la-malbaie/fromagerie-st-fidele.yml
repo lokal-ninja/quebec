@@ -1,11 +1,11 @@
 id: 549657261
-type: way
+type: node
 latitude: 47.7373
 longitude: -69.99254
-postcode: "G5A 2J2"
+postcode: G5A 2J2
 city: La Malbaie
-street: "Boulevard Malcolm-Fraser"
-housenumber: 2815
+street: Boulevard Malcolm-Fraser
+housenumber: "2815"
 phone: ""
-opening_hours: "Mo-Su 08:00-19:00"
-website: "http://www.fromageriestfidele.net/"
+opening_hours: Mo-Su 08:00-19:00
+website: http://www.fromageriestfidele.net/

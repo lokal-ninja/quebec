@@ -1,11 +1,11 @@
 id: 253415153
-type: way
+type: node
 latitude: 45.65044
 longitude: -74.93587
 postcode: ""
 city: Montebello
-street: "Chemin de Montréal Est"
-housenumber: 625
+street: Chemin de Montréal Est
+housenumber: "625"
 phone: ""
 opening_hours: ""
 website: ""

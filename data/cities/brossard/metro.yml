@@ -1,11 +1,11 @@
 id: 26482099
-type: way
+type: node
 latitude: 45.45639
 longitude: -73.46799
-postcode: "J4W 3M7"
+postcode: J4W 3M7
 city: Brossard
-street: "Boulevard de Rome"
-housenumber: 2004
-phone: "+1-450-671-8885"
-opening_hours: "8:00-23:00"
-website: "https://metro.ca/"
+street: Boulevard de Rome
+housenumber: "2004"
+phone: +1-450-671-8885
+opening_hours: 8:00-23:00
+website: https://metro.ca/

@@ -1,11 +1,11 @@
 id: 313342433
-type: way
+type: node
 latitude: 45.44337
 longitude: -75.73976
-postcode: "J8Y 1W1"
+postcode: J8Y 1W1
 city: Gatineau
-street: "Rue Gamelin"
-housenumber: 165
+street: Rue Gamelin
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

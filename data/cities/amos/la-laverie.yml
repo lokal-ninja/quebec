@@ -1,11 +1,11 @@
 id: 398621735
-type: way
+type: node
 latitude: 48.57495
 longitude: -78.10568
 postcode: ""
 city: Amos
-street: "4e Avenue Est"
-housenumber: 412
+street: 4e Avenue Est
+housenumber: "412"
 phone: ""
 opening_hours: ""
 website: ""

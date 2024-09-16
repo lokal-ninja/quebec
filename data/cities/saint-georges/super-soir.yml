@@ -1,11 +1,11 @@
 id: 884526762
-type: way
+type: node
 latitude: 46.13034
 longitude: -70.6798
 postcode: ""
 city: Saint-Georges
-street: "107e Rue"
-housenumber: 1001
+street: 107e Rue
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

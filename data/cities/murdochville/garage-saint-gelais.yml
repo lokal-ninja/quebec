@@ -1,11 +1,11 @@
 id: 666566491
-type: way
+type: node
 latitude: 48.95683
 longitude: -65.49665
-postcode: "G0E 1W0"
+postcode: G0E 1W0
 city: Murdochville
-street: "Avenue Miller"
-housenumber: 504
+street: Avenue Miller
+housenumber: "504"
 phone: ""
 opening_hours: ""
 website: ""

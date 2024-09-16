@@ -1,11 +1,11 @@
 id: 228465711
-type: way
+type: node
 latitude: 46.77356
 longitude: -71.30144
 postcode: ""
 city: Québec
-street: "Chemin des Quatre-Bourgeois"
-housenumber: 2900
+street: Chemin des Quatre-Bourgeois
+housenumber: "2900"
 phone: ""
 opening_hours: ""
 website: ""

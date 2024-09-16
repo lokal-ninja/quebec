@@ -1,11 +1,11 @@
 id: 1008111798
-type: way
+type: node
 latitude: 46.37677
 longitude: -72.53803
-postcode: "G8T 6Y6"
+postcode: G8T 6Y6
 city: Trois-Rivières
-street: "Boulevard Thibeau"
-housenumber: 415
-phone: "+1 (819) 376-3467"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa,Su 10:00-17:00"
-website: "https://fouquetmorel.lachatlocal.com"
+street: Boulevard Thibeau
+housenumber: "415"
+phone: +1 (819) 376-3467
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa,Su 10:00-17:00
+website: https://fouquetmorel.lachatlocal.com

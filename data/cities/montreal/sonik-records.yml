@@ -2,10 +2,10 @@ id: 6874187513
 type: node
 latitude: 45.52174
 longitude: -73.57511
-postcode: "H2L 4H3"
+postcode: H2L 4H3
 city: Montréal
-street: "Rue Berri"
-housenumber: 4050
-phone: "+1-514-288-2113"
-opening_hours: "Mo-Tu 12:00-18:00; We 09:00-18:00; Tu-Fr 12:00-21:00; Sa,Su 12:00-17:00"
+street: Rue Berri
+housenumber: "4050"
+phone: +1-514-288-2113
+opening_hours: Mo-Tu 12:00-18:00; We 09:00-18:00; Tu-Fr 12:00-21:00; Sa,Su 12:00-17:00
 website: ""

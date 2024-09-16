@@ -1,11 +1,11 @@
 id: 94173679
-type: way
+type: node
 latitude: 45.39474
 longitude: -75.8434
-postcode: "J9H 3M4"
+postcode: J9H 3M4
 city: Gatineau
-street: "Rue Principale"
-housenumber: 124
+street: Rue Principale
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

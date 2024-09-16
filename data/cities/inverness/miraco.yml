@@ -1,11 +1,11 @@
 id: 550436949
-type: way
+type: node
 latitude: 46.26247
 longitude: -71.5207
-postcode: "G0S 1K0"
+postcode: G0S 1K0
 city: Inverness
-street: "Ch Gosford Nord"
-housenumber: 399
-phone: "+1-418-453-2270"
+street: Ch Gosford Nord
+housenumber: "399"
+phone: +1-418-453-2270
 opening_hours: ""
 website: ""

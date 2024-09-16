@@ -4,8 +4,8 @@ latitude: 45.5489
 longitude: -73.61088
 postcode: ""
 city: Montréal
-street: "Rue Everett"
-housenumber: 1650
+street: Rue Everett
+housenumber: "1650"
 phone: ""
 opening_hours: ""
-website: "https://eltoroviandes.com/"
+website: https://eltoroviandes.com/

@@ -1,11 +1,11 @@
 id: 39336983
-type: way
+type: node
 latitude: 45.43438
 longitude: -75.77284
-postcode: "J9A 3G1"
+postcode: J9A 3G1
 city: Gatineau
-street: "Boulevard du Plateau"
-housenumber: 65
+street: Boulevard du Plateau
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

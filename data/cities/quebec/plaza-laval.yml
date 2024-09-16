@@ -1,11 +1,11 @@
 id: 104085022
-type: way
+type: node
 latitude: 46.78146
 longitude: -71.30074
-postcode: "G1V 1V6"
+postcode: G1V 1V6
 city: Québec
-street: "Chemin Sainte-Foy"
-housenumber: 2750
+street: Chemin Sainte-Foy
+housenumber: "2750"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 302805145
-type: way
+type: node
 latitude: 46.8894
 longitude: -71.32285
-postcode: "G2N 2E1"
+postcode: G2N 2E1
 city: Québec
-street: "Rue de l'Argon"
-housenumber: 600
+street: Rue de l'Argon
+housenumber: "600"
 phone: ""
 opening_hours: ""
-website: "http://fixautocharlesbourgnord.com/fr/"
+website: http://fixautocharlesbourgnord.com/fr/

@@ -1,11 +1,11 @@
 id: 503637502
-type: way
+type: node
 latitude: 45.61011
 longitude: -74.59336
-postcode: "K6A 1B7"
+postcode: K6A 1B7
 city: Hawkesbury
-street: "Main Street East"
-housenumber: 1002
-phone: "+1-613-636-1100"
+street: Main Street East
+housenumber: "1002"
+phone: +1-613-636-1100
 opening_hours: ""
-website: "http://bobbylalondemusic.com"
+website: http://bobbylalondemusic.com

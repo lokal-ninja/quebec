@@ -1,11 +1,11 @@
 id: 755231024
-type: way
+type: node
 latitude: 45.59593
 longitude: -74.60027
-postcode: "K6A 3G7"
+postcode: K6A 3G7
 city: Hawkesbury
-street: "Cameron Street"
-housenumber: 1030
-phone: "+1-613-632-0941"
+street: Cameron Street
+housenumber: "1030"
+phone: +1-613-632-0941
 opening_hours: ""
-website: "hawkesburychrysler.com"
+website: hawkesburychrysler.com

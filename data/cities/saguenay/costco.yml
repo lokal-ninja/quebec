@@ -1,11 +1,11 @@
 id: 192169830
-type: way
+type: node
 latitude: 48.38277
 longitude: -71.08341
 postcode: ""
 city: Saguenay
-street: "Boulevard Talbot"
-housenumber: 2500
+street: Boulevard Talbot
+housenumber: "2500"
 phone: ""
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/chicoutimi-qc-536.html"
+website: https://www.costco.ca/warehouse-locations/chicoutimi-qc-536.html

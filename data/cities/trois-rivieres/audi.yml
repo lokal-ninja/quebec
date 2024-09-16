@@ -1,11 +1,11 @@
 id: 911771274
-type: way
+type: node
 latitude: 46.31644
 longitude: -72.58451
-postcode: "G9B 0X4"
+postcode: G9B 0X4
 city: Trois-Rivières
-street: "Boulevard Arthur-Rousseau"
-housenumber: 1905
-phone: "+1 (819) 266-7777"
+street: Boulevard Arthur-Rousseau
+housenumber: "1905"
+phone: +1 (819) 266-7777
 opening_hours: ""
-website: "https://audi3rivieres.com/fr/index"
+website: https://audi3rivieres.com/fr/index

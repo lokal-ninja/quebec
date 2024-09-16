@@ -2,10 +2,10 @@ id: 11292288199
 type: node
 latitude: 45.56633
 longitude: -73.60699
-postcode: "h1z2g3"
+postcode: h1z2g3
 city: Montréal
-street: "Rue Jarry Est"
-housenumber: 3550
-phone: "+1-514-727-2821"
-opening_hours: "Mo-Fr 08:30-17:30"
+street: Rue Jarry Est
+housenumber: "3550"
+phone: +1-514-727-2821
+opening_hours: Mo-Fr 08:30-17:30
 website: ""

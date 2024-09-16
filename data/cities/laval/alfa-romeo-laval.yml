@@ -4,8 +4,8 @@ latitude: 45.60098
 longitude: -73.78853
 postcode: ""
 city: Laval
-street: "Boulevard Curé-Labelle"
-housenumber: 250
+street: Boulevard Curé-Labelle
+housenumber: "250"
 phone: ""
-opening_hours: "Mo-Fr 07:30-21:00"
-website: "https://www.alfaromeo-laval.com/"
+opening_hours: Mo-Fr 07:30-21:00
+website: https://www.alfaromeo-laval.com/

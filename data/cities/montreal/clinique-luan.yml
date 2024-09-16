@@ -2,10 +2,10 @@ id: 2503423081
 type: node
 latitude: 45.54922
 longitude: -73.53521
-postcode: "H1V 1X1"
+postcode: H1V 1X1
 city: Montréal
-street: "Rue Sainte-Catherine Est"
-housenumber: 4159
-phone: "+1 514 463 8413"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 11:00-18:00; Su off"
-website: "https://cliniqueluan.com/"
+street: Rue Sainte-Catherine Est
+housenumber: "4159"
+phone: +1 514 463 8413
+opening_hours: Mo-Fr 10:00-20:00; Sa 11:00-18:00; Su off
+website: https://cliniqueluan.com/

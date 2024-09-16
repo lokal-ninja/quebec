@@ -1,11 +1,11 @@
 id: 308665125
-type: way
+type: node
 latitude: 48.38429
 longitude: -71.08528
 postcode: ""
 city: Saguenay
-street: "Boulevard Talbot"
-housenumber: 2480
+street: Boulevard Talbot
+housenumber: "2480"
 phone: ""
 opening_hours: ""
 website: ""

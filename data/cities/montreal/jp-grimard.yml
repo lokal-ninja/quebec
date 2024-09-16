@@ -4,8 +4,8 @@ latitude: 45.53179
 longitude: -73.60721
 postcode: ""
 city: Montréal
-street: "Rue Beaubien Est"
-housenumber: 177
-phone: "+1 514 277 4171"
-opening_hours: "Mo,Fr 09:00-18:00; Sa 09:00-17:00; Su off"
-website: "https://jpgrimard.com/"
+street: Rue Beaubien Est
+housenumber: "177"
+phone: +1 514 277 4171
+opening_hours: Mo,Fr 09:00-18:00; Sa 09:00-17:00; Su off
+website: https://jpgrimard.com/

@@ -1,11 +1,11 @@
 id: 1012184621
-type: way
+type: node
 latitude: 46.52456
 longitude: -72.80926
-postcode: "G0X 2L0"
+postcode: G0X 2L0
 city: Saint-Boniface
-street: "Boulevard Trudel Est"
-housenumber: 1800
-phone: "+1-819-535-3326"
+street: Boulevard Trudel Est
+housenumber: "1800"
+phone: +1-819-535-3326
 opening_hours: ""
 website: ""

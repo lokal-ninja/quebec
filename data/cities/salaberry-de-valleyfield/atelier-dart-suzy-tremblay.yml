@@ -1,11 +1,11 @@
 id: 394226671
-type: way
+type: node
 latitude: 45.25382
 longitude: -74.13169
 postcode: ""
 city: Salaberry-de-Valleyfield
-street: "Rue Champlain"
-housenumber: 143
+street: Rue Champlain
+housenumber: "143"
 phone: ""
 opening_hours: ""
 website: ""

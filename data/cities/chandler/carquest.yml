@@ -1,11 +1,11 @@
 id: 479618142
-type: way
+type: node
 latitude: 48.34879
 longitude: -64.67579
-postcode: "G0C 1K0"
+postcode: G0C 1K0
 city: Chandler
-street: "Rue Rehel"
-housenumber: 455
-phone: "+1-418-689-4554"
+street: Rue Rehel
+housenumber: "455"
+phone: +1-418-689-4554
 opening_hours: ""
 website: ""

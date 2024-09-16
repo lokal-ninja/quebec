@@ -1,11 +1,11 @@
 id: 243715205
-type: way
+type: node
 latitude: 45.49809
 longitude: -73.62584
-postcode: "H3T 1Y8"
+postcode: H3T 1Y8
 city: Montréal
-street: "Chemin de la Côte-des-Neiges"
-housenumber: 5605
+street: Chemin de la Côte-des-Neiges
+housenumber: "5605"
 phone: ""
-opening_hours: "Mo-We 08:00-18:00; Th,Fr 08:00-21:00; Sa,Su 09:00-17:00"
-website: "https://www.homehardware.ca/en/store/25961"
+opening_hours: Mo-We 08:00-18:00; Th,Fr 08:00-21:00; Sa,Su 09:00-17:00
+website: https://www.homehardware.ca/en/store/25961

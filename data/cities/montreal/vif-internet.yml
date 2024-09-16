@@ -2,10 +2,10 @@ id: 2342363127
 type: node
 latitude: 45.50178
 longitude: -73.55823
-postcode: "H2Y 1V9"
+postcode: H2Y 1V9
 city: Montréal
-street: "Des Recollets"
-housenumber: 361 #200
-phone: "+1-514-353-9988"
+street: Des Recollets
+housenumber: '361 #200'
+phone: +1-514-353-9988
 opening_hours: ""
-website: "https://vif.ca/"
+website: https://vif.ca/

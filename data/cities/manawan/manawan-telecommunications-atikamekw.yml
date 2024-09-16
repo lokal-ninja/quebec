@@ -1,11 +1,11 @@
 id: 515646672
-type: way
+type: node
 latitude: 47.2216
 longitude: -74.3877
-postcode: "J0K 1M0"
+postcode: J0K 1M0
 city: Manawan
-street: "Rue Simon-Ottawa"
-housenumber: 211
+street: Rue Simon-Ottawa
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-12:00"
+opening_hours: Mo-Th 08:00-17:00, Fr 08:00-12:00
 website: ""

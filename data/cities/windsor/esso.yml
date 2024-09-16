@@ -1,11 +1,11 @@
 id: 552677599
-type: way
+type: node
 latitude: 45.57996
 longitude: -72.01318
-postcode: "J1S 2E1"
+postcode: J1S 2E1
 city: Windsor
-street: "Rue Principale Nord"
-housenumber: 195
-phone: "+1-819-845-3292"
+street: Rue Principale Nord
+housenumber: "195"
+phone: +1-819-845-3292
 opening_hours: ""
-website: "https://www.esso.ca/en-ca/find-station/esso-windsor-qc-esso-200302952"
+website: https://www.esso.ca/en-ca/find-station/esso-windsor-qc-esso-200302952

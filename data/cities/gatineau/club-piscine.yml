@@ -1,11 +1,11 @@
 id: 163108286
-type: way
+type: node
 latitude: 45.47912
 longitude: -75.69466
-postcode: "J8T 8A8"
+postcode: J8T 8A8
 city: Gatineau
-street: "Boulevard de la Gappe"
-housenumber: 550
-phone: "+1-819-568-1491"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://clubpiscine.ca/fr/gatineau"
+street: Boulevard de la Gappe
+housenumber: "550"
+phone: +1-819-568-1491
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-17:00; Su 10:00-17:00
+website: https://clubpiscine.ca/fr/gatineau

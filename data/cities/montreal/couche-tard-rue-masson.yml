@@ -2,10 +2,10 @@ id: 9212741220
 type: node
 latitude: 45.54869
 longitude: -73.57436
-postcode: "H1Y 1X6"
+postcode: H1Y 1X6
 city: Montréal
-street: "Rue Masson"
-housenumber: 3000
-phone: "+1 5143742158"
-opening_hours: "24/7"
-website: "https://www.couche-tard.com/"
+street: Rue Masson
+housenumber: "3000"
+phone: +1 5143742158
+opening_hours: 24/7
+website: https://www.couche-tard.com/

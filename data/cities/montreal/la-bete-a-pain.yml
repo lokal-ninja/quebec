@@ -4,8 +4,8 @@ latitude: 45.49327
 longitude: -73.55871
 postcode: ""
 city: Montréal
-street: "Rue Young"
-housenumber: 195
-phone: "+1 514 509-8937"
-opening_hours: "Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00"
+street: Rue Young
+housenumber: "195"
+phone: +1 514 509-8937
+opening_hours: Mo-Fr 07:00-19:00; Sa-Su 08:00-18:00
 website: ""

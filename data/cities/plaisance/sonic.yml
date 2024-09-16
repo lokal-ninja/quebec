@@ -1,11 +1,11 @@
 id: 553246784
-type: way
+type: node
 latitude: 45.60568
 longitude: -75.11982
-postcode: "J0V 1S0"
+postcode: J0V 1S0
 city: Plaisance
-street: "Rue Principale"
-housenumber: 228
-phone: "+1-819-427-6060"
+street: Rue Principale
+housenumber: "228"
+phone: +1-819-427-6060
 opening_hours: ""
 website: ""

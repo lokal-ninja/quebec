@@ -1,11 +1,11 @@
 id: 483559808
-type: way
+type: node
 latitude: 46.80326
 longitude: -71.37537
 postcode: ""
 city: L'Ancienne-Lorette
-street: "Route de l'Aéroport"
-housenumber: 1733
+street: Route de l'Aéroport
+housenumber: "1733"
 phone: ""
 opening_hours: ""
 website: ""

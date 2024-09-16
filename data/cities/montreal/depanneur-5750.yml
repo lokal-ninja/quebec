@@ -1,11 +1,11 @@
 id: 1173738592
-type: way
+type: node
 latitude: 45.57054
 longitude: -73.53749
 postcode: ""
 city: Montréal
-street: "Rue Hochelaga"
-housenumber: 5750
+street: Rue Hochelaga
+housenumber: "5750"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:30"
+opening_hours: Mo-Su 07:00-22:30
 website: ""

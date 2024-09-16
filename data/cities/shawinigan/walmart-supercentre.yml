@@ -1,11 +1,11 @@
 id: 261173013
-type: way
+type: node
 latitude: 46.55374
 longitude: -72.7507
-postcode: "G9N 8S8"
+postcode: G9N 8S8
 city: Shawinigan
-street: "Boulevard Royal"
-housenumber: 1600
-phone: "+1-819-537-3113"
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 8:00-17:00"
-website: "https://www.walmart.ca/en/stores-near-me/shawinigan-qc-3647"
+street: Boulevard Royal
+housenumber: "1600"
+phone: +1-819-537-3113
+opening_hours: Mo-Fr 08:00-21:00; Sa-Su 8:00-17:00
+website: https://www.walmart.ca/en/stores-near-me/shawinigan-qc-3647

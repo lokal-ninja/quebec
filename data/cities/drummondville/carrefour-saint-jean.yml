@@ -1,11 +1,11 @@
 id: 831410704
-type: way
+type: node
 latitude: 45.87559
 longitude: -72.48387
 postcode: ""
 city: Drummondville
-street: "Rue Saint-Jean"
-housenumber: 350
+street: Rue Saint-Jean
+housenumber: "350"
 phone: ""
 opening_hours: ""
 website: ""

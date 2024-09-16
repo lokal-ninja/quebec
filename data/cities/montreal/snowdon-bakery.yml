@@ -1,11 +1,11 @@
 id: 310731996
-type: way
+type: node
 latitude: 45.45525
 longitude: -73.63826
-postcode: "H4B 1L5"
+postcode: H4B 1L5
 city: Montréal
-street: "Avenue Harley"
-housenumber: 7385
-phone: "+1-514-481-9710"
-opening_hours: "Mo-Fr 08:00-18:00, Sa-Su 08:00-17:00"
+street: Avenue Harley
+housenumber: "7385"
+phone: +1-514-481-9710
+opening_hours: Mo-Fr 08:00-18:00, Sa-Su 08:00-17:00
 website: ""

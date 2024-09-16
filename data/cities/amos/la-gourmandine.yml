@@ -1,11 +1,11 @@
 id: 399832432
-type: way
+type: node
 latitude: 48.57177
 longitude: -78.11985
 postcode: ""
 city: Amos
-street: "1re Avenue Ouest"
-housenumber: 194
+street: 1re Avenue Ouest
+housenumber: "194"
 phone: ""
 opening_hours: ""
 website: ""

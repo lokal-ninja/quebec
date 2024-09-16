@@ -1,11 +1,11 @@
 id: 400593929
-type: way
+type: node
 latitude: 48.57829
 longitude: -78.12227
 postcode: ""
 city: Amos
-street: "Rue de l'Harricana"
-housenumber: 811
+street: Rue de l'Harricana
+housenumber: "811"
 phone: ""
 opening_hours: ""
 website: ""

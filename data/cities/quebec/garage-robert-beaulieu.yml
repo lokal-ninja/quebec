@@ -1,11 +1,11 @@
 id: 889085897
-type: way
+type: node
 latitude: 46.82172
 longitude: -71.22097
-postcode: "G1J 3J3"
+postcode: G1J 3J3
 city: Québec
-street: "6e Avenue"
-housenumber: 80
-phone: "+1-418-523-1847"
+street: 6e Avenue
+housenumber: "80"
+phone: +1-418-523-1847
 opening_hours: ""
 website: ""

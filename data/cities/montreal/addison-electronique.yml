@@ -1,11 +1,11 @@
 id: 264359072
-type: way
+type: node
 latitude: 45.56907
 longitude: -73.60311
-postcode: "H1Z 3S6"
+postcode: H1Z 3S6
 city: Montréal
-street: "20e Avenue"
-housenumber: 8018
+street: 20e Avenue
+housenumber: "8018"
 phone: ""
 opening_hours: ""
-website: "https://addison-electronique.com/"
+website: https://addison-electronique.com/

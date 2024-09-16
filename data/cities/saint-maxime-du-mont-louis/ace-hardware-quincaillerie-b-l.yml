@@ -1,11 +1,11 @@
 id: 317980600
-type: way
+type: node
 latitude: 49.2292
 longitude: -65.72839
-postcode: "G0E 1T0"
+postcode: G0E 1T0
 city: Saint-Maxime-du-Mont-Louis
-street: "1e Avenue Est"
-housenumber: 6
-phone: "+1-418-797-2980"
+street: 1e Avenue Est
+housenumber: "6"
+phone: +1-418-797-2980
 opening_hours: ""
 website: ""

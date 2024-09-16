@@ -1,11 +1,11 @@
 id: 520432183
-type: way
+type: node
 latitude: 49.91378
 longitude: -74.36107
-postcode: "G8P1N6"
+postcode: G8P1N6
 city: Chibougamau
-street: "3e Rue"
-housenumber: 427
+street: 3e Rue
+housenumber: "427"
 phone: ""
 opening_hours: ""
 website: ""

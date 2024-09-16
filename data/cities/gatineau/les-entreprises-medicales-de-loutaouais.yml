@@ -1,11 +1,11 @@
 id: 259408501
-type: way
+type: node
 latitude: 45.46742
 longitude: -75.70019
-postcode: "J8T 3R1"
+postcode: J8T 3R1
 city: Gatineau
-street: "Boulevard Gréber"
-housenumber: 131
-phone: "+1 819-205-9111"
-opening_hours: "Mo-Tu,Th-Fr 08:30-17:00; We 08:30-18:00; Sa-Su off"
-website: "https://lesemo.com"
+street: Boulevard Gréber
+housenumber: "131"
+phone: +1 819-205-9111
+opening_hours: Mo-Tu,Th-Fr 08:30-17:00; We 08:30-18:00; Sa-Su off
+website: https://lesemo.com

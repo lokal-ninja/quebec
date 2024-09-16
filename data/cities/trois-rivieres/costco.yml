@@ -1,11 +1,11 @@
 id: 805020981
-type: way
+type: node
 latitude: 46.33095
 longitude: -72.57174
-postcode: "G9A 6J2"
+postcode: G9A 6J2
 city: Trois-Rivières
-street: "Boulevard des Récollets"
-housenumber: 3000
-phone: "+1 (819) 693-5758"
+street: Boulevard des Récollets
+housenumber: "3000"
+phone: +1 (819) 693-5758
 opening_hours: ""
-website: "https://www.costco.ca/warehouse-locations/trois-rivieres-trois-rivieres-qc-518.html"
+website: https://www.costco.ca/warehouse-locations/trois-rivieres-trois-rivieres-qc-518.html

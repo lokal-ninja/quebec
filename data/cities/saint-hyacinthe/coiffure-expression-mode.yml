@@ -1,11 +1,11 @@
 id: 648215110
-type: way
+type: node
 latitude: 45.63801
 longitude: -72.97066
 postcode: ""
 city: Saint-Hyacinthe
-street: "Avenue Desjardins"
-housenumber: 5870
+street: Avenue Desjardins
+housenumber: "5870"
 phone: ""
 opening_hours: ""
 website: ""

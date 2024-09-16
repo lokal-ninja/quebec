@@ -1,11 +1,11 @@
 id: 547063725
-type: way
+type: node
 latitude: 46.85173
 longitude: -71.23844
-postcode: "G1H 4J2"
+postcode: G1H 4J2
 city: Québec
-street: "Avenue De Gaulle"
-housenumber: 4500
+street: Avenue De Gaulle
+housenumber: "4500"
 phone: ""
 opening_hours: ""
 website: ""

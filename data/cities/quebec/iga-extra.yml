@@ -2,10 +2,10 @@ id: 1629137433
 type: node
 latitude: 46.76561
 longitude: -71.30896
-postcode: "G1W 4S6"
+postcode: G1W 4S6
 city: Québec
-street: "Avenue de Bourgogne"
-housenumber: 999
-phone: "+1 418 658 6472"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "http://www.coopstefoy.com"
+street: Avenue de Bourgogne
+housenumber: "999"
+phone: +1 418 658 6472
+opening_hours: Mo-Su 08:00-22:00
+website: http://www.coopstefoy.com

@@ -1,11 +1,11 @@
 id: 876292847
-type: way
+type: node
 latitude: 46.34821
 longitude: -72.57043
-postcode: "G8Z 1V4"
+postcode: G8Z 1V4
 city: Trois-Rivières
-street: "Boulevard des Forges"
-housenumber: 3119
-phone: "+1-819-699-5259"
+street: Boulevard des Forges
+housenumber: "3119"
+phone: +1-819-699-5259
 opening_hours: ""
 website: ""

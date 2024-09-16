@@ -1,11 +1,11 @@
 id: 415362284
-type: way
+type: node
 latitude: 45.56238
 longitude: -74.33584
 postcode: ""
 city: Saint-André-d'Argenteuil
-street: "Route du Long Sault"
-housenumber: 44
+street: Route du Long Sault
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

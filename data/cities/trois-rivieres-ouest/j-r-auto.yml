@@ -1,11 +1,11 @@
 id: 882128933
-type: way
+type: node
 latitude: 46.35641
 longitude: -72.6098
-postcode: "G8Y 5A9"
+postcode: G8Y 5A9
 city: Trois-Rivières-Ouest
-street: "Boulevard des Chenaux"
-housenumber: 6495
-phone: "+1 819 373 9401"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.jrautotr.com/"
+street: Boulevard des Chenaux
+housenumber: "6495"
+phone: +1 819 373 9401
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.jrautotr.com/

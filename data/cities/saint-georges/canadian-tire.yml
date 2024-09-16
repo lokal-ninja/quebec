@@ -1,11 +1,11 @@
 id: 198623714
-type: way
+type: node
 latitude: 46.12765
 longitude: -70.68116
-postcode: "G5Y 8K1"
+postcode: G5Y 8K1
 city: Saint-Georges
-street: "107e Rue"
-housenumber: 500
+street: 107e Rue
+housenumber: "500"
 phone: ""
-opening_hours: "Tu-Fr 08:00-20:00; Sa,Su 08:00-17:00"
+opening_hours: Tu-Fr 08:00-20:00; Sa,Su 08:00-17:00
 website: ""

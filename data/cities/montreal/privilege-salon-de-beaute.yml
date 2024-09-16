@@ -1,11 +1,11 @@
 id: 1217399894
-type: way
+type: node
 latitude: 45.56821
 longitude: -73.60533
-postcode: "h1z2g6"
+postcode: h1z2g6
 city: Montréal
-street: "Rue Jarry Est"
-housenumber: 3730
-phone: "+1-514-806-8804"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.salonprivilege.com/"
+street: Rue Jarry Est
+housenumber: "3730"
+phone: +1-514-806-8804
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.salonprivilege.com/

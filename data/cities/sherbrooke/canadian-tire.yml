@@ -1,11 +1,11 @@
 id: 40159057
-type: way
+type: node
 latitude: 45.41979
 longitude: -71.96686
-postcode: "J1L 3C6"
+postcode: J1L 3C6
 city: Sherbrooke
-street: "boulevard Josaphat-Rancourt"
-housenumber: 4100
+street: boulevard Josaphat-Rancourt
+housenumber: "4100"
 phone: ""
 opening_hours: ""
-website: "https://www.canadiantire.ca/"
+website: https://www.canadiantire.ca/

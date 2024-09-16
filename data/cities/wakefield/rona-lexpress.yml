@@ -1,11 +1,11 @@
 id: 477485439
-type: way
+type: node
 latitude: 45.64885
 longitude: -75.92555
-postcode: "J0X 3G0"
+postcode: J0X 3G0
 city: Wakefield
-street: "Chemin Riverside"
-housenumber: 924
+street: Chemin Riverside
+housenumber: "924"
 phone: ""
-opening_hours: "Mo-Sa 08:00-17:00"
+opening_hours: Mo-Sa 08:00-17:00
 website: ""

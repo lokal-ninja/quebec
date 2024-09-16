@@ -1,11 +1,11 @@
 id: 400847449
-type: way
+type: node
 latitude: 48.56914
 longitude: -78.13072
-postcode: "J9T 2X7"
+postcode: J9T 2X7
 city: Amos
-street: "6E Rue Ouest"
-housenumber: 352
-phone: "+1-819-732-3235"
+street: 6E Rue Ouest
+housenumber: "352"
+phone: +1-819-732-3235
 opening_hours: ""
 website: ""

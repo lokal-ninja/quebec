@@ -1,11 +1,11 @@
 id: 726020484
-type: way
+type: node
 latitude: 45.53517
 longitude: -73.59858
-postcode: "H2S 2H9"
+postcode: H2S 2H9
 city: Montréal
-street: "Rue Boyer"
-housenumber: 6000
+street: Rue Boyer
+housenumber: "6000"
 phone: ""
 opening_hours: ""
 website: ""

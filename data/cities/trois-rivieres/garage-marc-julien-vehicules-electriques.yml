@@ -1,11 +1,11 @@
 id: 1006204685
-type: way
+type: node
 latitude: 46.40623
 longitude: -72.57543
-postcode: "G8T 1E8"
+postcode: G8T 1E8
 city: Trois-Rivières
-street: "Boulevard Thibeau"
-housenumber: 2125
-phone: "+1 (819) 609-8396"
+street: Boulevard Thibeau
+housenumber: "2125"
+phone: +1 (819) 609-8396
 opening_hours: ""
-website: "https://garagemarcjulien.com/"
+website: https://garagemarcjulien.com/

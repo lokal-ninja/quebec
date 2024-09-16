@@ -1,11 +1,11 @@
 id: 167198173
-type: way
+type: node
 latitude: 45.60192
 longitude: -76.49062
-postcode: "J0X 2Y0"
+postcode: J0X 2Y0
 city: Shawville
-street: "Victoria Avenue"
-housenumber: 104
+street: Victoria Avenue
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

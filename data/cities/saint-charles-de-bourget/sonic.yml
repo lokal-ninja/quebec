@@ -1,11 +1,11 @@
 id: 549656918
-type: way
+type: node
 latitude: 48.51676
 longitude: -71.39762
-postcode: "G0V 1G0"
+postcode: G0V 1G0
 city: Saint-Charles-de-Bourget
-street: "Rang 2e"
-housenumber: 358
-phone: "+1-418-672-4832"
+street: Rang 2e
+housenumber: "358"
+phone: +1-418-672-4832
 opening_hours: ""
 website: ""

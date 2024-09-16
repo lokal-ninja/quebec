@@ -1,11 +1,11 @@
 id: 549173374
-type: way
+type: node
 latitude: 47.76049
 longitude: -69.43241
-postcode: "G0L 2J0"
+postcode: G0L 2J0
 city: Saint-Antonin
-street: "QC-185"
-housenumber: 960
-phone: "+1-418-862-8108"
+street: QC-185
+housenumber: "960"
+phone: +1-418-862-8108
 opening_hours: ""
 website: ""

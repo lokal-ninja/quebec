@@ -4,8 +4,8 @@ latitude: 45.52586
 longitude: -73.54975
 postcode: ""
 city: Montréal
-street: "Rue Sainte-Catherine Est"
-housenumber: 2159
+street: Rue Sainte-Catherine Est
+housenumber: "2159"
 phone: ""
-opening_hours: "Mo-We 10:00-18:00; Th,Fr 10:00-21:00; Sa 09:00-17:00; Su 10:00-17:00"
-website: "https://www.lacordee.com/"
+opening_hours: Mo-We 10:00-18:00; Th,Fr 10:00-21:00; Sa 09:00-17:00; Su 10:00-17:00
+website: https://www.lacordee.com/

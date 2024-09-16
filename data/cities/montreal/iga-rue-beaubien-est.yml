@@ -1,11 +1,11 @@
 id: 242890427
-type: way
+type: node
 latitude: 45.57186
 longitude: -73.57148
 postcode: ""
 city: Montréal
-street: "Rue Beaubien Est"
-housenumber: 5000
+street: Rue Beaubien Est
+housenumber: "5000"
 phone: ""
 opening_hours: ""
 website: ""

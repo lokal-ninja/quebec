@@ -1,11 +1,11 @@
 id: 906959445
-type: way
+type: node
 latitude: 45.64841
 longitude: -73.72254
-postcode: "H7J 1A3"
+postcode: H7J 1A3
 city: Laval
-street: "Avenue des Perron"
-housenumber: 3675
-phone: "+1 (450) 625-1158"
+street: Avenue des Perron
+housenumber: "3675"
+phone: +1 (450) 625-1158
 opening_hours: ""
-website: "http://vergergibouleau.com,"
+website: http://vergergibouleau.com,

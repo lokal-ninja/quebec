@@ -4,8 +4,8 @@ latitude: 45.53683
 longitude: -73.61559
 postcode: ""
 city: Montréal
-street: "Rue Jean-Talon Est"
-housenumber: 274
-phone: "+1-514-279-9440"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.vracenfolie.com/"
+street: Rue Jean-Talon Est
+housenumber: "274"
+phone: +1-514-279-9440
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.vracenfolie.com/

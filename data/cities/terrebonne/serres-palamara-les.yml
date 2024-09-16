@@ -1,11 +1,11 @@
 id: 510602905
-type: way
+type: node
 latitude: 45.69234
 longitude: -73.63128
-postcode: "J6W 2T1"
+postcode: J6W 2T1
 city: Terrebonne
-street: "Rue Chapleau"
-housenumber: 126
+street: Rue Chapleau
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00"
+opening_hours: Mo-Su 09:00-19:00
 website: ""

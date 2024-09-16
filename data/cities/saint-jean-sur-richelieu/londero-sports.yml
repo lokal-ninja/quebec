@@ -4,8 +4,8 @@ latitude: 45.31031
 longitude: -73.26451
 postcode: ""
 city: Saint-Jean-sur-Richelieu
-street: "Boulevard du Séminaire Nord"
-housenumber: 349
-phone: "+1-450-349-2332"
-opening_hours: "Mo-We 09:30-17:30; Th-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.londerosports.com/"
+street: Boulevard du Séminaire Nord
+housenumber: "349"
+phone: +1-450-349-2332
+opening_hours: Mo-We 09:30-17:30; Th-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.londerosports.com/

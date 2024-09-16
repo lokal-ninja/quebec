@@ -1,11 +1,11 @@
 id: 409157465
-type: way
+type: node
 latitude: 49.21366
 longitude: -68.1946
 postcode: ""
 city: Baie-Comeau
-street: "Avenue Damase-Potvin"
-housenumber: 192
-phone: "+1-418-296-9490"
+street: Avenue Damase-Potvin
+housenumber: "192"
+phone: +1-418-296-9490
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 549236196
-type: way
+type: node
 latitude: 49.24343
 longitude: -68.14917
-postcode: "G4Z 2X9"
+postcode: G4Z 2X9
 city: Baie-Comeau
-street: "Avenue Le Gardeur"
-housenumber: 6
-phone: "+1-418-296-8825"
+street: Avenue Le Gardeur
+housenumber: "6"
+phone: +1-418-296-8825
 opening_hours: ""
 website: ""

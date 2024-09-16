@@ -1,11 +1,11 @@
 id: 736838437
-type: way
+type: node
 latitude: 46.78549
 longitude: -71.32444
-postcode: "G1X 3V4"
+postcode: G1X 3V4
 city: Québec
-street: "Avenue Kepler"
-housenumber: 3001
+street: Avenue Kepler
+housenumber: "3001"
 phone: ""
-opening_hours: "09:00-21:00"
+opening_hours: 09:00-21:00
 website: ""

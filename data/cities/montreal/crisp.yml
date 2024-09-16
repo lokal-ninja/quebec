@@ -4,8 +4,8 @@ latitude: 45.52097
 longitude: -73.5623
 postcode: ""
 city: Montréal
-street: "Ontario"
-housenumber: 1188
-phone: "+1 514 934 3300"
-opening_hours: "Tu-We 11:00-19:00; Th-Fr 11:00-20:00; Sa 10:00-17:00"
-website: "https://www.crispmtl.com/"
+street: Ontario
+housenumber: "1188"
+phone: +1 514 934 3300
+opening_hours: Tu-We 11:00-19:00; Th-Fr 11:00-20:00; Sa 10:00-17:00
+website: https://www.crispmtl.com/

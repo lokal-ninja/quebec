@@ -1,11 +1,11 @@
 id: 275324896
-type: way
+type: node
 latitude: 48.24334
 longitude: -79.0258
 postcode: ""
 city: Rouyn-Noranda
-street: "Rue du Terminus Ouest"
-housenumber: 100
+street: Rue du Terminus Ouest
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

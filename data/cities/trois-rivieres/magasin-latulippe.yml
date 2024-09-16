@@ -1,11 +1,11 @@
 id: 911771277
-type: way
+type: node
 latitude: 46.31961
 longitude: -72.58459
-postcode: "G9B 0Y9"
+postcode: G9B 0Y9
 city: Trois-Rivières
-street: "Rue des Grands-Marchés"
-housenumber: 2100
-phone: "+1 (819) 299-3024"
+street: Rue des Grands-Marchés
+housenumber: "2100"
+phone: +1 (819) 299-3024
 opening_hours: ""
-website: "https://latulippe.com/"
+website: https://latulippe.com/

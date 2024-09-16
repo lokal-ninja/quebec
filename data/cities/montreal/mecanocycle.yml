@@ -2,10 +2,10 @@ id: 4307885606
 type: node
 latitude: 45.48912
 longitude: -73.56622
-postcode: "H3J 1R1"
+postcode: H3J 1R1
 city: Montréal
-street: "Rue William"
-housenumber: 1619
-phone: "+1-514-937-6489"
-opening_hours: "Mo-Fr 09:00-19:00; Sa-Su 12:00-17:00"
-website: "http://mecanocycle.ca/"
+street: Rue William
+housenumber: "1619"
+phone: +1-514-937-6489
+opening_hours: Mo-Fr 09:00-19:00; Sa-Su 12:00-17:00
+website: http://mecanocycle.ca/

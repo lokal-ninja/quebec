@@ -1,11 +1,11 @@
 id: 427998715
-type: way
+type: node
 latitude: 45.43085
 longitude: -75.73343
-postcode: "J8Y 3W7"
+postcode: J8Y 3W7
 city: Gatineau
-street: "Boulevard Saint-Joseph"
-housenumber: 121
+street: Boulevard Saint-Joseph
+housenumber: "121"
 phone: ""
 opening_hours: ""
 website: ""

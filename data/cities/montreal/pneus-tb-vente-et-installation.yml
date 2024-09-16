@@ -1,11 +1,11 @@
 id: 1018942095
-type: way
+type: node
 latitude: 45.54449
 longitude: -73.61039
 postcode: ""
 city: Montréal
-street: "Rue Jean-Talon Est"
-housenumber: 1253
-phone: "+1-514-270-7406"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
+street: Rue Jean-Talon Est
+housenumber: "1253"
+phone: +1-514-270-7406
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
 website: ""

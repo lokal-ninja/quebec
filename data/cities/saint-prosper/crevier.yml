@@ -2,10 +2,10 @@ id: 5312090613
 type: node
 latitude: 46.21873
 longitude: -70.49442
-postcode: "G0M"
+postcode: G0M
 city: Saint-Prosper
-street: "25e Avenue"
-housenumber: 1400
+street: 25e Avenue
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

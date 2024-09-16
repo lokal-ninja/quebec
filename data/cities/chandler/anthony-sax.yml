@@ -1,11 +1,11 @@
 id: 481041640
-type: way
+type: node
 latitude: 48.3495
 longitude: -64.69219
-postcode: "G0C 1K0"
+postcode: G0C 1K0
 city: Chandler
-street: "Boulevard René-Lévesque Ouest"
-housenumber: 377
-phone: "+1-418-689-2212"
+street: Boulevard René-Lévesque Ouest
+housenumber: "377"
+phone: +1-418-689-2212
 opening_hours: ""
 website: ""

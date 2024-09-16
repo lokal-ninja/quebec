@@ -1,11 +1,11 @@
 id: 167187656
-type: way
+type: node
 latitude: 45.60373
 longitude: -76.49078
-postcode: "J0X 2Y0"
+postcode: J0X 2Y0
 city: Shawville
-street: "Main Street"
-housenumber: 325
+street: Main Street
+housenumber: "325"
 phone: ""
 opening_hours: ""
-website: "https://www.homehardware.ca/en/store/10411"
+website: https://www.homehardware.ca/en/store/10411

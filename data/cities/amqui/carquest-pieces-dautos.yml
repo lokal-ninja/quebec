@@ -1,11 +1,11 @@
 id: 1020621278
-type: way
+type: node
 latitude: 48.47123
 longitude: -67.44151
-postcode: "G5J 3H4"
+postcode: G5J 3H4
 city: Amqui
-street: "Rue Proulx"
-housenumber: 155
-phone: "+1 418 629-4299"
+street: Rue Proulx
+housenumber: "155"
+phone: +1 418 629-4299
 opening_hours: ""
 website: ""

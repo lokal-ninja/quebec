@@ -1,11 +1,11 @@
 id: 764653268
-type: way
+type: node
 latitude: 45.0547
 longitude: -72.39374
 postcode: ""
 city: Potton
-street: "Rue Principale"
-housenumber: 337
+street: Rue Principale
+housenumber: "337"
 phone: ""
 opening_hours: ""
 website: ""

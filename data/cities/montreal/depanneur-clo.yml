@@ -1,11 +1,11 @@
 id: 236502178
-type: way
+type: node
 latitude: 45.55856
 longitude: -73.53297
-postcode: "H1V 3G9"
+postcode: H1V 3G9
 city: Montréal
-street: "Viau"
-housenumber: 1697
-phone: "+1-514-257-7222"
+street: Viau
+housenumber: "1697"
+phone: +1-514-257-7222
 opening_hours: ""
 website: ""

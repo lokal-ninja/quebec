@@ -1,11 +1,11 @@
 id: 39857232
-type: way
+type: node
 latitude: 45.44998
 longitude: -75.75469
-postcode: "J8Y 6S8"
+postcode: J8Y 6S8
 city: Gatineau
-street: "Boulevard de la Cité-des-Jeunes"
-housenumber: 214
+street: Boulevard de la Cité-des-Jeunes
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 882128936
-type: way
+type: node
 latitude: 46.35669
 longitude: -72.60917
-postcode: "G8Y 5A9"
+postcode: G8Y 5A9
 city: Trois-Rivières-Ouest
-street: "Boulevard des Chenaux"
-housenumber: 6465
-phone: "+1 819 378 3352"
+street: Boulevard des Chenaux
+housenumber: "6465"
+phone: +1 819 378 3352
 opening_hours: ""
 website: ""

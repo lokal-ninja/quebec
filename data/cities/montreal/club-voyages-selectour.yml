@@ -2,10 +2,10 @@ id: 5530687804
 type: node
 latitude: 45.4745
 longitude: -73.62345
-postcode: "H4A 1E4"
+postcode: H4A 1E4
 city: Montréal
-street: "Avenue de Monkland"
-housenumber: 5686
-phone: "+1 514 482 6565"
+street: Avenue de Monkland
+housenumber: "5686"
+phone: +1 514 482 6565
 opening_hours: ""
-website: "https://www.clubvoyages.com/"
+website: https://www.clubvoyages.com/

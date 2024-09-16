@@ -1,11 +1,11 @@
 id: 1308531124
-type: way
+type: node
 latitude: 46.32319
 longitude: -73.64333
-postcode: "J0K 2K0"
+postcode: J0K 2K0
 city: Sainte-Émélie-de-l'Énergie
-street: "Rue Saint-Michel"
-housenumber: 421
+street: Rue Saint-Michel
+housenumber: "421"
 phone: ""
 opening_hours: ""
 website: ""

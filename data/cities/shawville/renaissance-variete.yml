@@ -1,11 +1,11 @@
 id: 167219011
-type: way
+type: node
 latitude: 45.60471
 longitude: -76.49111
-postcode: "J0X 2Y0"
+postcode: J0X 2Y0
 city: Shawville
-street: "Centre Street"
-housenumber: 193
+street: Centre Street
+housenumber: "193"
 phone: ""
 opening_hours: ""
 website: ""

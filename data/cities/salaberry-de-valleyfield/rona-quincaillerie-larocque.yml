@@ -1,11 +1,11 @@
 id: 389990146
-type: way
+type: node
 latitude: 45.24112
 longitude: -74.12611
 postcode: ""
 city: Salaberry-de-Valleyfield
-street: "Chemin Larocque"
-housenumber: 420
+street: Chemin Larocque
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

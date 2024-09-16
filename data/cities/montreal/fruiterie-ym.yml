@@ -4,8 +4,8 @@ latitude: 45.52502
 longitude: -73.6041
 postcode: ""
 city: Montréal
-street: "Rue Bernard Ouest"
-housenumber: 186
-phone: "+1 5142708460"
-opening_hours: "Mo-Su 09:00-22:00"
+street: Rue Bernard Ouest
+housenumber: "186"
+phone: +1 5142708460
+opening_hours: Mo-Su 09:00-22:00
 website: ""

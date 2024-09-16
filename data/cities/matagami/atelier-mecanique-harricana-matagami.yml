@@ -1,11 +1,11 @@
 id: 750945633
-type: way
+type: node
 latitude: 49.75615
 longitude: -77.63295
-postcode: "J0Y 2A0"
+postcode: J0Y 2A0
 city: Matagami
-street: "Boulevard Matagami"
-housenumber: 101
+street: Boulevard Matagami
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

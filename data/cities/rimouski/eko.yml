@@ -1,11 +1,11 @@
 id: 346908392
-type: way
+type: node
 latitude: 48.45861
 longitude: -68.49711
-postcode: "G5M 1X1"
+postcode: G5M 1X1
 city: Rimouski
-street: "Montee Industrielle-Et-Commerciale"
-housenumber: 352
-phone: "+1-418-723-2344"
+street: Montee Industrielle-Et-Commerciale
+housenumber: "352"
+phone: +1-418-723-2344
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 182249110
-type: way
+type: node
 latitude: 45.4773
 longitude: -75.69684
-postcode: "J8T 3R6"
+postcode: J8T 3R6
 city: Gatineau
-street: "Boulevard Maloney Ouest"
-housenumber: 1080
+street: Boulevard Maloney Ouest
+housenumber: "1080"
 phone: ""
 opening_hours: ""
-website: "https://www.blindstogo.com/fr/magasins/gatineau"
+website: https://www.blindstogo.com/fr/magasins/gatineau

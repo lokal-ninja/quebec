@@ -1,11 +1,11 @@
 id: 1191319976
-type: way
+type: node
 latitude: 46.57894
 longitude: -70.2965
-postcode: "G0R 3M0"
+postcode: G0R 3M0
 city: Saint-Magloire
-street: "Route 281"
-housenumber: 381
-phone: "+1 418-257-4411"
+street: Route 281
+housenumber: "381"
+phone: +1 418-257-4411
 opening_hours: ""
 website: ""

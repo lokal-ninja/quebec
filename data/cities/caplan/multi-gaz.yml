@@ -1,11 +1,11 @@
 id: 549180148
-type: way
+type: node
 latitude: 48.08682
 longitude: -65.63109
-postcode: "G0C 1H0"
+postcode: G0C 1H0
 city: Caplan
-street: "Boulevard Perron Est"
-housenumber: 354
-phone: "+1-418-388-2101"
+street: Boulevard Perron Est
+housenumber: "354"
+phone: +1-418-388-2101
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 95667413
-type: way
+type: node
 latitude: 45.57872
 longitude: -75.40833
 postcode: ""
 city: Gatineau
-street: "Rue Dollard"
-housenumber: 901
+street: Rue Dollard
+housenumber: "901"
 phone: ""
 opening_hours: ""
 website: ""

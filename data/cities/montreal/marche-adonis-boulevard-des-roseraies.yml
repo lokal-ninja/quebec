@@ -1,11 +1,11 @@
 id: 46842671
-type: way
+type: node
 latitude: 45.59873
 longitude: -73.55939
-postcode: "H1M 2T5"
+postcode: H1M 2T5
 city: Montréal
-street: "Boulevard des Roseraies"
-housenumber: 7250
+street: Boulevard des Roseraies
+housenumber: "7250"
 phone: ""
 opening_hours: ""
 website: ""

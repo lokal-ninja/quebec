@@ -1,11 +1,11 @@
 id: 350616434
-type: way
+type: node
 latitude: 45.5925
 longitude: -73.62495
-postcode: "H1G 3G7"
+postcode: H1G 3G7
 city: Montréal-Nord
-street: "Rue Forest"
-housenumber: 4845
+street: Rue Forest
+housenumber: "4845"
 phone: ""
 opening_hours: ""
 website: ""

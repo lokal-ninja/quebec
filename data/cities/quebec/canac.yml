@@ -2,10 +2,10 @@ id: 5866614595
 type: node
 latitude: 46.81138
 longitude: -71.24874
-postcode: "G1N3E5"
+postcode: G1N3E5
 city: Québec
-street: "Rue Marie-de-l'Incarnation"
-housenumber: 49
-phone: "+1 418 681-6221"
-opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00"
-website: "https://www.canac.ca/"
+street: Rue Marie-de-l'Incarnation
+housenumber: "49"
+phone: +1 418 681-6221
+opening_hours: Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00
+website: https://www.canac.ca/
