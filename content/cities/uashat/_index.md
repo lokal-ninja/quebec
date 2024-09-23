@@ -1,6 +1,6 @@
 ---
 title: Uashat
 url: /uashat/
-latitude: 50.227
-longitude: -66.39
+latitude: 50.219
+longitude: -66.403
 ---
