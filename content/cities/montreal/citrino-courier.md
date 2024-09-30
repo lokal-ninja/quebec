@@ -1,5 +1,5 @@
 ---
-title: "CITRINO COURIER"
+title: "Citrino Courier"
 url: /montreal/citrino-courier/
 shop: general
 ---
