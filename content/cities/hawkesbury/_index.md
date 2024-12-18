@@ -1,6 +1,6 @@
 ---
 title: Hawkesbury
 url: /hawkesbury/
-latitude: 45.592
-longitude: -74.598
+latitude: 45.611
+longitude: -74.595
 ---
