@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /montreal/bell-de-salaberry/
+url: /montreal/bell-rue-de-salaberry/
 shop: mobile phone
 ---
