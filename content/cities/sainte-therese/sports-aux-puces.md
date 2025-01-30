@@ -1,5 +1,5 @@
 ---
 title: "Sports-aux-Puces"
-url: /blainville/sports-aux-puces/
+url: /sainte-therese/sports-aux-puces/
 shop: sports
 ---
