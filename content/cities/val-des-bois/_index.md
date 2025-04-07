@@ -1,6 +1,6 @@
 ---
 title: Val-des-Bois
 url: /val-des-bois/
-latitude: 45.911
-longitude: -75.597
+latitude: 45.901
+longitude: -75.604
 ---
