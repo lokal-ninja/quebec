@@ -7,5 +7,5 @@ city: Montréal
 street: Rue Laurendeau
 housenumber: "6066"
 phone: +1 514 769 9663
-opening_hours: ""
+opening_hours: Mo,Su off; Tu-Sa 08:30-15:00
 website: ""

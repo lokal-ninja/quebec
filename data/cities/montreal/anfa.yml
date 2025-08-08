@@ -7,7 +7,5 @@ city: Montréal
 street: Rue Saint-Denis
 housenumber: "3820"
 phone: +1 438 887 8455
-opening_hours: Monday CLOSED Tuesday 11:00 AM - 7:00 PM Wednesday 11:00 AM - 7:00 PM
-    Thursday 11:00 AM - 9:00 PM Friday 11:00 AM - 9:00 PM Saturday 11:00 AM - 6:00 PM
-    Sunday 12:00 AM - 6:00 PM
+opening_hours: Tu,We 11:00-19:00; Th,Fr 11:00-21:00; Sa 11:00-18:00; Su 12:00-18:00
 website: https://www.facebook.com/people/Anfa-Salon/100076241768184/

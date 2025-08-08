@@ -1,5 +1,5 @@
 ---
 title: "BMR"
 url: /senneterre/bmr/
-shop: doityourself
+shop: hardware
 ---

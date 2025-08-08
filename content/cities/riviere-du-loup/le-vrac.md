@@ -1,5 +1,5 @@
 ---
-title: "Le vrac"
+title: "Le Vrac"
 url: /riviere-du-loup/le-vrac/
-shop: confectionery
+shop: supermarket
 ---

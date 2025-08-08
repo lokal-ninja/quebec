@@ -7,5 +7,5 @@ city: Québec
 street: Rue des Sables
 housenumber: "507"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Fr 13:00-21:00; Sa,Su 10:00-17:00
 website: https://atelierlapatente.org/

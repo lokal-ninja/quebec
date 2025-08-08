@@ -7,5 +7,6 @@ city: Gatineau
 street: Rue Bellehumeur
 housenumber: "215"
 phone: +1-514-228-7384
-opening_hours: Mo-Fr 10:00-17:00; Sa 09:00-17:00; Su 10:00-17:00
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00;
+    PH off
 website: https://trevi.com

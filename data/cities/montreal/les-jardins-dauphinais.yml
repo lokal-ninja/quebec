@@ -7,5 +7,5 @@ city: Montréal
 street: Rue Ontario Est
 housenumber: "4445"
 phone: +1-514-253-8327
-opening_hours: ""
+opening_hours: Mo,We,Th,Sa,Su 7:00-18:00; Tu 7:00-17:00; Fr 7:00-18:30
 website: http://www.jardinsdauphinais.com
