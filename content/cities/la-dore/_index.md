@@ -1,6 +1,6 @@
 ---
 title: La Doré
 url: /la-dore/
-latitude: 48.772
-longitude: -72.716
+latitude: 48.716
+longitude: -72.651
 ---
