@@ -7,5 +7,5 @@ city: Trois-Rivières
 street: Boulevard Thibeau
 housenumber: "848"
 phone: "+18193708988"
-opening_hours: Mo-Fr 09:00-21:00; Sa-Su 09:00-17:00
+opening_hours: Sa,Su 09:00-17:00; Mo-We 09:00-18:00; Th,Fr 09:00-21:00
 website: ""
