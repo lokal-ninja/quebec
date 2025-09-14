@@ -1,5 +1,5 @@
 ---
-title: "Planète Pain"
+title: "Planète pain"
 url: /montreal/planete-pain/
 shop: bakery
 ---
