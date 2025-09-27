@@ -1,5 +1,5 @@
 ---
-title: "CANAC"
+title: "Canac"
 url: /st-augustin-de-desmaures/canac/
-shop: doityourself
+shop: hardware
 ---
