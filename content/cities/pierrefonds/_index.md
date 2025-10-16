@@ -1,6 +1,6 @@
 ---
 title: Pierrefonds
 url: /pierrefonds/
-latitude: 45.507
-longitude: -73.821
+latitude: 45.463
+longitude: -73.866
 ---
