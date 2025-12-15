@@ -1,6 +1,6 @@
 ---
 title: Saguenay
 url: /saguenay/
-latitude: 48.403
-longitude: -71.057
+latitude: 48.415
+longitude: -71.047
 ---

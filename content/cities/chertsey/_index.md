@@ -1,6 +1,6 @@
 ---
 title: Chertsey
 url: /chertsey/
-latitude: 46.108
-longitude: -73.827
+latitude: 46.123
+longitude: -73.852
 ---
