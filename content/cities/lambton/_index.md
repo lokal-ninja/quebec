@@ -1,6 +1,6 @@
 ---
 title: Lambton
 url: /lambton/
-latitude: 45.834
-longitude: -71.093
+latitude: 45.836
+longitude: -71.092
 ---
