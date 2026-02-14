@@ -1,6 +1,6 @@
 ---
 title: Schefferville
 url: /schefferville/
-latitude: 54.8
-longitude: -66.821
+latitude: 54.804
+longitude: -66.809
 ---

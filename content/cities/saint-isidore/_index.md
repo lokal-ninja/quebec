@@ -1,6 +1,6 @@
 ---
 title: Saint-Isidore
 url: /saint-isidore/
-latitude: 45.305
-longitude: -73.693
+latitude: 45.301
+longitude: -73.68
 ---
