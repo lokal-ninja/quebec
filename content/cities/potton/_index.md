@@ -1,6 +1,6 @@
 ---
 title: Potton
 url: /potton/
-latitude: 45.055
-longitude: -72.393
+latitude: 45.05
+longitude: -72.391
 ---
