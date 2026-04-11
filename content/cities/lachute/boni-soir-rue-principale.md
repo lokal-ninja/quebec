@@ -1,5 +1,5 @@
 ---
 title: "Boni Soir"
-url: /lachute/boni-soir-avenue-bethany/
+url: /lachute/boni-soir-rue-principale/
 shop: convenience
 ---
