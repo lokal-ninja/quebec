@@ -1,6 +1,6 @@
 ---
 title: Verchères
 url: /vercheres/
-latitude: 45.775
-longitude: -73.357
+latitude: 45.776
+longitude: -73.358
 ---
