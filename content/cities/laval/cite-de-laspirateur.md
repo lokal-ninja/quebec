@@ -1,5 +1,5 @@
 ---
-title: "Cité de l'aspirateur"
+title: "Cité de l'Aspirateur"
 url: /laval/cite-de-laspirateur/
-shop: appliance
+shop: vacuum cleaner
 ---
