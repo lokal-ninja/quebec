@@ -1,6 +1,6 @@
 ---
 title: Trois-Rivières
 url: /trois-rivieres/
-latitude: 46.372
-longitude: -72.535
+latitude: 46.366
+longitude: -72.509
 ---
