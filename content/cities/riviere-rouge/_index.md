@@ -1,6 +1,6 @@
 ---
-title: Rivière-Rouge
+title: Rivière-rouge
 url: /riviere-rouge/
-latitude: 46.401
+latitude: 46.402
 longitude: -74.867
 ---
