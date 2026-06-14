@@ -1,6 +1,6 @@
 ---
 title: Saint-Barnabé
 url: /saint-barnabe/
-latitude: 46.398
-longitude: -72.876
+latitude: 46.4
+longitude: -72.872
 ---
