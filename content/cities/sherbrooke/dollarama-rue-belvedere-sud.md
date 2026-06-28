@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /quebec/dollarama-autoroute-duplessis/
+url: /sherbrooke/dollarama-rue-belvedere-sud/
 shop: variety store
 ---

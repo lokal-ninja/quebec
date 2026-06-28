@@ -1,5 +1,5 @@
 ---
 title: "Sonic"
-url: /st-felix-de-kingsey/sonic/
+url: /saint-felix-de-kingsey/sonic/
 shop: convenience
 ---
