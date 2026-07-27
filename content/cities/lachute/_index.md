@@ -1,6 +1,6 @@
 ---
 title: Lachute
 url: /lachute/
-latitude: 45.664
-longitude: -74.301
+latitude: 45.657
+longitude: -74.333
 ---
