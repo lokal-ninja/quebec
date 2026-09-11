@@ -1,6 +1,6 @@
 ---
-title: Temiscaming
+title: Témiscaming
 url: /temiscaming/
-latitude: 46.737
-longitude: -79.067
+latitude: 46.734
+longitude: -79.064
 ---

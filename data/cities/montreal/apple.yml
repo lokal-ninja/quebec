@@ -7,6 +7,5 @@ city: Montréal
 street: Rue Sainte-Catherine Ouest
 housenumber: "1255"
 phone: +1-514-906-8400
-opening_hours: "lundi\t10h00–20h00 mardi\t10h00–20h00 mercredi\t10h00–20h00 jeudi\t10h00–21h00
-    vendredi\t10h00–21h00 samedi\t10h00–18h00 dimanche\t10h00–17h00"
+opening_hours: Mo-We 10:00-20:00; Th-Fr 10:00-21:00; Sa 10:00-18:00; Su 10:00-17:00
 website: ""

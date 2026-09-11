@@ -1,6 +1,6 @@
 ---
 title: Sept-Îles
 url: /sept-iles/
-latitude: 50.134
-longitude: -66.62
+latitude: 50.215
+longitude: -66.38
 ---
