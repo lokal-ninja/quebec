@@ -7,19 +7,6 @@ city: Saint-Leonard
 street: Jean-Talon E
 housenumber: "4265"
 phone: "+15143754005"
-opening_hours: |
-    Monday
-    9 a.m.–5 p.m.
-    Tuesday
-    8 a.m.–9 p.m.
-    Wednesday
-    8 a.m.–9 p.m.
-    Thursday
-    8 a.m.–9 p.m.
-    Friday
-    8 a.m.–9 p.m.
-    Saturday
-    8 a.m.–9 p.m.
-    Sunday
-    8 a.m.–9 p.m.
+opening_hours: Mo 09:00-17:00; Tu 08:00-21:00; We 08:00-21:00; Th 08:00-21:00; Fr
+    08:00-21:00; Sa 08:00-21:00; Su 08:00-21:00
 website: ""
