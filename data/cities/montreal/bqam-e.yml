@@ -7,6 +7,6 @@ city: Montreal
 street: Rue Sherbrooke Ouest
 housenumber: "200"
 phone: +1 514-987-3000 ext. 8574
-opening_hours: Mo 13:00-20:00; Tu 16:00-20:00; We 16:00-20:00; Th 16:00-20:00; Fr-Sa
-    off; Su 10:00-12:00; PH off
+opening_hours: Mo 13:00-20:00; Tu 16:00-20:00 "en mixité choisie"; We 16:00-20:00;
+    Th 16:00-20:00; Fr-Sa off; Su 10:00-12:00; PH off
 website: https://bqam-e.org
