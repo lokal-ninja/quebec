@@ -7,5 +7,6 @@ city: Montréal
 street: Chemin de la Côte-des-Neiges
 housenumber: "5252"
 phone: ""
-opening_hours: Mo 12:00-20:00; Tu,We,Sa 10:00-20:00; Th,Fr 10:00-21:00
+opening_hours: Su,Mo 12:00-19:00; Tu 11:00-19:00; Fr 10:00-21:00; We 11:00-20:00;
+    Th 11:00-21:00; Sa 10:00-20:00
 website: ""

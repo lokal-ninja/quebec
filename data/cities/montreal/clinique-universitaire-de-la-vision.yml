@@ -7,5 +7,5 @@ city: Montréal
 street: Rue Jean-Brillant
 housenumber: "3744"
 phone: +1-514-343-6082
-opening_hours: ""
+opening_hours: Mo,We,Fr 09:00-17:00; Tu,Th 09:00-21:00; Sa,Su off
 website: ""
